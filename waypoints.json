@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-11T15:38:32.059Z",
+  "exportedAt": "2026-08-11T18:21:28.390Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -49989,12 +49989,18 @@
   "measurements": [],
   "deletedIds": {
     "waypoints": [
-      "1786440825581-onzbb9"
+      "1786440825581-onzbb9",
+      "1786464800617-zd1ewu",
+      "1786467074796-vvub7g",
+      "1786464824136-lsjvul"
     ],
-    "rides": [],
+    "rides": [
+      "1786466212086-8xbwdi"
+    ],
     "measurements": [
       "1786300876826-pxifky",
-      "1786462152131-avp2hn"
+      "1786462152131-avp2hn",
+      "1786467126093-8uuaa0"
     ]
   },
   "settings": {
