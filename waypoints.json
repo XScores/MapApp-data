@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-11T09:33:02.952Z",
+  "exportedAt": "2026-08-11T09:55:01.293Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -1491,6 +1491,25 @@
       "weather": {
         "tempC": 25.79,
         "icon": "01d",
+        "description": "clear sky"
+      }
+    },
+    {
+      "id": "1786440825581-onzbb9",
+      "lat": 45.45669901326596,
+      "lng": -75.60752391815187,
+      "name": "TEst",
+      "notes": "",
+      "code": "wildatoll.bokiga.doleso",
+      "isCurrentLocation": false,
+      "markerStyle": "pin",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "photos": [],
+      "createdAt": 1786440825582,
+      "weather": {
+        "tempC": 17.09,
+        "icon": "01n",
         "description": "clear sky"
       }
     }
