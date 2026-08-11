@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-11T14:35:53.574Z",
+  "exportedAt": "2026-08-11T14:39:35.710Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -28782,7 +28782,7 @@
     {
       "id": "1786128112721-1kmlt6",
       "activityType": "hike",
-      "name": "Connaught Down Spakks to Kent",
+      "name": "Connaught Down Sparks to Kent",
       "notes": "",
       "startTime": 1786126973059,
       "endTime": 1786128083389,
@@ -50081,7 +50081,6 @@
       "markerColor": "#34d399",
       "markerEmoji": "🏠",
       "notes": "4 Delong Drive",
-      "hexColor": null,
       "photos": []
     },
     "anchorOverrides": {}
