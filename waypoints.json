@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-11T10:47:59.573Z",
+  "exportedAt": "2026-08-11T14:35:27.237Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -1491,25 +1491,6 @@
       "weather": {
         "tempC": 25.79,
         "icon": "01d",
-        "description": "clear sky"
-      }
-    },
-    {
-      "id": "1786440825581-onzbb9",
-      "lat": 45.45669901326596,
-      "lng": -75.60752391815187,
-      "name": "TEst",
-      "notes": "",
-      "code": "wildatoll.bokiga.doleso",
-      "isCurrentLocation": false,
-      "markerStyle": "pin",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "📍",
-      "photos": [],
-      "createdAt": 1786440825582,
-      "weather": {
-        "tempC": 17.09,
-        "icon": "01n",
         "description": "clear sky"
       }
     }
@@ -28801,7 +28782,7 @@
     {
       "id": "1786128112721-1kmlt6",
       "activityType": "hike",
-      "name": "Connaught Down Spakks to Kent",
+      "name": "Connaught Down Sparks to Kent",
       "notes": "",
       "startTime": 1786126973059,
       "endTime": 1786128083389,
@@ -50083,17 +50064,24 @@
       "createdAt": 1786300876826
     }
   ],
+  "deletedIds": {
+    "waypoints": [
+      "1786440825581-onzbb9"
+    ],
+    "rides": [],
+    "measurements": []
+  },
   "settings": {
     "home": {
-      "lat": 45.45342908544782,
-      "lng": -75.60799437590362,
+      "lat": 45.4533625,
+      "lng": -75.608026,
       "zoom": 15,
       "name": "Home",
       "markerStyle": "emoji",
       "markerColor": "#34d399",
       "markerEmoji": "🏠",
       "notes": "4 Delong Drive",
-      "photos": []
+      "hexColor": "#22d3ee"
     },
     "anchorOverrides": {}
   }
