@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-11T14:39:35.710Z",
+  "exportedAt": "2026-08-11T14:42:22.804Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -1492,6 +1492,25 @@
         "tempC": 25.79,
         "icon": "01d",
         "description": "clear sky"
+      }
+    },
+    {
+      "id": "1786459327359-wwmnky",
+      "lat": 45.419212230168334,
+      "lng": -75.70275574922563,
+      "name": "Work - 112 Kent",
+      "notes": "",
+      "code": "wildatoll.bokera.niboma",
+      "isCurrentLocation": false,
+      "markerStyle": "emoji",
+      "markerColor": "#ef4444",
+      "markerEmoji": "🏢",
+      "photos": [],
+      "createdAt": 1786459327359,
+      "weather": {
+        "tempC": 23.62,
+        "icon": "03d",
+        "description": "scattered clouds"
       }
     }
   ],
