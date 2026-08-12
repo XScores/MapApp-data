@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-12T01:27:00.437Z",
+  "exportedAt": "2026-08-12T01:27:12.717Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -50132,7 +50132,6 @@
       "markerColor": "#34d399",
       "markerEmoji": "🏠",
       "notes": "4 Delong Drive",
-      "hexColor": null,
       "photos": []
     },
     "anchorOverrides": {}
