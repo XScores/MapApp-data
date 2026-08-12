@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-12T01:06:24.964Z",
+  "exportedAt": "2026-08-12T01:22:56.658Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -50122,14 +50122,15 @@
   },
   "settings": {
     "home": {
-      "lat": 45.45342908544782,
-      "lng": -75.60799437590362,
+      "lat": 45.4533625,
+      "lng": -75.608026,
       "zoom": 15,
       "name": "Home",
       "markerStyle": "emoji",
       "markerColor": "#34d399",
       "markerEmoji": "🏠",
       "notes": "4 Delong Drive",
+      "hexColor": null,
       "photos": []
     },
     "anchorOverrides": {}
