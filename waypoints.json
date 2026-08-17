@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-17T17:58:02.580Z",
+  "exportedAt": "2026-08-17T20:41:14.659Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -631,7 +631,7 @@
           "repoPath": "images/1mjwyey-2ka0.jpg"
         }
       ],
-      "updatedAt": 1786886537676,
+      "updatedAt": 1786961373374,
       "createdAt": 1786528054703,
       "weather": {
         "tempC": 15.49,
@@ -2585,7 +2585,7 @@
       "lat": 44.94365,
       "lng": -76.80029,
       "name": "Crotch Site 69",
-      "notes": "BOAT ACCESS ONLY - MAINLAND SITE Level, open site with large smooth rocks; Room enough for 1-2 tents. GPS Coordinates: Lat: 44.94365 °N - 76.80029 °W What3words Location: hunch.heavily.parrot\n\nFire Pit\nBoat Access Only\nPrivy\n\nI’ve camped here - great site!!",
+      "notes": "BOAT ACCESS ONLY - MAINLAND SITE Level, open site with large smooth rocks; Room enough for 1-2 tents. GPS Coordinates: Lat: 44.94365 °N - 76.80029 °W What3words Location: hunch.heavily.parrot\n\nFire Pit\nBoat Access Only\nPrivy\n\nI’ve camped here - great site!!\n\n**August 15 - 2020**\nBeautiful trip with Guy and Emma. Crotch Lake site 69. Short drive down from Oompah to the lake. Missed the turn-off and had to backtrack to find South Bush Road. \n\nWith three poeple bought a $19 inflatable kids boat from Walmart and towed Emma behind the Canoe. Emma was wearing her pink cowboy hat and I handed her a frozen Margarita as she climbed in to the boat. The people loading their canoes next to us with minimal gear for a long portage laden trip looked at all the gear we were bringing and were a bit shocked. One girl said \"I want to go camping with them - It looks like they will be having more fun!\" \n\nSite 69 was amazing; Canadian Shield slabs on the point. Big site. Nice view of the sunrise. Great swimming, no weeds not slippery on the rocks and deep drop off. It was a bit windy being exposed on the point. Nice spots in the trees for tents, could do 3 tents there.\n\nLoaded up the canoe and an inflatable raft to tow Emma. Emma enjoyed the ride, wore her pink. Cowboy hat and read her book. Lot of stuff - shockingly too many cans of drinks.\n\nFriday and Saturday were beautiful, stars were amazing on Friday night in the dark sky preserve, Saturday night had a few clouds.\n\nSunday started off clear but clouded over quickly. Big thunder storm started at 11:00, with whitecaps on the lake. Passed by at 1:00. We started to pack up when the rain started, but it started to pour so we stopped. I quickly set up a tarp over the main area, and had to defend from the big puddles that started to form on the tarp. \n\nSurprisingly the tarp was not waterproof, and we did see some dripping underneath the pools on top of it, so it was important to keep moving the water off the tarp. Emma came down to help, while Guy took a nice nap in his tent. Good thing as there wasn’t much extra room under the tarp. Tents did not leak. Storm passed after an hour or so, then we packed up and left the site at 3:10, arrived at boat launch at 3:40. Paddled out in flat water and calm winds 30 minute canoe to the site. \n\nWindscreen on the stove needs to be re-taped. Cedar planked salmon on the fire worked well; covered the entire thing top and bottom with aluminum foil so it cooked evenly and the plank did not catch on fire. Hollandaise and green beans went well. Need new aluminum foil and new dartboard, the rain destroyed it.\n\nCamping Olympics:\nGuy won first game of crib, but it was close. I won the next two, Emma joined in and we played three handed. Skunked Emma one game, and won the second game as well. So I won the Crib event.\n\nUno\nAfter we figured out the rules,  Emma was doing the best at Uno; Guy complained that we were ganging up on him, but only because he was a big baby.\n\nFarkle\nGuy went over 10000 first and we all had one more chance to catch up and beat him. Both Emma and I were far behind, more than 4000 points behind.. Emma started well, but soon Farkeled. Then I one on a great roll and made more than the 4500 that I needed to beat Guy. Guy then tried one more roll to beat me, but ended up 50 points short before he Farkled.\n\nGolf\nCard game - It started to rain before we finished the second round. Guy hit 50 first and was knocked out. I won.",
       "code": "wildatoll.kudige.sodimu",
       "isCurrentLocation": false,
       "markerStyle": "emoji",
@@ -2599,7 +2599,7 @@
           "repoPath": "images/14v2zh9-6iew.jpg"
         }
       ],
-      "updatedAt": 1786887566517,
+      "updatedAt": 1786999202675,
       "createdAt": 1786529081048,
       "weather": {
         "tempC": 15,
@@ -53998,38 +53998,6 @@
   ],
   "measurements": [
     {
-      "id": "1786793369743-j6bsx7",
-      "name": "Measurement Aug 15",
-      "points": [
-        {
-          "lat": 45.45754188779272,
-          "lng": -75.60902595520021
-        },
-        {
-          "lat": 45.45269518720968,
-          "lng": -75.61190128326417
-        },
-        {
-          "lat": 45.45010609572099,
-          "lng": -75.60486316680908
-        },
-        {
-          "lat": 45.45404989701741,
-          "lng": -75.60134410858156
-        },
-        {
-          "lat": 45.457331170342194,
-          "lng": -75.60490608215332
-        },
-        {
-          "lat": 45.45753436218306,
-          "lng": -75.60890793800355
-        }
-      ],
-      "createdAt": 1786793369743,
-      "updatedAt": 1786793771457
-    },
-    {
       "id": "1786792740084-11isgu",
       "name": "Measurement Aug 15",
       "points": [
@@ -54096,6 +54064,38 @@
       ],
       "createdAt": 1786811361759,
       "updatedAt": 1786811361759
+    },
+    {
+      "id": "1786793369743-j6bsx7",
+      "name": "Measurement Aug 15",
+      "points": [
+        {
+          "lat": 45.45754188779272,
+          "lng": -75.60902595520021
+        },
+        {
+          "lat": 45.45269518720968,
+          "lng": -75.61190128326417
+        },
+        {
+          "lat": 45.45010609572099,
+          "lng": -75.60486316680908
+        },
+        {
+          "lat": 45.45404989701741,
+          "lng": -75.60134410858156
+        },
+        {
+          "lat": 45.457331170342194,
+          "lng": -75.60490608215332
+        },
+        {
+          "lat": 45.45753436218306,
+          "lng": -75.60890793800355
+        }
+      ],
+      "createdAt": 1786793369743,
+      "updatedAt": 1786793771457
     }
   ],
   "waypointFolders": [
@@ -54192,10 +54192,17 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790691553-hyw3ii",
-      "1786790778605-xlce2w"
+      "1786790778605-xlce2w",
+      "1786790691553-hyw3ii"
     ],
-    "waypointFolders": []
+    "waypointFolders": [
+      "1786874999568-tn77id",
+      "1786875109898-jjho2l",
+      "1786884907984-sl5zjo",
+      "1786883104174-9zdrei",
+      "1786885006731-e1v9es",
+      "1786886141141-ffgzfy"
+    ]
   },
   "settings": {
     "home": {
