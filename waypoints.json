@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-17T00:14:42.749Z",
+  "exportedAt": "2026-08-17T17:58:02.580Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -3619,7 +3619,7 @@
         "icon": "03d",
         "description": "scattered clouds"
       },
-      "updatedAt": 1786889041107,
+      "updatedAt": 1786980356866,
       "folderId": "1786889041106-wtoqp1"
     },
     {
@@ -3917,6 +3917,32 @@
       "updatedAt": 1786905070112,
       "weather": {
         "tempC": 25.5,
+        "icon": "04d",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1786974464427-ymnbkz",
+      "lat": 45.4188262792947,
+      "lng": -75.70238023996355,
+      "name": "Starbucks",
+      "notes": "",
+      "url": "",
+      "code": "wildatoll.bokera.nibulu",
+      "isCurrentLocation": false,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "☕",
+      "photos": [
+        {
+          "repoPath": "images/152pj83-9bl4.jpg"
+        }
+      ],
+      "folderId": null,
+      "createdAt": 1786974464433,
+      "updatedAt": 1786974464433,
+      "weather": {
+        "tempC": 20.22,
         "icon": "04d",
         "description": "overcast clouds"
       }
