@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-17T21:45:42.088Z",
+  "exportedAt": "2026-08-17T22:01:31.095Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -276,7 +276,7 @@
           "repoPath": "images/1mpvgu5-48x4.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
+      "updatedAt": 1787003292782,
       "createdAt": 1786528054703,
       "weather": {
         "tempC": 15.43,
@@ -3938,9 +3938,9 @@
           "repoPath": "images/152pj83-9bl4.jpg"
         }
       ],
-      "folderId": null,
+      "folderId": "1786889041106-wtoqp1",
       "createdAt": 1786974464433,
-      "updatedAt": 1786974464433,
+      "updatedAt": 1787004068176,
       "weather": {
         "tempC": 20.22,
         "icon": "04d",
@@ -52730,9 +52730,9 @@
     },
     {
       "id": "1786888488878-362bvf",
-      "name": "Little Green Pond - Saranack",
+      "name": "Little Green Pond - Saranac",
       "createdAt": 1786888488878,
-      "updatedAt": 1786919619487,
+      "updatedAt": 1787003590757,
       "parentFolderId": "1786899999777-ua7nkx"
     },
     {
