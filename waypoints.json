@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-16T23:51:05.931Z",
+  "exportedAt": "2026-08-17T00:14:09.982Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -775,16 +775,16 @@
       "hexColor": null,
       "photos": [
         {
+          "repoPath": "images/2en5h3-6arc.jpg"
+        },
+        {
           "repoPath": "images/1xo6zop-4vic.jpg"
         },
         {
           "repoPath": "images/1rosh73-6aw8.jpg"
-        },
-        {
-          "repoPath": "images/2en5h3-6arc.jpg"
         }
       ],
-      "updatedAt": 1786886537676,
+      "updatedAt": 1786924291753,
       "createdAt": 1786528054703,
       "weather": {
         "tempC": 15.49,
