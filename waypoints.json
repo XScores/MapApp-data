@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-18T16:36:20.032Z",
+  "exportedAt": "2026-08-18T17:21:37.569Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -54,24 +54,28 @@
         }
       ],
       "createdAt": 1786529108411,
-      "updatedAt": 1787070579286,
+      "updatedAt": 1787073686897,
       "weather": {
         "tempC": 18.39,
         "icon": "01n",
         "description": "clear sky"
       },
-      "folderId": "1786897425315-cacgug",
+      "folderId": "1787071867250-ito2ux",
       "favorite": true,
       "url": "https://www.thewaterfrontnapanee.com/",
       "review": {
         "name": "The Waterfront River Pub & Terrace",
         "rating": 3.6,
         "ambianceRating": 4.6,
-        "cleanlinessRating": null,
+        "cleanlinessRating": 3,
         "locationTag": "22 Water Street West, Greater Napanee, Ontario, CA",
         "priceLevel": 3,
         "hours": "Sunday–Thursday (11:00 AM – 11:00 PM), Friday–Saturday (11:00 AM – 12:00 AM)",
-        "tags": []
+        "tags": [
+          "Waterfront",
+          "Pub Food",
+          "Casual Dining"
+        ]
       }
     },
     {
@@ -52667,6 +52671,14 @@
       "isTrip": false,
       "createdAt": 1787052315959,
       "updatedAt": 1787052315959
+    },
+    {
+      "id": "1787071867250-ito2ux",
+      "name": "Restaurants",
+      "parentFolderId": null,
+      "isTrip": false,
+      "createdAt": 1787071867250,
+      "updatedAt": 1787071867250
     }
   ],
   "rideFolders": [
