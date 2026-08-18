@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-18T13:37:33.705Z",
+  "exportedAt": "2026-08-18T13:42:01.038Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -38,13 +38,27 @@
       "hexColor": "#38bdf8",
       "photos": [],
       "createdAt": 1786529108411,
-      "updatedAt": 1786897425315,
+      "updatedAt": 1787060510459,
       "weather": {
         "tempC": 18.39,
         "icon": "01n",
         "description": "clear sky"
       },
-      "folderId": "1786897425315-cacgug"
+      "folderId": "1786897425315-cacgug",
+      "url": "",
+      "review": {
+        "name": "The Watetfront River Pub & Terrace",
+        "rating": 3.3,
+        "ambianceRating": 4.6,
+        "locationTag": "20 Water Street West, Greater Napanee, Ontario, CA",
+        "priceLevel": 1,
+        "hours": "",
+        "tags": [
+          "Waterfront Dining",
+          "Pub Food",
+          "Cornhole"
+        ]
+      }
     },
     {
       "id": "1785790013063-p3wywo",
