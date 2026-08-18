@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-18T13:42:24.866Z",
+  "exportedAt": "2026-08-18T13:51:58.196Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -26,11 +26,11 @@
     },
     {
       "id": "1785605899004-c9buqp",
-      "lat": 44.24529231508594,
-      "lng": -76.94942633266533,
+      "lat": 44.24549107160579,
+      "lng": -76.95003926753999,
       "name": "The Watetfront River Pub & Terrace",
       "notes": "After the pontoon ride from Andy’s we ended up here.",
-      "code": "wildatoll.kolefe.beloki",
+      "code": "wildatoll.kolefe.bemani",
       "isCurrentLocation": true,
       "markerStyle": "emoji",
       "markerColor": "#ef4444",
@@ -38,7 +38,7 @@
       "hexColor": "#38bdf8",
       "photos": [],
       "createdAt": 1786529108411,
-      "updatedAt": 1787060510459,
+      "updatedAt": 1787061105473,
       "weather": {
         "tempC": 18.39,
         "icon": "01n",
@@ -56,7 +56,7 @@
         "tags": [
           "Waterfront Dining",
           "Pub Food",
-          "Cornhole"
+          "Nice"
         ]
       }
     },
