@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-19T01:22:19.851Z",
+  "exportedAt": "2026-08-19T01:29:03.927Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -3882,7 +3882,7 @@
       "id": "1786744138981-i80v6k",
       "lat": 45.36138811759113,
       "lng": -75.67464351654054,
-      "name": "Guys House",
+      "name": "Guy's House",
       "notes": "",
       "url": "",
       "code": "wildatoll.bokiri.sumafi",
@@ -3895,14 +3895,15 @@
           "repoPath": "images/w2lmuc-8yzc.jpg"
         }
       ],
-      "createdAt": 1786744138983,
-      "updatedAt": 1786889041107,
+      "createdAt": 1786744080000,
+      "updatedAt": 1787102839836,
       "weather": {
         "tempC": 24.11,
         "icon": "04d",
         "description": "broken clouds"
       },
-      "folderId": "1786889041106-wtoqp1"
+      "folderId": "1786889041106-wtoqp1",
+      "review": null
     },
     {
       "id": "1786857107214-kjq2yx",
@@ -52849,7 +52850,7 @@
       "isTrip": true,
       "createdAt": 1787084393613,
       "updatedAt": 1787084393613,
-      "hidden": false
+      "hidden": true
     }
   ],
   "rideFolders": [
