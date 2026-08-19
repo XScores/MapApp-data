@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-19T01:41:49.624Z",
+  "exportedAt": "2026-08-19T01:45:10.896Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -4097,7 +4097,7 @@
       "id": "1787084411160-psxq9d",
       "lat": 45.45336502001518,
       "lng": -75.60827225446702,
-      "name": "Preparation Next",
+      "name": "Preparation for Crotch Lake Trip",
       "notes": "Starting the preparation runs for Crotch Lake Camping trip Buying mostly the food that doesn’t need refrigeration.",
       "code": "wildatoll.bokife.mebeso",
       "isCurrentLocation": true,
@@ -4106,8 +4106,8 @@
       "markerEmoji": "📍",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787102350238,
-      "createdAt": 1787092568740,
+      "updatedAt": 1787103893443,
+      "createdAt": 1787092560000,
       "weather": {
         "tempC": 25.03,
         "icon": "04d",
@@ -4213,21 +4213,23 @@
       "lat": 45.44174530351802,
       "lng": -75.64363181591035,
       "name": "McDonald's",
-      "notes": "Stopping to get some food for Helen and myself",
+      "notes": "Stopping to get some food for Ellen and myself! Big Mac for her, extra sauce pickles and lettuce, Crispy Spicy Chicken for me.",
       "code": "wildatoll.bokifi.sikage",
       "isCurrentLocation": true,
-      "markerStyle": "pin",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "📍",
+      "markerStyle": "emoji",
+      "markerColor": "#34d399",
+      "markerEmoji": "🍽️",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787102632014,
-      "createdAt": 1787092568740,
+      "updatedAt": 1787103849099,
+      "createdAt": 1787092560000,
       "weather": {
         "tempC": 24.88,
         "icon": "04d",
         "description": "overcast clouds"
-      }
+      },
+      "url": "",
+      "review": null
     },
     {
       "id": "1787092584848-hagfez",
