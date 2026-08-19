@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-19T01:20:41.283Z",
+  "exportedAt": "2026-08-19T01:21:39.630Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -4220,8 +4220,8 @@
       "markerEmoji": "🍽️",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787101866100,
-      "createdAt": 1787092560000,
+      "updatedAt": 1787102471971,
+      "createdAt": 1787094600000,
       "weather": {
         "tempC": 24.88,
         "icon": "04d",
