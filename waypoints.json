@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-19T01:19:50.044Z",
+  "exportedAt": "2026-08-19T01:20:41.283Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -4128,8 +4128,8 @@
       "markerEmoji": "🏢",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787096107320,
-      "createdAt": 1787092568740,
+      "updatedAt": 1787101708985,
+      "createdAt": 1787089200000,
       "weather": {
         "tempC": 24.92,
         "icon": "04d",
@@ -4151,8 +4151,8 @@
       "markerEmoji": "🏢",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787096445440,
-      "createdAt": 1787092568740,
+      "updatedAt": 1787101737682,
+      "createdAt": 1787091000000,
       "weather": {
         "tempC": 24.92,
         "icon": "04d",
@@ -4174,8 +4174,8 @@
       "markerEmoji": "🏢",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787096505898,
-      "createdAt": 1787092568740,
+      "updatedAt": 1787101753732,
+      "createdAt": 1787092200000,
       "weather": {
         "tempC": 24.92,
         "icon": "04d",
@@ -4194,11 +4194,11 @@
       "isCurrentLocation": true,
       "markerStyle": "emoji",
       "markerColor": "#34d399",
-      "markerEmoji": "📍",
+      "markerEmoji": "🏢",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787096366409,
-      "createdAt": 1787092568740,
+      "updatedAt": 1787101837552,
+      "createdAt": 1787094000000,
       "weather": {
         "tempC": 24.92,
         "icon": "04d",
@@ -4215,18 +4215,20 @@
       "notes": "Stopping to get some food for Helen and myself",
       "code": "wildatoll.bokifi.rubasi",
       "isCurrentLocation": true,
-      "markerStyle": "pin",
+      "markerStyle": "emoji",
       "markerColor": "#f59e0b",
-      "markerEmoji": "📍",
+      "markerEmoji": "🍽️",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787091150163,
-      "createdAt": 1787092568740,
+      "updatedAt": 1787101866100,
+      "createdAt": 1787092560000,
       "weather": {
         "tempC": 24.88,
         "icon": "04d",
         "description": "overcast clouds"
-      }
+      },
+      "url": "",
+      "review": null
     },
     {
       "id": "1787092584848-hagfez",
@@ -4241,9 +4243,15 @@
       "markerEmoji": "📍",
       "folderId": "1787084393613-l0gpto",
       "photos": [],
-      "updatedAt": 1787096318384,
+      "updatedAt": 1787101806184,
       "url": "",
-      "review": null
+      "review": null,
+      "createdAt": 1787095800000,
+      "weather": {
+        "tempC": 21.83,
+        "icon": "04n",
+        "description": "overcast clouds"
+      }
     }
   ],
   "rides": [
@@ -52637,38 +52645,6 @@
   ],
   "measurements": [
     {
-      "id": "1786793369743-j6bsx7",
-      "name": "Measurement Aug 15",
-      "points": [
-        {
-          "lat": 45.45754188779272,
-          "lng": -75.60902595520021
-        },
-        {
-          "lat": 45.45269518720968,
-          "lng": -75.61190128326417
-        },
-        {
-          "lat": 45.45010609572099,
-          "lng": -75.60486316680908
-        },
-        {
-          "lat": 45.45404989701741,
-          "lng": -75.60134410858156
-        },
-        {
-          "lat": 45.457331170342194,
-          "lng": -75.60490608215332
-        },
-        {
-          "lat": 45.45753436218306,
-          "lng": -75.60890793800355
-        }
-      ],
-      "createdAt": 1786793369743,
-      "updatedAt": 1786793771457
-    },
-    {
       "id": "1786792740084-11isgu",
       "name": "Measurement Aug 15",
       "points": [
@@ -52735,6 +52711,38 @@
       ],
       "createdAt": 1786811361759,
       "updatedAt": 1786811361759
+    },
+    {
+      "id": "1786793369743-j6bsx7",
+      "name": "Measurement Aug 15",
+      "points": [
+        {
+          "lat": 45.45754188779272,
+          "lng": -75.60902595520021
+        },
+        {
+          "lat": 45.45269518720968,
+          "lng": -75.61190128326417
+        },
+        {
+          "lat": 45.45010609572099,
+          "lng": -75.60486316680908
+        },
+        {
+          "lat": 45.45404989701741,
+          "lng": -75.60134410858156
+        },
+        {
+          "lat": 45.457331170342194,
+          "lng": -75.60490608215332
+        },
+        {
+          "lat": 45.45753436218306,
+          "lng": -75.60890793800355
+        }
+      ],
+      "createdAt": 1786793369743,
+      "updatedAt": 1786793771457
     }
   ],
   "waypointFolders": [
@@ -52808,7 +52816,8 @@
       "name": "Camping Sites",
       "parentFolderId": null,
       "createdAt": 1786899999777,
-      "updatedAt": 1786919619487
+      "updatedAt": 1786919619487,
+      "hidden": false
     },
     {
       "id": "1787020450508-uk5bnh",
@@ -52839,7 +52848,8 @@
       "parentFolderId": null,
       "isTrip": true,
       "createdAt": 1787084393613,
-      "updatedAt": 1787084393613
+      "updatedAt": 1787084393613,
+      "hidden": false
     }
   ],
   "rideFolders": [
@@ -52882,8 +52892,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790691553-hyw3ii",
-      "1786790778605-xlce2w"
+      "1786790778605-xlce2w",
+      "1786790691553-hyw3ii"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
