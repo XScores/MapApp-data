@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-18T17:37:07.459Z",
+  "exportedAt": "2026-08-19T01:06:24.165Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -4091,6 +4091,159 @@
         "icon": "03d",
         "description": "scattered clouds"
       }
+    },
+    {
+      "id": "1787084411160-psxq9d",
+      "lat": 45.45346812986096,
+      "lng": -75.60819157294723,
+      "name": "Preparation Next",
+      "notes": "Starting the preparation runs for Crotch Lake Camping trip Buying mostly the food that doesn’t need refrigeration.",
+      "code": "wildatoll.bokife.mebilo",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#34d399",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "updatedAt": 1787096284678,
+      "createdAt": 1787092568740,
+      "weather": {
+        "tempC": 25.03,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787085287156-wnpyeb",
+      "lat": 45.42838767052816,
+      "lng": -75.63810378313066,
+      "name": "Giant Tiger",
+      "notes": "Buying snacks, but ended up with $107.04 worth of snacks and groceries. Might have gone a bit overboard!",
+      "code": "wildatoll.bokifu.doligu",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#ef4444",
+      "markerEmoji": "🏢",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "updatedAt": 1787096107320,
+      "createdAt": 1787092568740,
+      "weather": {
+        "tempC": 24.92,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787087750166-5vfktt",
+      "lat": 45.42781649048029,
+      "lng": -75.63774840642789,
+      "name": "Decathlon",
+      "notes": "Shopping for new chairs, ended up buying an inflatable pillow instead. I’m going to wait until the chairs go on sale.",
+      "code": "wildatoll.bokifu.dolile",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#34d399",
+      "markerEmoji": "🏢",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "updatedAt": 1787096445440,
+      "createdAt": 1787092568740,
+      "weather": {
+        "tempC": 24.92,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787088642060-oxxb1z",
+      "lat": 45.427324118752274,
+      "lng": -75.63747614622118,
+      "name": "Adonis",
+      "notes": "Buying limes , jalapeños and black beans at Adonis",
+      "code": "wildatoll.bokifu.dinune",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#34d399",
+      "markerEmoji": "🏢",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "updatedAt": 1787096505898,
+      "createdAt": 1787092568740,
+      "weather": {
+        "tempC": 24.92,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787089573806-rpgelq",
+      "lat": 45.429948076961644,
+      "lng": -75.63882385284268,
+      "name": "Dollarama",
+      "notes": "Getting paper plates and other odds and ends.",
+      "code": "wildatoll.bokifu.dilogi",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#34d399",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "updatedAt": 1787096366409,
+      "createdAt": 1787092568740,
+      "weather": {
+        "tempC": 24.92,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787091127158-4y4qfo",
+      "lat": 45.44165683368269,
+      "lng": -75.64365101970034,
+      "name": "McDonald's",
+      "notes": "Stopping to get some food for Helen and myself",
+      "code": "wildatoll.bokifi.rubasi",
+      "isCurrentLocation": true,
+      "markerStyle": "pin",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "updatedAt": 1787091150163,
+      "createdAt": 1787092568740,
+      "weather": {
+        "tempC": 24.88,
+        "icon": "04d",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1787092584848-hagfez",
+      "lat": 45.45336592159166,
+      "lng": -75.60835990807323,
+      "name": "Home again",
+      "notes": "Back home after running all of the errands",
+      "code": "wildatoll.bokife.mebiba",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#34d399",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "updatedAt": 1787096318384,
+      "url": "",
+      "review": null
     }
   ],
   "rides": [
@@ -52484,6 +52637,38 @@
   ],
   "measurements": [
     {
+      "id": "1786793369743-j6bsx7",
+      "name": "Measurement Aug 15",
+      "points": [
+        {
+          "lat": 45.45754188779272,
+          "lng": -75.60902595520021
+        },
+        {
+          "lat": 45.45269518720968,
+          "lng": -75.61190128326417
+        },
+        {
+          "lat": 45.45010609572099,
+          "lng": -75.60486316680908
+        },
+        {
+          "lat": 45.45404989701741,
+          "lng": -75.60134410858156
+        },
+        {
+          "lat": 45.457331170342194,
+          "lng": -75.60490608215332
+        },
+        {
+          "lat": 45.45753436218306,
+          "lng": -75.60890793800355
+        }
+      ],
+      "createdAt": 1786793369743,
+      "updatedAt": 1786793771457
+    },
+    {
       "id": "1786792740084-11isgu",
       "name": "Measurement Aug 15",
       "points": [
@@ -52550,38 +52735,6 @@
       ],
       "createdAt": 1786811361759,
       "updatedAt": 1786811361759
-    },
-    {
-      "id": "1786793369743-j6bsx7",
-      "name": "Measurement Aug 15",
-      "points": [
-        {
-          "lat": 45.45754188779272,
-          "lng": -75.60902595520021
-        },
-        {
-          "lat": 45.45269518720968,
-          "lng": -75.61190128326417
-        },
-        {
-          "lat": 45.45010609572099,
-          "lng": -75.60486316680908
-        },
-        {
-          "lat": 45.45404989701741,
-          "lng": -75.60134410858156
-        },
-        {
-          "lat": 45.457331170342194,
-          "lng": -75.60490608215332
-        },
-        {
-          "lat": 45.45753436218306,
-          "lng": -75.60890793800355
-        }
-      ],
-      "createdAt": 1786793369743,
-      "updatedAt": 1786793771457
     }
   ],
   "waypointFolders": [
@@ -52679,6 +52832,14 @@
       "isTrip": false,
       "createdAt": 1787071867250,
       "updatedAt": 1787071867250
+    },
+    {
+      "id": "1787084393613-l0gpto",
+      "name": "Crotch Lake Preparation",
+      "parentFolderId": null,
+      "isTrip": true,
+      "createdAt": 1787084393613,
+      "updatedAt": 1787084393613
     }
   ],
   "rideFolders": [
@@ -52707,7 +52868,8 @@
       "1786726579600-16u5da",
       "1786744143142-tsq752",
       "1786903322186-8l256o",
-      "1785534543344-c65n9w"
+      "1785534543344-c65n9w",
+      "1787095737155-yey6rz"
     ],
     "rides": [
       "1786466212086-8xbwdi",
@@ -52720,8 +52882,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790778605-xlce2w",
-      "1786790691553-hyw3ii"
+      "1786790691553-hyw3ii",
+      "1786790778605-xlce2w"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
