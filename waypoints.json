@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-19T19:31:09.854Z",
+  "exportedAt": "2026-08-21T00:50:43.666Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -3907,32 +3907,47 @@
     },
     {
       "id": "1786857107214-kjq2yx",
-      "lat": 45.09406490072223,
-      "lng": -76.13988876342773,
+      "lat": 45.09152756522904,
+      "lng": -76.13841891288759,
       "name": "Mitch and Vanessa Wedding",
-      "notes": "Such a perfect day and such an amazing wedding! We stayed until 12:20. Hung out with Andy a lot that night. About 120 guests",
-      "url": "",
-      "code": "wildatoll.bisase.kuleka",
+      "notes": "Such a perfect day and such an amazing wedding! We stayed until 12:20. Hung out with Andy a lot that night. About 120 guests.\n\nDrinks were good - open bar! Food was ok, I had the rib dinner, Ellen had the Fish, and Emma was given vegetarian as Ellen couldn’t get hold of Emma so chose for her. Emma is not vegetarian.\n\nWe didn’t want to be late, events started at 4:00, so we arrived early enough to go to McDonald's because Emma was hungry So we drove back into Carleton Place went into McDonald's Ellen had a couple of nuggets but Emma ate most of them and double cheeseburger and I had a chicken burger So once we were filled up with that we went back to the venue and had an amazing time everything was so beautiful there the weather was perfect And there was open bar and little hors d'oeuvres floating around as we arrived we met up with Andy and Kathy and saw Ted Gina and had a little chat with them And Cassie and Mike were there as well with Mike's wife Zooey. Zoe Cortez and her husband Paul was there Yeah it was a great day. We left around 12:20 Around the same time that the refs were leaving and luckily Mitch and Vanessa were outside so we got to give them hugs and congratulate them again on such a wonderful day and then on the way back through Carleton place we stopped at McDonald's again So Helen and Emma could both have big Mac Yeah so we arrived home around 1:30 And went to bed",
+      "url": "https://stonefieldsweddings.com/",
+      "code": "wildatoll.bisase.dogoli",
       "isCurrentLocation": false,
-      "markerStyle": "pin",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "📍",
+      "markerStyle": "emoji",
+      "markerColor": "#34d399",
+      "markerEmoji": "⛪",
       "photos": [
         {
           "repoPath": "images/83iv80-cxtk.jpg"
         },
         {
           "repoPath": "images/1knzdox-7wbc.jpg"
+        },
+        {
+          "repoPath": "images/nzi5fj-7lec.jpg"
         }
       ],
-      "createdAt": 1786857107225,
-      "updatedAt": 1786905354152,
+      "createdAt": 1786857060000,
+      "updatedAt": 1787273380175,
       "weather": {
         "tempC": 14.49,
         "icon": "04n",
         "description": "overcast clouds"
       },
-      "folderId": "1786898080736-5r5j0r"
+      "folderId": "1786898080736-5r5j0r",
+      "review": {
+        "name": "Mitch and Vanessa Wedding",
+        "rating": null,
+        "ambianceRating": null,
+        "cleanlinessRating": null,
+        "locationTag": "",
+        "priceLevel": 1,
+        "hours": "",
+        "phone": "",
+        "email": "",
+        "tags": []
+      }
     },
     {
       "id": "1786903501669-5ho70g",
@@ -4528,6 +4543,149 @@
       },
       "url": "",
       "review": null
+    },
+    {
+      "id": "1787238448868-w2w0s4",
+      "lat": 45.45331609991105,
+      "lng": -75.6083393096924,
+      "name": "Leaving home",
+      "notes": "Third times the charm Going out to run the final set of errands a dollar store and grocery store",
+      "code": "wildatoll.bokife.mebiba",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787238420000,
+      "updatedAt": 1787265530028,
+      "weather": {
+        "tempC": 21.96,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787240210488-9w7l2p",
+      "lat": 45.44766434507629,
+      "lng": -75.59164736044764,
+      "name": "Dollarama",
+      "notes": "Ran into Dollarama to buy more odds and ends. There were a few item missing from my camping box and I needed new batteries for the clip on lights, Stella will for cooking grate cleaning Steak spice, collapsible measuring cups small tarp for the firewood.",
+      "url": "",
+      "code": "wildatoll.bokiga.sirama",
+      "isCurrentLocation": true,
+      "markerStyle": "pin",
+      "markerColor": "#22d3ee",
+      "markerEmoji": "📍",
+      "photos": [],
+      "folderId": "1787084393613-l0gpto",
+      "review": null,
+      "createdAt": 1787239980000,
+      "updatedAt": 1787240210489,
+      "weather": {
+        "tempC": 21.43,
+        "icon": "04d",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1787240775099-590500",
+      "lat": 45.43421805100721,
+      "lng": -75.60994545734356,
+      "name": "Loblaws",
+      "notes": "Hopefully last stop for this third times a charm so we need mushroom Caesar salad kit some bacon tomatoes corn fresh corn if they have it Blueberries whipped cream if you have rods and ends Sour cream and cream as well",
+      "code": "wildatoll.bokife.dedaba",
+      "isCurrentLocation": true,
+      "markerStyle": "pin",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787240775114,
+      "updatedAt": 1787240818758,
+      "weather": {
+        "tempC": 22,
+        "icon": "04d",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1787243080964-xrw1hg",
+      "lat": 45.45339228964933,
+      "lng": -75.60826076841171,
+      "name": "Back home finally",
+      "notes": "All of the stuff I needed for the meals and the camp box is all bought so now it's just a matter of organizing it loading into the car. Hopefully I'll be finished tonight. Meeting Guy at his place at 9:00 tomorrow.",
+      "code": "wildatoll.bokife.mebanu",
+      "isCurrentLocation": true,
+      "markerStyle": "pin",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787243040000,
+      "updatedAt": 1787243228816,
+      "weather": {
+        "tempC": 23.01,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": {
+        "name": "Back home finally",
+        "rating": null,
+        "ambianceRating": null,
+        "cleanlinessRating": null,
+        "locationTag": "",
+        "priceLevel": 1,
+        "hours": "",
+        "phone": "",
+        "email": "",
+        "tags": []
+      }
+    },
+    {
+      "id": "1787265830595-t0g7sk",
+      "lat": 45.45338621363582,
+      "lng": -75.60821789393457,
+      "name": "Test",
+      "notes": "Another test",
+      "code": "wildatoll.bokife.mebiku",
+      "isCurrentLocation": true,
+      "markerStyle": "pin",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "folderId": null,
+      "photos": [],
+      "createdAt": 1787265830612,
+      "updatedAt": 1787265848579,
+      "weather": {
+        "tempC": 17.22,
+        "icon": "04n",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1787265926410-u3d93m",
+      "lat": 45.45342782899727,
+      "lng": -75.60823508687164,
+      "name": "Test two",
+      "notes": "Test two",
+      "code": "wildatoll.bokife.mebiku",
+      "isCurrentLocation": true,
+      "markerStyle": "pin",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "folderId": null,
+      "photos": [],
+      "createdAt": 1787265926421,
+      "updatedAt": 1787265941782,
+      "weather": {
+        "tempC": 17.22,
+        "icon": "04n",
+        "description": "overcast clouds"
+      }
     }
   ],
   "rides": [
@@ -53123,7 +53281,8 @@
       "parentFolderId": null,
       "isTrip": true,
       "createdAt": 1787084393613,
-      "updatedAt": 1787084393613
+      "updatedAt": 1787238718995,
+      "color": "#a78bfa"
     }
   ],
   "rideFolders": [
@@ -53159,7 +53318,9 @@
       "1787142622426-yovrv9",
       "1787143620226-bna0yn",
       "1787156557298-iuondw",
-      "1787157511828-1nm2md"
+      "1787157511828-1nm2md",
+      "1787182166978-rh6yyl",
+      "1787265557179-qqznwe"
     ],
     "rides": [
       "1786466212086-8xbwdi",
