@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-25T13:52:39.356Z",
+  "exportedAt": "2026-08-25T13:55:45.721Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -5044,6 +5044,29 @@
         "phone": "",
         "email": "",
         "tags": []
+      }
+    },
+    {
+      "id": "1787666042646-1myjzs",
+      "lat": 45.3761067,
+      "lng": -75.6707021,
+      "name": "Kaladar Fresh Market",
+      "notes": "Looks Great - lots of local fruit and vegetables.",
+      "url": "",
+      "code": "wildatoll.bokene.begenu",
+      "isCurrentLocation": false,
+      "markerStyle": "emoji",
+      "markerColor": "#e2e8f0",
+      "markerEmoji": "🛒",
+      "photos": [],
+      "folderId": null,
+      "review": null,
+      "createdAt": 1787665980000,
+      "updatedAt": 1787666084201,
+      "weather": {
+        "tempC": 17.21,
+        "icon": "02d",
+        "description": "few clouds"
       }
     }
   ],
@@ -53641,7 +53664,8 @@
       "isTrip": true,
       "createdAt": 1787084393613,
       "updatedAt": 1787238718995,
-      "color": "#a78bfa"
+      "color": "#a78bfa",
+      "hidden": true
     },
     {
       "id": "1787315718734-xa2dcg",
@@ -53650,7 +53674,8 @@
       "isTrip": true,
       "createdAt": 1787315718735,
       "updatedAt": 1787315718735,
-      "color": "#a78bfa"
+      "color": "#a78bfa",
+      "hidden": true
     }
   ],
   "rideFolders": [
@@ -53695,7 +53720,8 @@
       "1787325703563-zurv9m",
       "1787318367002-morlsg",
       "1787329846701-dhcbwg",
-      "1787443522754-6xuz6o"
+      "1787443522754-6xuz6o",
+      "1787666068403-wu68e5"
     ],
     "rides": [
       "1786466212086-8xbwdi",
