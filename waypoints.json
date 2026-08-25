@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-25T00:01:05.758Z",
+  "exportedAt": "2026-08-25T01:03:50.258Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -148,7 +148,7 @@
       "id": "1785360558544-9slurq",
       "lat": 45.12542,
       "lng": -76.9914,
-      "name": "Round Schooner Site 1 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 1 - BOAT ACCESS ONLY",
       "notes": "Access Type: Boat Access Only (Mainland Site)\n\nDescription: ATV trail goes through the campsite which could affect privacy, etc. Please be careful going through the channel to round Schooner, it is shallow and rocky in places. Flat rock face, steep to water, not ideal for small children; Amazing view of the lake with afternoon sun, and has open front with the back nicely treed; Fairly flat site; Room enough for 2 to 3 tents.\n\nGPS Coordinates: Lat: 45.12542 °N - 76.99140 °W\n\nWhat3words Location: unlocking.shrug.strokes\n\nAmenities:\n\nFire Pit\n\nBoat Access Only\n\nPrivy",
       "code": "wildatoll.bodilo.sereri",
       "isCurrentLocation": false,
@@ -179,21 +179,22 @@
           "repoPath": "images/rig91y-9gsk.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787220952020,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2672",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785361495837-e1z8w2",
       "lat": 45.12491,
       "lng": -76.99352,
-      "name": "Round Schooner Site 2 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 2 - BOAT ACCESS ONLY",
       "notes": "Access Type: Boat Access Only (Mainland Site)\n\nDescription: ATV trail goes through the campsite which could affect privacy, etc. Please be careful going through the channel to round Schooner, it is shallow and rocky in places. Rocky shoreline, sandy bottom and good for swimming; Full afternoon sun; High off water with a beautiful view of the lake; Can walk to site #1 on bike trail; Fairly flat site; Room enough for 2 to 3 tents.\n\nGPS Coordinates: Lat: 45.12491 °N - 76.99352 °W\n\nWhat3words Location: nibbles.gather.tur\n\nAmenities:\n\nFire Pit\n\nBoat Access Only\n\nPrivy",
       "code": "wildatoll.bodilo.subede",
       "isCurrentLocation": false,
@@ -221,21 +222,22 @@
           "repoPath": "images/1svd56h-asrw.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787220966235,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2673",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785362659172-8lwsgq",
       "lat": 45.1219,
       "lng": -76.99792,
-      "name": "Round Schooner Site 3 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 3 - BOAT ACCESS ONLY",
       "notes": "Access Type: Boat Access Only (Mainland Site)\n\nDescription: Please be careful going through the channel to round Schooner, it is shallow and rocky in places. Steep rock face leading to water; difficult to unload the canoes. Fairly shaded with Red Pine & cedar; Rugged site with some flat areas for tents; Smaller site, suitable for 1 or 2 small tents.\n\nGPS Coordinates: Lat: 45.12190 °N - 76.99792 °W\n\nWhat3words Location: trainer.pollens.tasteful\n\nAmenities:\n\nFire Pit\n\nBoat Access Only\n\nPrivy",
       "code": "wildatoll.bodilo.ruribi",
       "isCurrentLocation": false,
@@ -263,21 +265,22 @@
           "repoPath": "images/1rdhoic-3uc0.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787220980151,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2674",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785362954929-j9ubdq",
       "lat": 45.11824,
       "lng": -76.99567,
-      "name": "Round Schooner Site 4 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 4 - BOAT ACCESS ONLY",
       "notes": "Access Type: Boat Access Only (Mainland Site)\n\nDescription: Please be careful going through the channel from Long Schooner to Round Schooner. It is shallow and rocky in places throughout the channel. Minimal rock slope to water; Nice, sheltered and adventurous site; Room enough for 2 to 3 tents.\n\nGPS Coordinates: Lat: 45.11824 °N - 76.99567 °W\n\nWhat3words Location: divert.ports.neared\n\nAmenities:\n\nFire Pit\n\nBoat Access Only\n\nPrivy",
       "code": "wildatoll.bodilo.sebina",
       "isCurrentLocation": false,
@@ -308,21 +311,22 @@
           "repoPath": "images/1mpvgu5-48x4.jpg"
         }
       ],
-      "updatedAt": 1787003292782,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787220996783,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2675",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785364327581-cnsja5",
       "lat": 45.11684,
       "lng": -76.99341,
-      "name": "Round Schooner Site 5 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 5 - BOAT ACCESS ONLY",
       "notes": "Access: Boat Access Only (Mainland Site)\n\nPlease be careful going through the channel from Long Schooner to Round Schooner. It is shallow and rocky in places throughout the channel. Gradual sloping rock ledge to water; Level campsite; Room for 2-3 tents.\n\nAmenities: Fire Pit, Boat Access Only, Privy\n\nWhat3Words: beaker.tearing.uneven",
       "code": "wildatoll.bodiko.kodoba",
       "isCurrentLocation": false,
@@ -347,21 +351,22 @@
           "repoPath": "images/e2buei-675c.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787221008883,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2676",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785364327582-ri54et",
       "lat": 45.11497,
       "lng": -76.99187,
-      "name": "Round Schooner Site 6 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 6 - BOAT ACCESS ONLY",
       "notes": "Access: Boat Access Only (Mainland Site)\n\nPlease be careful going through the channel from Long Schooner to Round Schooner. It is shallow and rocky in places throughout the channel. Gradual rock slope to water; Smaller site; Room for 1 tent.\n\nAmenities: Fire Pit, Boat Access Only, Privy\n\nWhat3Words: awoke.camels.cushions",
       "code": "wildatoll.bodiko.koduno",
       "isCurrentLocation": false,
@@ -383,21 +388,22 @@
           "repoPath": "images/1ud750k-ae4w.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787221021600,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2677",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785364327582-zob3st",
       "lat": 45.1152,
       "lng": -76.98019,
-      "name": "Round Schooner Site 7 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 7 - BOAT ACCESS ONLY",
       "notes": "Access: Boat Access Only (Mainland Site)\n\nPlease be careful going through the channel from Long Schooner to Round Schooner. It is shallow and rocky in places throughout the channel. Gradual rock slope to water; Room for 2-3 tents.\n\nAmenities: Fire Pit, Boat Access Only, Privy\n\nWhat3Words: decor.petty.cupboard",
       "code": "wildatoll.bodiko.fadubo",
       "isCurrentLocation": false,
@@ -428,21 +434,22 @@
           "repoPath": "images/h8mkah-8nf4.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787221032648,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2678",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785364327582-qth9kj",
       "lat": 45.12173,
       "lng": -76.9831,
-      "name": "Round Schooner Site 8 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 8 - BOAT ACCESS ONLY",
       "notes": "Access: Boat Access Only (Mainland Site)\n\nPlease be careful going through the channel from Long Schooner to Round Schooner. It is shallow and rocky in places throughout the channel. Flat rock slope to water; Large Campsite room for 2-3 tents.\n\nAmenities: Fire Pit, Boat Access Only, Privy\n\nWhat3Words: pegs.locks.husband",
       "code": "wildatoll.bodiku.badisa",
       "isCurrentLocation": false,
@@ -473,21 +480,22 @@
           "repoPath": "images/1ur8sow-6fu0.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787221044314,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2679",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785364327582-mfj39h",
       "lat": 45.12609,
       "lng": -76.98631,
-      "name": "Round Schooner Site 10 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 10 - BOAT ACCESS ONLY",
       "notes": "Access: Boat Access Only (Mainland Site)\n\nPlease be careful going through the channel from Long Schooner to Round Schooner. It is shallow and rocky in places throughout the channel. Steep rock slope to deep water good swimming; Smaller site with a beautiful view of the lake; Room for 1-2 tents.\n\nAmenities: Fire Pit, Boat Access Only, Privy\n\nWhat3Words: stirring.scripted.skirts",
       "code": "wildatoll.bodilu.kofore",
       "isCurrentLocation": false,
@@ -521,21 +529,22 @@
           "repoPath": "images/crlqex-4fzs.jpg"
         }
       ],
-      "updatedAt": 1786888785034,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787221055614,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2681",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785364327582-09d5ba",
       "lat": 45.12609,
       "lng": -76.984,
-      "name": "Round Schooner Site 11 - BOAT ACCESS ONLY",
+      "name": "Round Schooner 11 - BOAT ACCESS ONLY",
       "notes": "Access: Boat Access Only (Mainland Site)\n\nPlease be careful going through the channel from Long Schooner to Round Schooner. It is shallow and rocky in places throughout the channel. Sandy beach on site; Deep water off end of rocks (good for jumping). Room enough for 2-3 tents.\n\nAmenities: Fire Pit, Boat Access Only, Privy\n\nWhat3Words: eating.view.barked",
       "code": "wildatoll.bodilu.kobono",
       "isCurrentLocation": false,
@@ -572,15 +581,16 @@
           "repoPath": "images/aekid0-8ywk.jpg"
         }
       ],
-      "updatedAt": 1786898548375,
-      "createdAt": 1786528054703,
+      "updatedAt": 1787221069480,
+      "createdAt": 1786528020000,
       "weather": {
         "tempC": 15.43,
         "icon": "04n",
         "description": "broken clouds"
       },
       "url": "https://www.onressystems.com/reservations/?property=north-frontenac-park-lands&prodlist=2682",
-      "folderId": "1786888785034-hkw9sm"
+      "folderId": "1786888785034-hkw9sm",
+      "review": null
     },
     {
       "id": "1785368991206-m7hgla",
@@ -4273,178 +4283,6 @@
       }
     },
     {
-      "id": "1787158827511-mfejb5",
-      "lat": 45.45340500117153,
-      "lng": -75.60830191645587,
-      "name": "Second day leaving for errands",
-      "notes": "Off to Costco to get gas steak other odds and ends maybe some whipped cream and blueberries so we'll see what they have there anyway that's it for now",
-      "code": "wildatoll.bokife.mebanu",
-      "isCurrentLocation": true,
-      "markerStyle": "emoji",
-      "markerColor": "#ef4444",
-      "markerEmoji": "📍",
-      "folderId": "1787084393613-l0gpto",
-      "photos": [],
-      "createdAt": 1787158800000,
-      "updatedAt": 1787167770819,
-      "weather": {
-        "tempC": 22.88,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": null
-    },
-    {
-      "id": "1787159262885-z0v5e1",
-      "lat": 45.436968561620915,
-      "lng": -75.602694951119,
-      "name": "Beer Store",
-      "notes": "Stopping at the beer store to return empties to make room for more space in the car Ellen likes to drink wine so I'm always returning her empties at least I get some cash this way. It was just 12 bottles, but I got $2.40! Maybe there is a donut in my future!",
-      "code": "wildatoll.bokifi.rekiru",
-      "isCurrentLocation": true,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "🍺",
-      "folderId": "1787084393613-l0gpto",
-      "photos": [],
-      "createdAt": 1787159220000,
-      "updatedAt": 1787167745069,
-      "weather": {
-        "tempC": 23.06,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": null
-    },
-    {
-      "id": "1787159696770-229juf",
-      "lat": 45.435204006549725,
-      "lng": -75.6015003373328,
-      "name": "Costco Gas Station",
-      "notes": "Gassing up for the trip dollar 55.9 for gas today so we'll see how far that gets us",
-      "code": "wildatoll.bokifi.neliga",
-      "isCurrentLocation": true,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "⛽",
-      "folderId": "1787084393613-l0gpto",
-      "photos": [],
-      "createdAt": 1787159640000,
-      "updatedAt": 1787167733436,
-      "weather": {
-        "tempC": 23.06,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": null
-    },
-    {
-      "id": "1787160022390-uguaz8",
-      "lat": 45.43535726411914,
-      "lng": -75.6014356747974,
-      "name": "Costco",
-      "notes": "I'm at Costco so we're gonna head in and see what we can get there so steak blueberries whipped cream sour cream I need I have pancake mix at home so I don't need that anyway I'll check the list and see what else looks good.\n\nBought a bunch of stuff; got the steak and the chicken strips for the fajitas, and a lot of things that won’t come camping with us.",
-      "code": "wildatoll.bokifi.remoru",
-      "isCurrentLocation": true,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "🏢",
-      "folderId": "1787084393613-l0gpto",
-      "photos": [],
-      "createdAt": 1787160000000,
-      "updatedAt": 1787167799801,
-      "weather": {
-        "tempC": 23.06,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": {
-        "name": "Costco",
-        "rating": null,
-        "ambianceRating": null,
-        "cleanlinessRating": null,
-        "locationTag": "",
-        "priceLevel": 1,
-        "hours": "",
-        "phone": "",
-        "email": "",
-        "tags": []
-      }
-    },
-    {
-      "id": "1787162235990-ao9s4v",
-      "lat": 45.43559308508372,
-      "lng": -75.60637641673871,
-      "name": "Canadian Tire",
-      "notes": "Stopping by Canadian tire to return a faulty charging cable",
-      "code": "wildatoll.bokife.fabiro",
-      "isCurrentLocation": true,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "🏢",
-      "folderId": "1787084393613-l0gpto",
-      "photos": [],
-      "createdAt": 1787162220000,
-      "updatedAt": 1787167808651,
-      "weather": {
-        "tempC": 23.04,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": null
-    },
-    {
-      "id": "1787163232519-x2jgop",
-      "lat": 45.447526073012156,
-      "lng": -75.59174564101879,
-      "name": "DollarStore",
-      "notes": "Stopping at the dollar store on the way home to pick up some sweetener and to check if there's anything else in there that I need to bring camping",
-      "code": "wildatoll.bokiga.sinibo",
-      "isCurrentLocation": true,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "🏢",
-      "folderId": "1787084393613-l0gpto",
-      "photos": [],
-      "createdAt": 1787163180000,
-      "updatedAt": 1787167817250,
-      "weather": {
-        "tempC": 23.13,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": null
-    },
-    {
-      "id": "1787164133096-n09ocq",
-      "lat": 45.45345444039658,
-      "lng": -75.60831759487164,
-      "name": "Back Home",
-      "notes": "Back home after a good trip running around and now I can get back to my computer and get back to work and it's been a quiet day at work",
-      "code": "wildatoll.bokife.mebano",
-      "isCurrentLocation": true,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "📍",
-      "folderId": "1787084393613-l0gpto",
-      "photos": [],
-      "createdAt": 1787164080000,
-      "updatedAt": 1787167827983,
-      "weather": {
-        "tempC": 22.88,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": null
-    },
-    {
       "id": "1787156497516-0ifh54",
       "lat": 45.43740916171599,
       "lng": -75.63034791012329,
@@ -4525,8 +4363,8 @@
     },
     {
       "id": "1787156553612-k4i35w",
-      "lat": 45.43740916171599,
-      "lng": -75.63034791012329,
+      "lat": 45.437411053915,
+      "lng": -75.63034147024156,
       "name": "TikTok - Crotch Lake Preparation",
       "notes": "5 chaotic stops to prep for our Crotch Lake camping trip! ⛺️ (Yes, we overbought snacks). \n\n#CampingPrep #ErrandRun #CampingLife #SnackHaul",
       "code": "wildatoll.bokife.karimi",
@@ -4538,9 +4376,181 @@
       "markerEmoji": "🎵",
       "photos": [],
       "createdAt": 1787156520000,
-      "updatedAt": 1787157700424,
+      "updatedAt": 1787168247504,
       "weather": {
         "tempC": 20.48,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787158827511-mfejb5",
+      "lat": 45.45340500117153,
+      "lng": -75.60830191645587,
+      "name": "Second day leaving for errands",
+      "notes": "Off to Costco to get gas steak other odds and ends maybe some whipped cream and blueberries so we'll see what they have there anyway that's it for now",
+      "code": "wildatoll.bokife.mebanu",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#ef4444",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787158800000,
+      "updatedAt": 1787167770819,
+      "weather": {
+        "tempC": 22.88,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787159262885-z0v5e1",
+      "lat": 45.436968561620915,
+      "lng": -75.602694951119,
+      "name": "Beer Store",
+      "notes": "Stopping at the beer store to return empties to make room for more space in the car Ellen likes to drink wine so I'm always returning her empties at least I get some cash this way. It was just 12 bottles, but I got $2.40! Maybe there is a donut in my future!",
+      "code": "wildatoll.bokifi.rekiru",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "🍺",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787159220000,
+      "updatedAt": 1787167745069,
+      "weather": {
+        "tempC": 23.06,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787159696770-229juf",
+      "lat": 45.43536896683901,
+      "lng": -75.60143262147905,
+      "name": "Costco Gas Station",
+      "notes": "Gassing up for the trip dollar 55.9 for gas today so we'll see how far that gets us",
+      "code": "wildatoll.bokifi.remoru",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "⛽",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787159640000,
+      "updatedAt": 1787168321874,
+      "weather": {
+        "tempC": 23.06,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787160022390-uguaz8",
+      "lat": 45.43559858769088,
+      "lng": -75.60308667634965,
+      "name": "Costco",
+      "notes": "I'm at Costco so we're gonna head in and see what we can get there so steak blueberries whipped cream sour cream I need I have pancake mix at home so I don't need that anyway I'll check the list and see what else looks good.\n\nBought a bunch of stuff; got the steak and the chicken strips for the fajitas, and a lot of things that won’t come camping with us.",
+      "code": "wildatoll.bokifi.remedo",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "🏢",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787160000000,
+      "updatedAt": 1787168329824,
+      "weather": {
+        "tempC": 23.06,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": {
+        "name": "Costco",
+        "rating": null,
+        "ambianceRating": null,
+        "cleanlinessRating": null,
+        "locationTag": "",
+        "priceLevel": 1,
+        "hours": "",
+        "phone": "",
+        "email": "",
+        "tags": []
+      }
+    },
+    {
+      "id": "1787162235990-ao9s4v",
+      "lat": 45.435391552538015,
+      "lng": -75.60659855604173,
+      "name": "Canadian Tire",
+      "notes": "Stopping by Canadian tire to return a faulty charging cable",
+      "code": "wildatoll.bokife.fabigo",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "🏢",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787162220000,
+      "updatedAt": 1787168361074,
+      "weather": {
+        "tempC": 23.04,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787163232519-x2jgop",
+      "lat": 45.44766554238523,
+      "lng": -75.59170156717302,
+      "name": "DollarStore",
+      "notes": "Stopping at the dollar store on the way home to pick up some sweetener and to check if there's anything else in there that I need to bring camping",
+      "code": "wildatoll.bokiga.sirama",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "🏢",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787163180000,
+      "updatedAt": 1787168392457,
+      "weather": {
+        "tempC": 23.13,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
+      "id": "1787164133096-n09ocq",
+      "lat": 45.45345444039658,
+      "lng": -75.60831759487164,
+      "name": "Back Home",
+      "notes": "Back home after a good trip running around and now I can get back to my computer and get back to work and it's been a quiet day at work",
+      "code": "wildatoll.bokife.mebano",
+      "isCurrentLocation": true,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "📍",
+      "folderId": "1787084393613-l0gpto",
+      "photos": [],
+      "createdAt": 1787164080000,
+      "updatedAt": 1787167827983,
+      "weather": {
+        "tempC": 22.88,
         "icon": "04d",
         "description": "overcast clouds"
       },
@@ -53407,38 +53417,6 @@
   ],
   "measurements": [
     {
-      "id": "1786793369743-j6bsx7",
-      "name": "Measurement Aug 15",
-      "points": [
-        {
-          "lat": 45.45754188779272,
-          "lng": -75.60902595520021
-        },
-        {
-          "lat": 45.45269518720968,
-          "lng": -75.61190128326417
-        },
-        {
-          "lat": 45.45010609572099,
-          "lng": -75.60486316680908
-        },
-        {
-          "lat": 45.45404989701741,
-          "lng": -75.60134410858156
-        },
-        {
-          "lat": 45.457331170342194,
-          "lng": -75.60490608215332
-        },
-        {
-          "lat": 45.45753436218306,
-          "lng": -75.60890793800355
-        }
-      ],
-      "createdAt": 1786793369743,
-      "updatedAt": 1786793771457
-    },
-    {
       "id": "1786792740084-11isgu",
       "name": "Measurement Aug 15",
       "points": [
@@ -53505,6 +53483,38 @@
       ],
       "createdAt": 1786811361759,
       "updatedAt": 1786811361759
+    },
+    {
+      "id": "1786793369743-j6bsx7",
+      "name": "Measurement Aug 15",
+      "points": [
+        {
+          "lat": 45.45754188779272,
+          "lng": -75.60902595520021
+        },
+        {
+          "lat": 45.45269518720968,
+          "lng": -75.61190128326417
+        },
+        {
+          "lat": 45.45010609572099,
+          "lng": -75.60486316680908
+        },
+        {
+          "lat": 45.45404989701741,
+          "lng": -75.60134410858156
+        },
+        {
+          "lat": 45.457331170342194,
+          "lng": -75.60490608215332
+        },
+        {
+          "lat": 45.45753436218306,
+          "lng": -75.60890793800355
+        }
+      ],
+      "createdAt": 1786793369743,
+      "updatedAt": 1786793771457
     }
   ],
   "waypointFolders": [
@@ -53578,7 +53588,8 @@
       "name": "Camping Sites",
       "parentFolderId": null,
       "createdAt": 1786899999777,
-      "updatedAt": 1786919619487
+      "updatedAt": 1786919619487,
+      "hidden": false
     },
     {
       "id": "1787020450508-uk5bnh",
@@ -53650,12 +53661,12 @@
       "1786903322186-8l256o",
       "1785534543344-c65n9w",
       "1787095737155-yey6rz",
-      "1787103989107-4tlgu5",
       "1787141378852-08hl6g",
       "1787142622426-yovrv9",
       "1787143620226-bna0yn",
       "1787156557298-iuondw",
       "1787157511828-1nm2md",
+      "1787103989107-4tlgu5",
       "1787182166978-rh6yyl",
       "1787265557179-qqznwe",
       "1787315646732-lic8xc",
@@ -53676,8 +53687,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790691553-hyw3ii",
-      "1786790778605-xlce2w"
+      "1786790778605-xlce2w",
+      "1786790691553-hyw3ii"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
