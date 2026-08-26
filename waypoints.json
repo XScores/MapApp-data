@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-26T22:48:05.757Z",
+  "exportedAt": "2026-08-26T21:21:28.230Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -4283,6 +4283,109 @@
       }
     },
     {
+      "id": "1787156497516-0ifh54",
+      "lat": 45.43740916171599,
+      "lng": -75.63034791012329,
+      "name": "Story - Crotch Lake Preparation",
+      "notes": "Under a warm, overcast sky of 25°C, we kicked off our evening errands at 5:40 PM with a clear mission: get ready for our upcoming camping trip to Crotch Lake. Our first stop at Giant Tiger was supposed to be a simple snack run, but we got a little carried away, walking out thirty minutes later with $107.04 worth of treats and groceries—we might have gone a bit overboard! From there, we headed to Decathlon at 6:10 PM to hunt for new camp chairs. We decided to hold off on the chairs until they go on sale, but we couldn't resist picking up a handy inflatable pillow instead. \n\nOur grocery quest continued with a swift six-minute dash through Adonis at 6:30 PM, where we grabbed fresh limes, jalapeños, and black beans. That led us seamlessly into our next phase of prep just after 6:36 PM, focusing on gathering all the essential non-perishable foods that won't require refrigeration at the campsite. By 7:00 PM, we popped into Dollarama for a quick ten minutes to round up paper plates and a few other campsite odds and ends. \n\nAll that preparation certainly worked up an appetite, so at 7:10 PM, we swung by McDonald’s to grab a quick, well-deserved bite to eat for Helen and myself. Finally, after walking an impressive 11.74 kilometers throughout our busy evening, we arrived back home at 7:30 PM. The temperature had cooled to a comfortable 22°C beneath the cloudy sky, and we unpacked all our gear and provisions, happily ready and fully stocked for the wilderness ahead.",
+      "code": "wildatoll.bokife.karimi",
+      "folderId": "1787084393613-l0gpto",
+      "isStoryEntry": true,
+      "storyFormat": "narrative",
+      "markerStyle": "emoji",
+      "markerColor": "#a78bfa",
+      "markerEmoji": "✨",
+      "photos": [],
+      "createdAt": 1787156497517,
+      "updatedAt": 1787156497518,
+      "weather": {
+        "tempC": 20.48,
+        "icon": "04d",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1787156519206-kqzu0m",
+      "lat": 45.43740916171599,
+      "lng": -75.63034791012329,
+      "name": "Blog - Crotch Lake Preparation",
+      "notes": "The greatest outdoor adventures don’t start at the trailhead; they begin right in the middle of a chaotic, caffeine-fueled pre-trip supply run. With our upcoming wilderness escape to Crotch Lake creeping up on the calendar, we officially kicked off our mission to gather provisions, gear, and an obscene amount of trail food. The afternoon air was a balmy 25°C under a canopy of soft, overcast gray clouds as we laced up our walking shoes and hit the pavement to tackle our hefty checklist across town.\n\nOur first port of call was Giant Tiger, pulling up right around 5:40 PM with modest intentions. Naturally, our self-control dissolved the moment we stepped into the snack aisle. What was supposed to be a quick sweep for a few light nibbles spiraled into a glorious thirty-minute haul, leaving us with a receipt totaling $107.04 in groceries and goodies. Did we go a little overboard? Absolutely, but nobody ever complained about having too many treats around the evening campfire. \n\nStill riding the high of our snack victory, we made our way over to Decathlon by 6:10 PM in search of some sturdy new camp chairs. We spent twenty minutes testing out different seating options, debating comfort versus packability, but ultimately decided our wallets would be happier if we waited for a good sale. We didn't leave empty-handed, though; a sleek, compact inflatable pillow caught our eye and made the cut, promising much better sleep under the stars. \n\nFrom there, our itinerary picked up speed. At 6:30 PM, we ducked into Adonis for a lightning-fast six-minute raid, carefully selecting fresh limes, vibrant jalapeños, and canned black beans to bring some zesty camp-side recipes to life. Minutes later, at 6:36 PM, we rolled straight into the next leg of our preparation blitz, dedicating nearly half an hour to stocking up on all the sturdy, non-refrigerated staples that would survive the journey into the backcountry without taking up precious cooler space.\n\nBy 7:00 PM, we found ourselves cruising the aisles at Dollarama, spending ten minutes grabbing the essential odds and ends that every outdoor trip demands, including a fresh stack of paper plates for mess-free camp meals. All that shopping and navigating through town had worked up a serious appetite, so at 7:10 PM, we pulled into McDonald's for a well-deserved twenty-minute pit stop to grab some hot comfort food for Helen and myself. Nothing hits the spot quite like quick burgers and fries when you’ve spent the entire evening on your feet.\n\nAs the dusk settled and the temperature dipped to a comfortable 22°C beneath the lingering overcast skies, we finally walked through our front door at 7:30 PM. Looking down at our trackers, we realized we had logged an impressive 11.74 kilometers just darting between shops and hauling bags. Our living room floor is now completely covered in dry goods, gear sacks, and produce, but our spirits couldn't be higher. We’re officially packed, prepped, and ready to swap the city pavements for the serene waters of Crotch Lake—until then, sweet dreams and happy trails!",
+      "code": "wildatoll.bokife.karimi",
+      "folderId": "1787084393613-l0gpto",
+      "isStoryEntry": true,
+      "storyFormat": "blog",
+      "markerStyle": "emoji",
+      "markerColor": "#a78bfa",
+      "markerEmoji": "📝",
+      "photos": [],
+      "createdAt": 1787156460000,
+      "updatedAt": 1787156707819,
+      "url": "",
+      "review": {
+        "name": "Blog - Crotch Lake Preparation",
+        "rating": null,
+        "ambianceRating": null,
+        "cleanlinessRating": null,
+        "locationTag": "",
+        "priceLevel": 1,
+        "hours": "",
+        "phone": "",
+        "email": "",
+        "tags": []
+      },
+      "weather": {
+        "tempC": 20.48,
+        "icon": "04d",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1787156549928-krjel7",
+      "lat": 45.43740916171599,
+      "lng": -75.63034791012329,
+      "name": "Insta - Crotch Lake Preparation",
+      "notes": "Getting ready for our upcoming Crotch Lake camping trip! We definitely went a bit overboard on the snack haul at Giant Tiger and grabbed some new gear at Decathlon before wrapping up our errand run with a quick McDonald's dinner. Now we're all packed, fed, and officially ready for the woods. 🏕️\n\n#campingprep #crotchlake #snackhaul #errandday #getoutside",
+      "code": "wildatoll.bokife.karimi",
+      "folderId": "1787084393613-l0gpto",
+      "isStoryEntry": true,
+      "storyFormat": "instagram",
+      "markerStyle": "emoji",
+      "markerColor": "#f472b6",
+      "markerEmoji": "📷",
+      "photos": [],
+      "createdAt": 1787156549928,
+      "updatedAt": 1787156549928,
+      "weather": {
+        "tempC": 20.48,
+        "icon": "04d",
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "id": "1787156553612-k4i35w",
+      "lat": 45.437411053915,
+      "lng": -75.63034147024156,
+      "name": "TikTok - Crotch Lake Preparation",
+      "notes": "5 chaotic stops to prep for our Crotch Lake camping trip! ⛺️ (Yes, we overbought snacks). \n\n#CampingPrep #ErrandRun #CampingLife #SnackHaul",
+      "code": "wildatoll.bokife.karimi",
+      "folderId": "1787084393613-l0gpto",
+      "isStoryEntry": true,
+      "storyFormat": "tiktok",
+      "markerStyle": "emoji",
+      "markerColor": "#22d3ee",
+      "markerEmoji": "🎵",
+      "photos": [],
+      "createdAt": 1787156520000,
+      "updatedAt": 1787168247504,
+      "weather": {
+        "tempC": 20.48,
+        "icon": "04d",
+        "description": "overcast clouds"
+      },
+      "url": "",
+      "review": null
+    },
+    {
       "id": "1787158827511-mfejb5",
       "lat": 45.45340500117153,
       "lng": -75.60830191645587,
@@ -4455,109 +4558,6 @@
       "review": null
     },
     {
-      "id": "1787156497516-0ifh54",
-      "lat": 45.43740916171599,
-      "lng": -75.63034791012329,
-      "name": "Story - Crotch Lake Preparation",
-      "notes": "Under a warm, overcast sky of 25°C, we kicked off our evening errands at 5:40 PM with a clear mission: get ready for our upcoming camping trip to Crotch Lake. Our first stop at Giant Tiger was supposed to be a simple snack run, but we got a little carried away, walking out thirty minutes later with $107.04 worth of treats and groceries—we might have gone a bit overboard! From there, we headed to Decathlon at 6:10 PM to hunt for new camp chairs. We decided to hold off on the chairs until they go on sale, but we couldn't resist picking up a handy inflatable pillow instead. \n\nOur grocery quest continued with a swift six-minute dash through Adonis at 6:30 PM, where we grabbed fresh limes, jalapeños, and black beans. That led us seamlessly into our next phase of prep just after 6:36 PM, focusing on gathering all the essential non-perishable foods that won't require refrigeration at the campsite. By 7:00 PM, we popped into Dollarama for a quick ten minutes to round up paper plates and a few other campsite odds and ends. \n\nAll that preparation certainly worked up an appetite, so at 7:10 PM, we swung by McDonald’s to grab a quick, well-deserved bite to eat for Helen and myself. Finally, after walking an impressive 11.74 kilometers throughout our busy evening, we arrived back home at 7:30 PM. The temperature had cooled to a comfortable 22°C beneath the cloudy sky, and we unpacked all our gear and provisions, happily ready and fully stocked for the wilderness ahead.",
-      "code": "wildatoll.bokife.karimi",
-      "folderId": "1787084393613-l0gpto",
-      "isStoryEntry": true,
-      "storyFormat": "narrative",
-      "markerStyle": "emoji",
-      "markerColor": "#a78bfa",
-      "markerEmoji": "✨",
-      "photos": [],
-      "createdAt": 1787156497517,
-      "updatedAt": 1787156497518,
-      "weather": {
-        "tempC": 20.48,
-        "icon": "04d",
-        "description": "overcast clouds"
-      }
-    },
-    {
-      "id": "1787156519206-kqzu0m",
-      "lat": 45.43740916171599,
-      "lng": -75.63034791012329,
-      "name": "Blog - Crotch Lake Preparation",
-      "notes": "The greatest outdoor adventures don’t start at the trailhead; they begin right in the middle of a chaotic, caffeine-fueled pre-trip supply run. With our upcoming wilderness escape to Crotch Lake creeping up on the calendar, we officially kicked off our mission to gather provisions, gear, and an obscene amount of trail food. The afternoon air was a balmy 25°C under a canopy of soft, overcast gray clouds as we laced up our walking shoes and hit the pavement to tackle our hefty checklist across town.\n\nOur first port of call was Giant Tiger, pulling up right around 5:40 PM with modest intentions. Naturally, our self-control dissolved the moment we stepped into the snack aisle. What was supposed to be a quick sweep for a few light nibbles spiraled into a glorious thirty-minute haul, leaving us with a receipt totaling $107.04 in groceries and goodies. Did we go a little overboard? Absolutely, but nobody ever complained about having too many treats around the evening campfire. \n\nStill riding the high of our snack victory, we made our way over to Decathlon by 6:10 PM in search of some sturdy new camp chairs. We spent twenty minutes testing out different seating options, debating comfort versus packability, but ultimately decided our wallets would be happier if we waited for a good sale. We didn't leave empty-handed, though; a sleek, compact inflatable pillow caught our eye and made the cut, promising much better sleep under the stars. \n\nFrom there, our itinerary picked up speed. At 6:30 PM, we ducked into Adonis for a lightning-fast six-minute raid, carefully selecting fresh limes, vibrant jalapeños, and canned black beans to bring some zesty camp-side recipes to life. Minutes later, at 6:36 PM, we rolled straight into the next leg of our preparation blitz, dedicating nearly half an hour to stocking up on all the sturdy, non-refrigerated staples that would survive the journey into the backcountry without taking up precious cooler space.\n\nBy 7:00 PM, we found ourselves cruising the aisles at Dollarama, spending ten minutes grabbing the essential odds and ends that every outdoor trip demands, including a fresh stack of paper plates for mess-free camp meals. All that shopping and navigating through town had worked up a serious appetite, so at 7:10 PM, we pulled into McDonald's for a well-deserved twenty-minute pit stop to grab some hot comfort food for Helen and myself. Nothing hits the spot quite like quick burgers and fries when you’ve spent the entire evening on your feet.\n\nAs the dusk settled and the temperature dipped to a comfortable 22°C beneath the lingering overcast skies, we finally walked through our front door at 7:30 PM. Looking down at our trackers, we realized we had logged an impressive 11.74 kilometers just darting between shops and hauling bags. Our living room floor is now completely covered in dry goods, gear sacks, and produce, but our spirits couldn't be higher. We’re officially packed, prepped, and ready to swap the city pavements for the serene waters of Crotch Lake—until then, sweet dreams and happy trails!",
-      "code": "wildatoll.bokife.karimi",
-      "folderId": "1787084393613-l0gpto",
-      "isStoryEntry": true,
-      "storyFormat": "blog",
-      "markerStyle": "emoji",
-      "markerColor": "#a78bfa",
-      "markerEmoji": "📝",
-      "photos": [],
-      "createdAt": 1787156460000,
-      "updatedAt": 1787156707819,
-      "url": "",
-      "review": {
-        "name": "Blog - Crotch Lake Preparation",
-        "rating": null,
-        "ambianceRating": null,
-        "cleanlinessRating": null,
-        "locationTag": "",
-        "priceLevel": 1,
-        "hours": "",
-        "phone": "",
-        "email": "",
-        "tags": []
-      },
-      "weather": {
-        "tempC": 20.48,
-        "icon": "04d",
-        "description": "overcast clouds"
-      }
-    },
-    {
-      "id": "1787156549928-krjel7",
-      "lat": 45.43740916171599,
-      "lng": -75.63034791012329,
-      "name": "Insta - Crotch Lake Preparation",
-      "notes": "Getting ready for our upcoming Crotch Lake camping trip! We definitely went a bit overboard on the snack haul at Giant Tiger and grabbed some new gear at Decathlon before wrapping up our errand run with a quick McDonald's dinner. Now we're all packed, fed, and officially ready for the woods. 🏕️\n\n#campingprep #crotchlake #snackhaul #errandday #getoutside",
-      "code": "wildatoll.bokife.karimi",
-      "folderId": "1787084393613-l0gpto",
-      "isStoryEntry": true,
-      "storyFormat": "instagram",
-      "markerStyle": "emoji",
-      "markerColor": "#f472b6",
-      "markerEmoji": "📷",
-      "photos": [],
-      "createdAt": 1787156549928,
-      "updatedAt": 1787156549928,
-      "weather": {
-        "tempC": 20.48,
-        "icon": "04d",
-        "description": "overcast clouds"
-      }
-    },
-    {
-      "id": "1787156553612-k4i35w",
-      "lat": 45.437411053915,
-      "lng": -75.63034147024156,
-      "name": "TikTok - Crotch Lake Preparation",
-      "notes": "5 chaotic stops to prep for our Crotch Lake camping trip! ⛺️ (Yes, we overbought snacks). \n\n#CampingPrep #ErrandRun #CampingLife #SnackHaul",
-      "code": "wildatoll.bokife.karimi",
-      "folderId": "1787084393613-l0gpto",
-      "isStoryEntry": true,
-      "storyFormat": "tiktok",
-      "markerStyle": "emoji",
-      "markerColor": "#22d3ee",
-      "markerEmoji": "🎵",
-      "photos": [],
-      "createdAt": 1787156520000,
-      "updatedAt": 1787168247504,
-      "weather": {
-        "tempC": 20.48,
-        "icon": "04d",
-        "description": "overcast clouds"
-      },
-      "url": "",
-      "review": null
-    },
-    {
       "id": "1787238448868-w2w0s4",
       "lat": 45.45331609991105,
       "lng": -75.6083393096924,
@@ -4672,7 +4672,7 @@
       "folderId": "1787315718734-xa2dcg",
       "photos": [],
       "createdAt": 1787315700000,
-      "updatedAt": 1787315826712,
+      "updatedAt": 1787760701634,
       "weather": {
         "tempC": 23.03,
         "icon": "03d",
@@ -4690,7 +4690,8 @@
         "phone": "",
         "email": "",
         "tags": []
-      }
+      },
+      "hidden": true
     },
     {
       "id": "1787317429465-mnm3ks",
@@ -4706,14 +4707,15 @@
       "folderId": "1787315718734-xa2dcg",
       "photos": [],
       "createdAt": 1787317380000,
-      "updatedAt": 1787442763596,
+      "updatedAt": 1787760697752,
       "weather": {
         "tempC": 22.64,
         "icon": "03d",
         "description": "scattered clouds"
       },
       "url": "",
-      "review": null
+      "review": null,
+      "hidden": true
     },
     {
       "id": "1787318013155-w4jpc3",
@@ -4729,14 +4731,15 @@
       "folderId": "1787315718734-xa2dcg",
       "photos": [],
       "createdAt": 1787317980000,
-      "updatedAt": 1787442818650,
+      "updatedAt": 1787760694370,
       "weather": {
         "tempC": 22.64,
         "icon": "03d",
         "description": "scattered clouds"
       },
       "url": "",
-      "review": null
+      "review": null,
+      "hidden": true
     },
     {
       "id": "1787318154951-eh7gg6",
@@ -4752,14 +4755,15 @@
       "folderId": "1787315718734-xa2dcg",
       "photos": [],
       "createdAt": 1787318100000,
-      "updatedAt": 1787442842802,
+      "updatedAt": 1787760691339,
       "weather": {
         "tempC": 22.64,
         "icon": "03d",
         "description": "scattered clouds"
       },
       "url": "",
-      "review": null
+      "review": null,
+      "hidden": true
     },
     {
       "id": "1787318288852-9a295o",
@@ -4775,14 +4779,15 @@
       "folderId": "1787315718734-xa2dcg",
       "photos": [],
       "createdAt": 1787318280000,
-      "updatedAt": 1787442862238,
+      "updatedAt": 1787760688625,
       "weather": {
         "tempC": 22.64,
         "icon": "03d",
         "description": "scattered clouds"
       },
       "url": "",
-      "review": null
+      "review": null,
+      "hidden": true
     },
     {
       "id": "1787321383162-4f8ru4",
@@ -4798,12 +4803,13 @@
       "folderId": "1787315718734-xa2dcg",
       "photos": [],
       "createdAt": 1787321383178,
-      "updatedAt": 1787321419858,
+      "updatedAt": 1787760685511,
       "weather": {
         "tempC": 23.92,
         "icon": "02d",
         "description": "few clouds"
-      }
+      },
+      "hidden": true
     },
     {
       "id": "1787327187415-fepl36",
@@ -4830,11 +4836,11 @@
     },
     {
       "id": "1787329666621-6qzh02",
-      "lat": 44.9575327949707,
-      "lng": -76.813882291317,
+      "lat": 44.95751761086136,
+      "lng": -76.81392788887025,
       "name": "Launching the canoe",
       "notes": "It’s always a miracle that we can fit all of the gear into the canoe. Lake is calm with a light breeze.",
-      "code": "wildatoll.bodoka.regori",
+      "code": "wildatoll.bodoka.regono",
       "isCurrentLocation": true,
       "markerStyle": "pin",
       "markerColor": "#f59e0b",
@@ -4842,7 +4848,7 @@
       "folderId": "1787315718734-xa2dcg",
       "photos": [],
       "createdAt": 1787329620000,
-      "updatedAt": 1787443156467,
+      "updatedAt": 1787760187748,
       "weather": {
         "tempC": 23.29,
         "icon": "02d",
@@ -4898,8 +4904,8 @@
     },
     {
       "id": "1787442545532-dywc1w",
-      "lat": 44.93589075757788,
-      "lng": -76.80600003680122,
+      "lat": 44.935900856154404,
+      "lng": -76.80596977472305,
       "name": "Saturday Site 68",
       "notes": "Woke up to a sunny day and put a pot of coffee on while Guy took a short swim.\n\nFor breakfast, made eggs (over easy) hash browns and a pound of bacon to go with our orange juice.\n\nWindy day on the site, temperature varied throughout the day depending on the amount of sun peeking through the clouds, and how hard the wind was blowing.\n\nSpent some time reading in and out of the hammock.\n\nPlayed a few games, Guy skunked me at crib, but I won 5 crowns and Farkle. Ate snacks instead of an actual lunch. Trail mix licorice, and barbecue chips.\n\nDinner was bacon wrapped steamed cooked over the fire, fried mushrooms and onions, mashed potatoes and Caesar salad. Guy brought a nice red wine to accompany the meal.\n\nClouds are moving in after dinner, but the wind died down, and it’s warming up again.\n\nWe need to batten down the site tonight as we’re expecting thunderstorms overnight. Hopefully by the morning it will be clear again.",
       "url": "",
@@ -4912,7 +4918,7 @@
       "folderId": "1787315718734-xa2dcg",
       "review": null,
       "createdAt": 1787441640000,
-      "updatedAt": 1787442545545,
+      "updatedAt": 1787760145003,
       "weather": {
         "tempC": 21.87,
         "icon": "04d",
@@ -4921,8 +4927,8 @@
     },
     {
       "id": "1787574267597-y0yuod",
-      "lat": 44.93584530024342,
-      "lng": -76.80603485754014,
+      "lat": 44.935828704414334,
+      "lng": -76.80602073669435,
       "name": "Monday site 68",
       "notes": "Woke up to a nice sunny day, but clouds and wind started up around 8:00. Today we’re going to pack up and be on the lake by noon to beat the possible rain coming in the afternoon.  \n\nThere was no rain last night so everything is relatively dry.",
       "url": "",
@@ -4935,7 +4941,7 @@
       "folderId": "1787315718734-xa2dcg",
       "review": null,
       "createdAt": 1787574060000,
-      "updatedAt": 1787574267599,
+      "updatedAt": 1787760141634,
       "weather": {
         "tempC": 13.95,
         "icon": "04d",
@@ -4944,12 +4950,12 @@
     },
     {
       "id": "1787591764104-e7b0fk",
-      "lat": 44.93747284562947,
-      "lng": -76.80366602783869,
+      "lat": 44.93608693127623,
+      "lng": -76.80564254522325,
       "name": "Leaving site",
       "notes": "",
       "url": "",
-      "code": "wildatoll.kudige.kebebi",
+      "code": "wildatoll.kudige.gebibu",
       "isCurrentLocation": true,
       "markerStyle": "pin",
       "markerColor": "#22d3ee",
@@ -4958,7 +4964,7 @@
       "folderId": "1787315718734-xa2dcg",
       "review": null,
       "createdAt": 1787591700000,
-      "updatedAt": 1787591764106,
+      "updatedAt": 1787760123368,
       "weather": {
         "tempC": 18.41,
         "icon": "04d",
@@ -4967,12 +4973,12 @@
     },
     {
       "id": "1787594381616-poac71",
-      "lat": 44.95759961984147,
-      "lng": -76.81382272488295,
+      "lat": 44.957504324762425,
+      "lng": -76.81383937597275,
       "name": "Back at Boat Launch",
       "notes": "We started off in fair weather, overcast but just a few drops of rain that quickly ended. Water was choppy. whitecaps just starting for form, but the wind and waves were mostly at our back.\n\nWhe we rounded the point past Site 69, the wind shifted and the waves calmed. We looked towards the boat launch and saw the rain moving in there. We started getting rained on as we neared the baot launch and then the sky opend up and it poured rain. By the time we got back to the boat launch, we were completely soaked and there was a lot of water in the canoe. As we loaded up the car, the rain stopped, and I changed into dry clothes for the trip home.",
       "url": "",
-      "code": "wildatoll.bodoka.rederi",
+      "code": "wildatoll.bodoka.regone",
       "isCurrentLocation": true,
       "markerStyle": "pin",
       "markerColor": "#22d3ee",
@@ -4981,7 +4987,7 @@
       "folderId": "1787315718734-xa2dcg",
       "review": null,
       "createdAt": 1787593740000,
-      "updatedAt": 1787654774604,
+      "updatedAt": 1787760190383,
       "weather": {
         "tempC": 15.14,
         "icon": "04d",
@@ -4990,12 +4996,12 @@
     },
     {
       "id": "1787595352052-giz237",
-      "lat": 44.95782298051162,
-      "lng": -76.81391875160185,
+      "lat": 44.957587837333286,
+      "lng": -76.8138635158539,
       "name": "Boat launch - loaded and leaving",
       "notes": "",
       "url": "",
-      "code": "wildatoll.bodoka.redemu",
+      "code": "wildatoll.bodoka.regori",
       "isCurrentLocation": true,
       "markerStyle": "pin",
       "markerColor": "#22d3ee",
@@ -5004,7 +5010,7 @@
       "folderId": "1787315718734-xa2dcg",
       "review": null,
       "createdAt": 1787595300000,
-      "updatedAt": 1787595352053,
+      "updatedAt": 1787760195899,
       "weather": {
         "tempC": 15.14,
         "icon": "04d",
@@ -5067,6 +5073,29 @@
         "tempC": 17.21,
         "icon": "02d",
         "description": "few clouds"
+      }
+    },
+    {
+      "id": "1787779091010-rcfhmx",
+      "lat": 45.45743464776004,
+      "lng": -75.67794799804689,
+      "name": "River House",
+      "notes": "Just arrived back home. Ellen and I rode our bikes there and met Emma after she finished work at the Gallery. E & E treaded water for 30 minutes, while I timed them.  Nice Day!",
+      "url": "",
+      "code": "wildatoll.bokemo.fimere",
+      "isCurrentLocation": false,
+      "markerStyle": "emoji",
+      "markerColor": "#f59e0b",
+      "markerEmoji": "🏖️",
+      "photos": [],
+      "folderId": "1786889041106-wtoqp1",
+      "review": null,
+      "createdAt": 1787784000000,
+      "updatedAt": 1787779182843,
+      "weather": {
+        "tempC": 24.65,
+        "icon": "04d",
+        "description": "broken clouds"
       }
     }
   ],
@@ -53461,38 +53490,6 @@
   ],
   "measurements": [
     {
-      "id": "1786793369743-j6bsx7",
-      "name": "Measurement Aug 15",
-      "points": [
-        {
-          "lat": 45.45754188779272,
-          "lng": -75.60902595520021
-        },
-        {
-          "lat": 45.45269518720968,
-          "lng": -75.61190128326417
-        },
-        {
-          "lat": 45.45010609572099,
-          "lng": -75.60486316680908
-        },
-        {
-          "lat": 45.45404989701741,
-          "lng": -75.60134410858156
-        },
-        {
-          "lat": 45.457331170342194,
-          "lng": -75.60490608215332
-        },
-        {
-          "lat": 45.45753436218306,
-          "lng": -75.60890793800355
-        }
-      ],
-      "createdAt": 1786793369743,
-      "updatedAt": 1786793771457
-    },
-    {
       "id": "1786792740084-11isgu",
       "name": "Measurement Aug 15",
       "points": [
@@ -53559,6 +53556,38 @@
       ],
       "createdAt": 1786811361759,
       "updatedAt": 1786811361759
+    },
+    {
+      "id": "1786793369743-j6bsx7",
+      "name": "Measurement Aug 15",
+      "points": [
+        {
+          "lat": 45.45754188779272,
+          "lng": -75.60902595520021
+        },
+        {
+          "lat": 45.45269518720968,
+          "lng": -75.61190128326417
+        },
+        {
+          "lat": 45.45010609572099,
+          "lng": -75.60486316680908
+        },
+        {
+          "lat": 45.45404989701741,
+          "lng": -75.60134410858156
+        },
+        {
+          "lat": 45.457331170342194,
+          "lng": -75.60490608215332
+        },
+        {
+          "lat": 45.45753436218306,
+          "lng": -75.60890793800355
+        }
+      ],
+      "createdAt": 1786793369743,
+      "updatedAt": 1786793771457
     }
   ],
   "waypointFolders": [
@@ -53602,38 +53631,44 @@
       "name": "Ottawa National Capital Region",
       "createdAt": 1786889041106,
       "updatedAt": 1787699374106,
-      "color": "#fbbf24"
+      "color": "#fbbf24",
+      "hidden": false
     },
     {
       "id": "1786886787002-1ehedf",
       "name": "Quebec",
       "createdAt": 1786886787002,
-      "updatedAt": 1786886787002
+      "updatedAt": 1786886787002,
+      "hidden": true
     },
     {
       "id": "1786897425315-cacgug",
       "name": "Cathy & Andy",
       "createdAt": 1786897425315,
-      "updatedAt": 1786897425315
+      "updatedAt": 1786897425315,
+      "hidden": true
     },
     {
       "id": "1786897464647-7vqj57",
       "name": "Highway 401",
       "createdAt": 1786897464647,
-      "updatedAt": 1786897464647
+      "updatedAt": 1786897464647,
+      "hidden": true
     },
     {
       "id": "1786898080736-5r5j0r",
       "name": "Events",
       "createdAt": 1786898080736,
-      "updatedAt": 1786898080736
+      "updatedAt": 1786898080736,
+      "hidden": true
     },
     {
       "id": "1786899999777-ua7nkx",
       "name": "Camping Sites",
       "parentFolderId": null,
       "createdAt": 1786899999777,
-      "updatedAt": 1786919619487
+      "updatedAt": 1786919619487,
+      "hidden": true
     },
     {
       "id": "1787020450508-uk5bnh",
@@ -53648,7 +53683,8 @@
       "parentFolderId": null,
       "isTrip": false,
       "createdAt": 1787052315959,
-      "updatedAt": 1787052315959
+      "updatedAt": 1787052315959,
+      "hidden": true
     },
     {
       "id": "1787071867250-ito2ux",
@@ -53656,7 +53692,8 @@
       "parentFolderId": null,
       "isTrip": false,
       "createdAt": 1787071867250,
-      "updatedAt": 1787071867250
+      "updatedAt": 1787071867250,
+      "hidden": true
     },
     {
       "id": "1787084393613-l0gpto",
@@ -53676,7 +53713,7 @@
       "createdAt": 1787315718735,
       "updatedAt": 1787315718735,
       "color": "#a78bfa",
-      "hidden": true
+      "hidden": false
     }
   ],
   "rideFolders": [
@@ -53707,12 +53744,12 @@
       "1786903322186-8l256o",
       "1785534543344-c65n9w",
       "1787095737155-yey6rz",
-      "1787103989107-4tlgu5",
       "1787141378852-08hl6g",
       "1787142622426-yovrv9",
       "1787143620226-bna0yn",
       "1787156557298-iuondw",
       "1787157511828-1nm2md",
+      "1787103989107-4tlgu5",
       "1787182166978-rh6yyl",
       "1787265557179-qqznwe",
       "1787315646732-lic8xc",
@@ -53722,7 +53759,8 @@
       "1787318367002-morlsg",
       "1787329846701-dhcbwg",
       "1787443522754-6xuz6o",
-      "1787666068403-wu68e5"
+      "1787666068403-wu68e5",
+      "1787760358762-qzsu6r"
     ],
     "rides": [
       "1786466212086-8xbwdi",
@@ -53735,8 +53773,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790691553-hyw3ii",
-      "1786790778605-xlce2w"
+      "1786790778605-xlce2w",
+      "1786790691553-hyw3ii"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
