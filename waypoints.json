@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-26T10:55:24.822Z",
+  "exportedAt": "2026-08-26T22:48:05.757Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -53665,7 +53665,8 @@
       "isTrip": true,
       "createdAt": 1787084393613,
       "updatedAt": 1787238718995,
-      "color": "#a78bfa"
+      "color": "#a78bfa",
+      "hidden": true
     },
     {
       "id": "1787315718734-xa2dcg",
@@ -53674,7 +53675,8 @@
       "isTrip": true,
       "createdAt": 1787315718735,
       "updatedAt": 1787315718735,
-      "color": "#a78bfa"
+      "color": "#a78bfa",
+      "hidden": true
     }
   ],
   "rideFolders": [
