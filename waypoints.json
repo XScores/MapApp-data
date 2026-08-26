@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-25T23:08:53.524Z",
+  "exportedAt": "2026-08-26T10:49:34.798Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -5059,10 +5059,10 @@
       "markerColor": "#e2e8f0",
       "markerEmoji": "🛒",
       "photos": [],
-      "folderId": null,
+      "folderId": "1786889041106-wtoqp1",
       "review": null,
       "createdAt": 1787665980000,
-      "updatedAt": 1787666084201,
+      "updatedAt": 1787699374106,
       "weather": {
         "tempC": 17.21,
         "icon": "02d",
@@ -53601,7 +53601,8 @@
       "id": "1786889041106-wtoqp1",
       "name": "Ottawa National Capital Region",
       "createdAt": 1786889041106,
-      "updatedAt": 1786889041106
+      "updatedAt": 1787699374106,
+      "color": "#fbbf24"
     },
     {
       "id": "1786886787002-1ehedf",
@@ -53665,7 +53666,8 @@
       "isTrip": true,
       "createdAt": 1787084393613,
       "updatedAt": 1787238718995,
-      "color": "#a78bfa"
+      "color": "#a78bfa",
+      "hidden": true
     },
     {
       "id": "1787315718734-xa2dcg",
@@ -53674,7 +53676,8 @@
       "isTrip": true,
       "createdAt": 1787315718735,
       "updatedAt": 1787315718735,
-      "color": "#a78bfa"
+      "color": "#a78bfa",
+      "hidden": true
     }
   ],
   "rideFolders": [
