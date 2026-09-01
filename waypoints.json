@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-01T18:15:10.460Z",
+  "exportedAt": "2026-09-01T18:20:29.118Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -5745,7 +5745,7 @@
       "lat": 45.95189364095466,
       "lng": -76.05698677058339,
       "name": "Parking Lot Near the Road to Kazabazua",
-      "notes": "Good size parking lot for cyclists to park and unload their bikes.",
+      "notes": "Good size parking lot for cyclists to park and unload their bikes. Picnic table near the notice board. 20 k to Gracefield from here.",
       "code": "wildatoll.bakani.benedi",
       "isCurrentLocation": true,
       "markerStyle": "emoji",
@@ -5754,7 +5754,7 @@
       "folderId": "1788187727708-yuymtw",
       "photos": [],
       "createdAt": 1788190080000,
-      "updatedAt": 1788208813358,
+      "updatedAt": 1788286594624,
       "weather": {
         "tempC": 15.7,
         "icon": "04d",
