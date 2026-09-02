@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-02T00:13:01.963Z",
+  "exportedAt": "2026-09-02T00:21:06.290Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -6015,18 +6015,20 @@
       "notes": "",
       "code": "wildatoll.bakani.sukido",
       "isCurrentLocation": true,
-      "markerStyle": "pin",
+      "markerStyle": "emoji",
       "markerColor": "#f59e0b",
-      "markerEmoji": "📍",
+      "markerEmoji": "🚲",
       "folderId": null,
       "photos": [],
-      "createdAt": 1788276082848,
-      "updatedAt": 1788276094103,
+      "createdAt": 1788276060000,
+      "updatedAt": 1788308010020,
       "weather": {
         "tempC": 22.9,
         "icon": "04d",
         "description": "broken clouds"
-      }
+      },
+      "url": "",
+      "review": null
     },
     {
       "id": "1788280375560-3dcqx2",
