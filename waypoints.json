@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-02T00:21:42.459Z",
+  "exportedAt": "2026-09-02T00:33:05.715Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -6012,44 +6012,57 @@
       "lat": 45.93615964227817,
       "lng": -76.04850401295525,
       "name": "Alternate route back",
-      "notes": "",
+      "notes": "The Path starts out well but there is a section of cobbles that make bike riding difficult. It's best to walk the bike over this section (about 30m)",
       "code": "wildatoll.bakani.sukido",
       "isCurrentLocation": true,
       "markerStyle": "emoji",
       "markerColor": "#f59e0b",
       "markerEmoji": "🚲",
-      "folderId": null,
+      "folderId": "1788187727708-yuymtw",
       "photos": [],
       "createdAt": 1788276060000,
-      "updatedAt": 1788308010020,
+      "updatedAt": 1788308987471,
       "weather": {
         "tempC": 22.9,
         "icon": "04d",
         "description": "broken clouds"
       },
       "url": "",
-      "review": null
+      "review": {
+        "name": "Alternate route back",
+        "rating": null,
+        "ambianceRating": null,
+        "cleanlinessRating": null,
+        "locationTag": "",
+        "priceLevel": 1,
+        "hours": "",
+        "phone": "",
+        "email": "",
+        "tags": []
+      }
     },
     {
       "id": "1788280375560-3dcqx2",
-      "lat": 45.99526555122152,
-      "lng": -76.0605560428585,
-      "name": "Area",
-      "notes": "",
-      "code": "wildatoll.bakalu.bogado",
+      "lat": 45.995953552221536,
+      "lng": -76.06202960014343,
+      "name": "Picnic Area",
+      "notes": "Picnic Table, Outhouse, Garbage Bin",
+      "code": "wildatoll.bakalu.benemu",
       "isCurrentLocation": true,
-      "markerStyle": "pin",
+      "markerStyle": "emoji",
       "markerColor": "#f59e0b",
-      "markerEmoji": "📍",
+      "markerEmoji": "🚲",
       "folderId": "1788187727708-yuymtw",
       "photos": [],
-      "createdAt": 1788280375564,
-      "updatedAt": 1788280396502,
+      "createdAt": 1788280320000,
+      "updatedAt": 1788309152302,
       "weather": {
         "tempC": 22.71,
         "icon": "04d",
         "description": "broken clouds"
-      }
+      },
+      "url": "",
+      "review": null
     }
   ],
   "rides": [
