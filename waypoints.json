@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-09T11:32:03.375Z",
+  "exportedAt": "2026-09-09T11:32:41.118Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -196862,6 +196862,11 @@
       "notes": "4 Delong Drive",
       "photos": []
     },
-    "anchorOverrides": {}
+    "anchorOverrides": {},
+    "customLocationMarker": {
+      "images": [],
+      "activeId": null,
+      "size": 22
+    }
   }
 }
