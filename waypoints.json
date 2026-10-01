@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-16T10:50:24.790Z",
+  "exportedAt": "2026-10-01T09:35:11.141Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -205265,6 +205265,136 @@
     }
   ],
   "waypointFolders": [
+    {
+      "id": "1790845980248-fslssn",
+      "name": "Alberta",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980249-nyrdwn",
+      "name": "British Columbia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980250-h4tplf",
+      "name": "Manitoba",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980251-yop3ht",
+      "name": "New Brunswick",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980252-k5k94t",
+      "name": "Newfoundland and Labrador",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980253-sisadp",
+      "name": "Nova Scotia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980254-i2zdvw",
+      "name": "Ontario",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980255-7qbp7w",
+      "name": "Prince Edward Island",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980256-ub47r6",
+      "name": "Quebec",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980257-rrk0a5",
+      "name": "Saskatchewan",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980258-94t8cy",
+      "name": "Northwest Territories",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980259-gtocst",
+      "name": "Nunavut",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
+    {
+      "id": "1790845980260-lg3gjv",
+      "name": "Yukon",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1790845980248,
+      "updatedAt": 1790845980248
+    },
     {
       "id": "1786886537675-6cito7",
       "name": "Crotch Lake",
