@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-05T18:26:09.741Z",
+  "exportedAt": "2026-10-05T20:35:18.340Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -232373,7 +232373,8 @@
       "favoriteIds": [
         "lm_mttztlsb2os5y8",
         "lm_migrated",
-        "lm_mttb8bi7g36246"
+        "lm_mttb8bi7g36246",
+        ""
       ]
     }
   }
