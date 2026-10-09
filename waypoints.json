@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-09T19:49:44.420Z",
+  "exportedAt": "2026-10-09T20:10:49.115Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -6572,7 +6572,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007261,
-      "updatedAt": 1791560007261
+      "updatedAt": 1791573222316,
+      "hidden": false
     },
     {
       "id": "wp_mv14kktbnlrcny",
@@ -6602,7 +6603,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007262,
-      "updatedAt": 1791560007262
+      "updatedAt": 1791572378730,
+      "hidden": true
     },
     {
       "id": "wp_mv14kktcrtmuwv",
@@ -6632,7 +6634,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007263,
-      "updatedAt": 1791560007263
+      "updatedAt": 1791572384679,
+      "hidden": true
     },
     {
       "id": "wp_mv14kktcw7w1ae",
@@ -6662,7 +6665,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007264,
-      "updatedAt": 1791560007264
+      "updatedAt": 1791572389262,
+      "hidden": true
     },
     {
       "id": "wp_mv14kktc53r1lf",
@@ -233761,136 +233765,6 @@
   ],
   "waypointFolders": [
     {
-      "id": "1791575129343-sj994x",
-      "name": "Alberta",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129344-s9baac",
-      "name": "British Columbia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129345-w3ddpj",
-      "name": "Manitoba",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129346-us5t13",
-      "name": "New Brunswick",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129347-1n6sjm",
-      "name": "Newfoundland and Labrador",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129348-7aaf0a",
-      "name": "Nova Scotia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129349-jxo43g",
-      "name": "Ontario",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129350-wfte61",
-      "name": "Prince Edward Island",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129351-xu2mjo",
-      "name": "Quebec",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129352-8cs0kh",
-      "name": "Saskatchewan",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129353-ivnaf8",
-      "name": "Northwest Territories",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129354-qobehw",
-      "name": "Nunavut",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129355-uw8fh6",
-      "name": "Yukon",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
       "id": "1791218542222-ek0lt8",
       "name": "Alberta",
       "parentFolderId": null,
@@ -234474,13 +234348,13 @@
     },
     {
       "id": "1791560007261-64lrg9",
-      "name": "2 Czeck Republic",
+      "name": "2 Czech Republic",
       "parentFolderId": null,
       "isTrip": false,
       "isItinerary": true,
       "region": "personal",
       "createdAt": 1791560007261,
-      "updatedAt": 1791570783253,
+      "updatedAt": 1791576319601,
       "color": "#22d3ee",
       "itineraryStartDate": "2026-10-09",
       "travelMode": "walking",
@@ -234505,13 +234379,13 @@
     },
     {
       "id": "1791560007261-il1upv",
-      "name": "Czeck Republic - Day 1 (2026-10-09)",
+      "name": "Day 1 - Czech Republic (2026-10-09)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007261,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576336083,
       "color": "#22d3ee",
       "theme": "Heart of the Old Town",
       "route": {
@@ -234930,13 +234804,13 @@
     },
     {
       "id": "1791560007265-fm33z7",
-      "name": "Czeck Republic - Day 2 (2026-10-10)",
+      "name": "Day 2 - Czech Republic (2026-10-10)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007265,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576379681,
       "color": "#22d3ee",
       "theme": "Jewish Quarter & Riverside",
       "route": {
@@ -235383,17 +235257,17 @@
         "distanceMeters": 2025,
         "durationSeconds": 1624.5
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007267-x7n5ix",
-      "name": "Czeck Republic - Day 3 (2026-10-11)",
+      "name": "Day 3 - Czech Republic (2026-10-11)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007267,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576390448,
       "color": "#22d3ee",
       "theme": "Charles Bridge & Little Quarter",
       "route": {
@@ -235732,17 +235606,17 @@
         "distanceMeters": 1585.3,
         "durationSeconds": 1268.2
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007268-hdjcby",
-      "name": "Czeck Republic - Day 4 (2026-10-12)",
+      "name": "Day 4 - Czech Republic (2026-10-12)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007268,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576404016,
       "color": "#22d3ee",
       "theme": "Prague Castle & Hradčany",
       "route": {
@@ -236245,17 +236119,17 @@
         "distanceMeters": 2378.1,
         "durationSeconds": 1903.9
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007270-vzxqe0",
-      "name": "Czeck Republic - Day 5 (2026-10-13)",
+      "name": "Day 5 - Czech Republic (2026-10-13)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007270,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576418698,
       "color": "#22d3ee",
       "theme": "Petřín Hill & Green Slopes",
       "route": {
@@ -236942,17 +236816,17 @@
         "distanceMeters": 3083.3,
         "durationSeconds": 2474.2
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007271-xwkawj",
-      "name": "Czeck Republic - Day 6 (2026-10-14)",
+      "name": "Day 6 - Czech Republic (2026-10-14)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007271,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576430413,
       "color": "#22d3ee",
       "theme": "New Town & Art Nouveau",
       "route": {
@@ -237515,17 +237389,17 @@
         "distanceMeters": 2776.4,
         "durationSeconds": 2221.1
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007272-ndje6c",
-      "name": "Czeck Republic - Day 7 (2026-10-15)",
+      "name": "Day 7 - Czech Republic (2026-10-15)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007272,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576441529,
       "color": "#22d3ee",
       "theme": "Vyšehrad Citadel & Riverside Walk",
       "route": {
@@ -238012,17 +237886,17 @@
         "distanceMeters": 2222.1,
         "durationSeconds": 1777.4
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007273-0a84jd",
-      "name": "Czeck Republic - Day 8 (2026-10-16)",
+      "name": "Day 8 - Czech Republic (2026-10-16)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007273,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576455929,
       "color": "#22d3ee",
       "theme": "Vinohrady & Vršovice Bohemian Charm",
       "route": {
@@ -238773,17 +238647,17 @@
         "distanceMeters": 3782.4,
         "durationSeconds": 3025.9
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007274-j4o4xx",
-      "name": "Czeck Republic - Day 9 (2026-10-17)",
+      "name": "Day 9 - Czech Republic (2026-10-17)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007274,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576471578,
       "color": "#22d3ee",
       "theme": "Letná Heights & Holešovice",
       "route": {
@@ -239910,17 +239784,17 @@
         "distanceMeters": 6243.9,
         "durationSeconds": 4998.4
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791560007276-da37cq",
-      "name": "Czeck Republic - Day 10 (2026-10-18)",
+      "name": "Day 10 - Czech Republic (2026-10-18)",
       "parentFolderId": "1791560007261-64lrg9",
       "isTrip": false,
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791560007276,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791576501560,
       "color": "#22d3ee",
       "theme": "Hidden Gardens & Farewell Gems",
       "route": {
@@ -240739,7 +240613,137 @@
         "distanceMeters": 3795.3,
         "durationSeconds": 3040
       },
-      "hidden": false
+      "hidden": true
+    },
+    {
+      "id": "1791575129343-sj994x",
+      "name": "Alberta",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129344-s9baac",
+      "name": "British Columbia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129345-w3ddpj",
+      "name": "Manitoba",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129346-us5t13",
+      "name": "New Brunswick",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129347-1n6sjm",
+      "name": "Newfoundland and Labrador",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129348-7aaf0a",
+      "name": "Nova Scotia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129349-jxo43g",
+      "name": "Ontario",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129350-wfte61",
+      "name": "Prince Edward Island",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129351-xu2mjo",
+      "name": "Quebec",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129352-8cs0kh",
+      "name": "Saskatchewan",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129353-ivnaf8",
+      "name": "Northwest Territories",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129354-qobehw",
+      "name": "Nunavut",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129355-uw8fh6",
+      "name": "Yukon",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
     }
   ],
   "rideFolders": [
@@ -240853,8 +240857,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790778605-xlce2w",
-      "1786790691553-hyw3ii"
+      "1786790691553-hyw3ii",
+      "1786790778605-xlce2w"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
@@ -240881,13 +240885,12 @@
     "measurementFolders": []
   },
   "settings": {
-    "baseLayer": "satellite",
+    "baseLayer": "street",
     "mapOrientation": "north",
     "weather": {
       "precip": false,
       "clouds": false,
-      "temp": false,
-      "wind": false
+      "temp": false
     },
     "home": {
       "lat": 45.4533625,
@@ -240898,7 +240901,7 @@
       "markerColor": "#34d399",
       "markerEmoji": "🏠",
       "notes": "4 Delong Drive",
-      "hexColor": "#22d3ee"
+      "photos": []
     },
     "hexGrid": false,
     "precisionHex": false,
@@ -240910,26 +240913,26 @@
     "iconQuickPickOrder": [
       "⛽",
       "🅿️",
-      "⛺",
-      "🍺",
-      "☕",
-      "🍽️",
       "🔌",
-      "⚓",
-      "🛒",
-      "🚻",
-      "🏞️",
       "🚗",
+      "🚻",
+      "🍽️",
+      "☕",
+      "🍺",
+      "🛒",
+      "⛺",
+      "🥾",
+      "🏞️",
+      "🚰",
+      "⚓",
       "🏨",
       "🛖",
-      "⚠️",
-      "🚰",
-      "🥾",
-      "🚂",
       "🏥",
+      "⚠️",
       "⭐️",
       "✈️",
       "🚁",
+      "🚂",
       "🚆",
       "🚉",
       "🚌",
@@ -240946,30 +240949,7 @@
       "🚢",
       "⛴️",
       "🏖️",
-      "🏠",
-      "🏡",
-      "🏢",
-      "🏫",
-      "🌲",
       "🌊",
-      "🏕️",
-      "🔥",
-      "🏛️",
-      "🧭",
-      "⛰️",
-      "🏔️",
-      "🎣",
-      "⛪",
-      "🏰",
-      "🚒",
-      "🚑",
-      "🚨",
-      "🆘",
-      "📍",
-      "🏭",
-      "❤️",
-      "🚩",
-      "🎯",
       "🚣",
       "🏄",
       "🏊",
@@ -240978,7 +240958,13 @@
       "⛷️",
       "🏂",
       "⛸️",
+      "🏕️",
+      "🔥",
+      "🧭",
+      "⛰️",
       "🛶",
+      "🌲",
+      "🎣",
       "🐟",
       "🦌",
       "🫎",
@@ -240992,6 +240978,14 @@
       "🐕",
       "🐎",
       "🐾",
+      "🏠",
+      "🏡",
+      "🏢",
+      "🏫",
+      "⛪",
+      "🏛️",
+      "🏭",
+      "🏰",
       "🏦",
       "🏧",
       "🏪",
@@ -241002,7 +240996,15 @@
       "🏃",
       "⚽",
       "🏋️",
-      "🚿"
+      "🚿",
+      "🚒",
+      "🚑",
+      "🚨",
+      "🆘",
+      "📍",
+      "❤️",
+      "🚩",
+      "🎯"
     ],
     "favoriteIcons": [],
     "customWaypointIcons": [],
@@ -241076,7 +241078,6 @@
       "vehicleDescription": "",
       "overdueContact": "",
       "medicalNotes": ""
-    },
-    "weatherAccordionOpen": true
+    }
   }
 }
