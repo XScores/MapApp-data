@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-09T18:32:37.373Z",
+  "exportedAt": "2026-10-09T18:33:40.182Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -234344,13 +234344,13 @@
     },
     {
       "id": "1791560007261-64lrg9",
-      "name": "Czeck Republic",
+      "name": "2 Czeck Republic",
       "parentFolderId": null,
       "isTrip": false,
       "isItinerary": true,
       "region": "personal",
       "createdAt": 1791560007261,
-      "updatedAt": 1791560007261,
+      "updatedAt": 1791570783253,
       "color": "#22d3ee",
       "itineraryStartDate": "2026-10-09",
       "travelMode": "walking",
@@ -235602,7 +235602,7 @@
         "distanceMeters": 1585.3,
         "durationSeconds": 1268.2
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791560007268-hdjcby",
@@ -236115,7 +236115,7 @@
         "distanceMeters": 2378.1,
         "durationSeconds": 1903.9
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791560007270-vzxqe0",
@@ -236812,7 +236812,7 @@
         "distanceMeters": 3083.3,
         "durationSeconds": 2474.2
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791560007271-xwkawj",
@@ -237385,7 +237385,7 @@
         "distanceMeters": 2776.4,
         "durationSeconds": 2221.1
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791560007272-ndje6c",
@@ -237882,7 +237882,7 @@
         "distanceMeters": 2222.1,
         "durationSeconds": 1777.4
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791560007273-0a84jd",
@@ -238643,7 +238643,7 @@
         "distanceMeters": 3782.4,
         "durationSeconds": 3025.9
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791560007274-j4o4xx",
@@ -239780,7 +239780,7 @@
         "distanceMeters": 6243.9,
         "durationSeconds": 4998.4
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791560007276-da37cq",
@@ -240609,7 +240609,7 @@
         "distanceMeters": 3795.3,
         "durationSeconds": 3040
       },
-      "hidden": true
+      "hidden": false
     }
   ],
   "rideFolders": [
