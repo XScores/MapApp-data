@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-09T20:22:30.800Z",
+  "exportedAt": "2026-10-10T12:46:32.862Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -6143,131 +6143,6 @@
       }
     },
     {
-      "id": "1788523839008-9b72qk",
-      "lat": 45.3220365,
-      "lng": -75.6672644,
-      "name": "Ottawa Macdonald-Cartier International Airport",
-      "notes": "",
-      "url": "",
-      "code": "wildatoll.bokira.doraku",
-      "isCurrentLocation": false,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "✈️",
-      "photos": [],
-      "folderId": "1788522919957-z6ioxg",
-      "review": null,
-      "createdAt": 1788523800000,
-      "updatedAt": 1788523839009,
-      "weather": {
-        "tempC": 16.34,
-        "icon": "01d",
-        "description": "clear sky",
-        "sunrise": 1788517682000,
-        "sunset": 1788564949000,
-        "tzOffsetSec": -14400
-      }
-    },
-    {
-      "id": "1788523904060-xhzcnf",
-      "lat": 45.444205,
-      "lng": 9.2778329,
-      "name": "Milano-Linate Airport",
-      "notes": "",
-      "url": "",
-      "code": "crispatoll.kafika.debale",
-      "isCurrentLocation": false,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "✈️",
-      "photos": [],
-      "folderId": "1788522919957-z6ioxg",
-      "review": null,
-      "createdAt": 1788523860000,
-      "updatedAt": 1788523904060,
-      "weather": {
-        "tempC": 32.56,
-        "icon": "01d",
-        "description": "clear sky",
-        "sunrise": 1788497269000,
-        "sunset": 1788544597000,
-        "tzOffsetSec": 7200
-      }
-    },
-    {
-      "id": "1788524148504-s3gu1l",
-      "lat": 45.475251,
-      "lng": 9.1852811,
-      "name": "Veramente",
-      "notes": "Best restaurant in Milan:\n\nDiners frequently highlight the fresh homemade pastas—like the pici al ragù and spaghettoni alla nerano—alongside starters like gnocco fritto e salumi. [1] (https://www.instagram.com/p/DETPJc1oigh/)\n\nI’ve been a fan of @chefmaxmariola for a while now, so I couldn’t resist going to his new bistro in Milan. I tried his amatriciana, and was pleasantly satisfied. The flavors were very prominent, the sauce was very thick, and was more like crushed tomatoes then a sauce. The amount of guanciale was generous, making the dish flavorful - almost too salty. But the pasta was cooked to the perfect al dente. \n\nIt was a nice experience! Next time I want to try their special burgers, which looked really good on other tables.",
-      "url": "https://ristoranteveramente.it/en/?gad_source=1&gad_campaignid=21696248353&gbraid=0AAAAA-M8tOJiYzSXmvy8Vt2aC1wG07XZp&gclid=Cj0KCQjw2OnUBhC2ARIsACKyfaEM3N8bhVCxAvxmkXpnatGKlDYgLoKkhB48Lb88M_XZJ_CjGHmQI98aAveYEALw_wcB",
-      "code": "crispatoll.kanege.giriba",
-      "isCurrentLocation": false,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "🍽️",
-      "photos": [
-        {
-          "repoPath": "images/qdqp13-4r4s.jpg"
-        }
-      ],
-      "folderId": "1788522919957-z6ioxg",
-      "review": {
-        "name": "Veramente",
-        "rating": 4.7,
-        "ambianceRating": 4.3,
-        "cleanlinessRating": 5,
-        "locationTag": "11 Via Palermo, Milan, Lombardy, IT",
-        "priceLevel": 5,
-        "hours": "",
-        "phone": "",
-        "email": "",
-        "tags": [
-          "Italian"
-        ]
-      },
-      "createdAt": 1788524040000,
-      "updatedAt": 1788529677751,
-      "weather": {
-        "tempC": 32.3,
-        "icon": "01d",
-        "description": "clear sky",
-        "sunrise": 1788497289000,
-        "sunset": 1788544621000,
-        "tzOffsetSec": 7200
-      }
-    },
-    {
-      "id": "1788530259644-22joww",
-      "lat": 45.4770811,
-      "lng": 9.1844946,
-      "name": "Urban Hive - Hotel",
-      "notes": "Corso Garibaldi, 84, 20121 Milano MI, Italy",
-      "url": "https://www.urbanhivehotels.com/en/milano/",
-      "code": "crispatoll.kanege.gisome",
-      "isCurrentLocation": false,
-      "markerStyle": "emoji",
-      "markerColor": "#f59e0b",
-      "markerEmoji": "🏰",
-      "photos": [
-        {
-          "repoPath": "images/is65gx-3a7o.jpg"
-        }
-      ],
-      "folderId": "1788522919957-z6ioxg",
-      "review": null,
-      "createdAt": 1788529980000,
-      "updatedAt": 1788530259644,
-      "weather": {
-        "tempC": 33.68,
-        "icon": "01d",
-        "description": "clear sky",
-        "sunrise": 1788497289000,
-        "sunset": 1788544621000,
-        "tzOffsetSec": 7200
-      }
-    },
-    {
       "id": "1789135219649-oo1u1i",
       "lat": 44.279577407322776,
       "lng": -76.78136944765356,
@@ -6556,7 +6431,7 @@
       "icon": "🕰️",
       "estimatedTimeMinutes": 30,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007261-il1upv",
       "markerStyle": "emoji",
       "markerEmoji": "🕰️",
@@ -6573,7 +6448,8 @@
       "aiGenerated": true,
       "createdAt": 1791560007261,
       "updatedAt": 1791573222316,
-      "hidden": false
+      "hidden": false,
+      "itineraryDayId": "1791560007261-il1upv"
     },
     {
       "id": "wp_mv14kktbnlrcny",
@@ -6587,7 +6463,7 @@
       "icon": "🏛️",
       "estimatedTimeMinutes": 45,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007261-il1upv",
       "markerStyle": "emoji",
       "markerEmoji": "🏛️",
@@ -6604,7 +6480,8 @@
       "aiGenerated": true,
       "createdAt": 1791560007262,
       "updatedAt": 1791572378730,
-      "hidden": true
+      "hidden": true,
+      "itineraryDayId": "1791560007261-il1upv"
     },
     {
       "id": "wp_mv14kktcrtmuwv",
@@ -6618,7 +6495,7 @@
       "icon": "⛪",
       "estimatedTimeMinutes": 45,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007261-il1upv",
       "markerStyle": "emoji",
       "markerEmoji": "⛪",
@@ -6635,7 +6512,8 @@
       "aiGenerated": true,
       "createdAt": 1791560007263,
       "updatedAt": 1791572384679,
-      "hidden": true
+      "hidden": true,
+      "itineraryDayId": "1791560007261-il1upv"
     },
     {
       "id": "wp_mv14kktcw7w1ae",
@@ -6649,7 +6527,7 @@
       "icon": "🏰",
       "estimatedTimeMinutes": 50,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007261-il1upv",
       "markerStyle": "emoji",
       "markerEmoji": "🏰",
@@ -6666,7 +6544,8 @@
       "aiGenerated": true,
       "createdAt": 1791560007264,
       "updatedAt": 1791572389262,
-      "hidden": true
+      "hidden": true,
+      "itineraryDayId": "1791560007261-il1upv"
     },
     {
       "id": "wp_mv14kktc53r1lf",
@@ -6680,7 +6559,7 @@
       "icon": "☕",
       "estimatedTimeMinutes": 60,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007261-il1upv",
       "markerStyle": "emoji",
       "markerEmoji": "☕",
@@ -6696,7 +6575,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007265,
-      "updatedAt": 1791560007265
+      "updatedAt": 1791560007265,
+      "itineraryDayId": "1791560007261-il1upv"
     },
     {
       "id": "wp_mv14kktdirhcgm",
@@ -6710,7 +6590,7 @@
       "icon": "🍺",
       "estimatedTimeMinutes": 75,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007261-il1upv",
       "markerStyle": "emoji",
       "markerEmoji": "🍺",
@@ -6726,7 +6606,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007266,
-      "updatedAt": 1791560007266
+      "updatedAt": 1791560007266,
+      "itineraryDayId": "1791560007261-il1upv"
     },
     {
       "id": "wp_mv14kktddwxysi",
@@ -6740,7 +6621,7 @@
       "icon": "🖼️",
       "estimatedTimeMinutes": 75,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007261-il1upv",
       "markerStyle": "emoji",
       "markerEmoji": "🖼️",
@@ -6756,7 +6637,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007267,
-      "updatedAt": 1791560007267
+      "updatedAt": 1791560007267,
+      "itineraryDayId": "1791560007261-il1upv"
     },
     {
       "id": "wp_mv14kktdsxwree",
@@ -6770,7 +6652,7 @@
       "icon": "🪦",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007265-fm33z7",
       "markerStyle": "emoji",
       "markerEmoji": "🪦",
@@ -6786,7 +6668,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007268,
-      "updatedAt": 1791560007268
+      "updatedAt": 1791560007268,
+      "itineraryDayId": "1791560007265-fm33z7"
     },
     {
       "id": "wp_mv14kktd71rspx",
@@ -6800,7 +6683,7 @@
       "icon": "🎼",
       "estimatedTimeMinutes": 60,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007265-fm33z7",
       "markerStyle": "emoji",
       "markerEmoji": "🎼",
@@ -6816,7 +6699,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007269,
-      "updatedAt": 1791560007269
+      "updatedAt": 1791560007269,
+      "itineraryDayId": "1791560007265-fm33z7"
     },
     {
       "id": "wp_mv14kkteg56fhq",
@@ -6830,7 +6714,7 @@
       "icon": "🌉",
       "estimatedTimeMinutes": 30,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007265-fm33z7",
       "markerStyle": "emoji",
       "markerEmoji": "🌉",
@@ -6846,7 +6730,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007270,
-      "updatedAt": 1791560007270
+      "updatedAt": 1791560007270,
+      "itineraryDayId": "1791560007265-fm33z7"
     },
     {
       "id": "wp_mv14kkte4j784o",
@@ -6860,7 +6745,7 @@
       "icon": "🕍",
       "estimatedTimeMinutes": 45,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007265-fm33z7",
       "markerStyle": "emoji",
       "markerEmoji": "🕍",
@@ -6876,7 +6761,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007271,
-      "updatedAt": 1791560007271
+      "updatedAt": 1791560007271,
+      "itineraryDayId": "1791560007265-fm33z7"
     },
     {
       "id": "wp_mv14kktelbuk1o",
@@ -6890,7 +6776,7 @@
       "icon": "✨",
       "estimatedTimeMinutes": 60,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007265-fm33z7",
       "markerStyle": "emoji",
       "markerEmoji": "✨",
@@ -6906,7 +6792,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007272,
-      "updatedAt": 1791560007272
+      "updatedAt": 1791560007272,
+      "itineraryDayId": "1791560007265-fm33z7"
     },
     {
       "id": "wp_mv14kktecjsqu6",
@@ -6920,7 +6807,7 @@
       "icon": "🥐",
       "estimatedTimeMinutes": 45,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007265-fm33z7",
       "markerStyle": "emoji",
       "markerEmoji": "🥐",
@@ -6936,7 +6823,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007273,
-      "updatedAt": 1791560007273
+      "updatedAt": 1791560007273,
+      "itineraryDayId": "1791560007265-fm33z7"
     },
     {
       "id": "wp_mv14kkteg4c700",
@@ -6950,7 +6838,7 @@
       "icon": "🥩",
       "estimatedTimeMinutes": 60,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007265-fm33z7",
       "markerStyle": "emoji",
       "markerEmoji": "🥩",
@@ -6966,7 +6854,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007274,
-      "updatedAt": 1791560007274
+      "updatedAt": 1791560007274,
+      "itineraryDayId": "1791560007265-fm33z7"
     },
     {
       "id": "wp_mv14kktfzq0qny",
@@ -6980,7 +6869,7 @@
       "icon": "🗼",
       "estimatedTimeMinutes": 45,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007267-x7n5ix",
       "markerStyle": "emoji",
       "markerEmoji": "🗼",
@@ -6996,7 +6885,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007275,
-      "updatedAt": 1791560007275
+      "updatedAt": 1791560007275,
+      "itineraryDayId": "1791560007267-x7n5ix"
     },
     {
       "id": "wp_mv14kktfzd76z0",
@@ -7010,7 +6900,7 @@
       "icon": "🌉",
       "estimatedTimeMinutes": 45,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007267-x7n5ix",
       "markerStyle": "emoji",
       "markerEmoji": "🌉",
@@ -7026,7 +6916,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007276,
-      "updatedAt": 1791560007276
+      "updatedAt": 1791560007276,
+      "itineraryDayId": "1791560007267-x7n5ix"
     },
     {
       "id": "wp_mv14kktf98ahro",
@@ -7040,7 +6931,7 @@
       "icon": "🌳",
       "estimatedTimeMinutes": 60,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007267-x7n5ix",
       "markerStyle": "emoji",
       "markerEmoji": "🌳",
@@ -7056,7 +6947,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007277,
-      "updatedAt": 1791560007277
+      "updatedAt": 1791560007277,
+      "itineraryDayId": "1791560007267-x7n5ix"
     },
     {
       "id": "wp_mv14kktfrvf1ag",
@@ -7070,7 +6962,7 @@
       "icon": "🎨",
       "estimatedTimeMinutes": 30,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007267-x7n5ix",
       "markerStyle": "emoji",
       "markerEmoji": "🎨",
@@ -7086,7 +6978,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007278,
-      "updatedAt": 1791560007278
+      "updatedAt": 1791560007278,
+      "itineraryDayId": "1791560007267-x7n5ix"
     },
     {
       "id": "wp_mv14kktfrfx80l",
@@ -7100,7 +6993,7 @@
       "icon": "🍽️",
       "estimatedTimeMinutes": 75,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007267-x7n5ix",
       "markerStyle": "emoji",
       "markerEmoji": "🍽️",
@@ -7116,7 +7009,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007279,
-      "updatedAt": 1791560007279
+      "updatedAt": 1791560007279,
+      "itineraryDayId": "1791560007267-x7n5ix"
     },
     {
       "id": "wp_mv14kktgnyv29b",
@@ -7130,7 +7024,7 @@
       "icon": "🌿",
       "estimatedTimeMinutes": 60,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007267-x7n5ix",
       "markerStyle": "emoji",
       "markerEmoji": "🌿",
@@ -7146,7 +7040,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007280,
-      "updatedAt": 1791560007280
+      "updatedAt": 1791560007280,
+      "itineraryDayId": "1791560007267-x7n5ix"
     },
     {
       "id": "wp_mv14kktgylmsk9",
@@ -7160,7 +7055,7 @@
       "icon": "⛪",
       "estimatedTimeMinutes": 60,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007267-x7n5ix",
       "markerStyle": "emoji",
       "markerEmoji": "⛪",
@@ -7176,7 +7071,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007281,
-      "updatedAt": 1791560007281
+      "updatedAt": 1791560007281,
+      "itineraryDayId": "1791560007267-x7n5ix"
     },
     {
       "id": "wp_mv14kktgke6edv",
@@ -7190,7 +7086,7 @@
       "icon": "⛪",
       "estimatedTimeMinutes": 75,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007268-hdjcby",
       "markerStyle": "emoji",
       "markerEmoji": "⛪",
@@ -7206,7 +7102,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007282,
-      "updatedAt": 1791560007282
+      "updatedAt": 1791560007282,
+      "itineraryDayId": "1791560007268-hdjcby"
     },
     {
       "id": "wp_mv14kkthaepf6c",
@@ -7220,7 +7117,7 @@
       "icon": "🏘️",
       "estimatedTimeMinutes": 45,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007268-hdjcby",
       "markerStyle": "emoji",
       "markerEmoji": "🏘️",
@@ -7236,7 +7133,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007283,
-      "updatedAt": 1791560007283
+      "updatedAt": 1791560007283,
+      "itineraryDayId": "1791560007268-hdjcby"
     },
     {
       "id": "wp_mv14kkthqcogm7",
@@ -7250,7 +7148,7 @@
       "icon": "👑",
       "estimatedTimeMinutes": 60,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007268-hdjcby",
       "markerStyle": "emoji",
       "markerEmoji": "👑",
@@ -7266,7 +7164,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007284,
-      "updatedAt": 1791560007284
+      "updatedAt": 1791560007284,
+      "itineraryDayId": "1791560007268-hdjcby"
     },
     {
       "id": "wp_mv14kkthnjmt6v",
@@ -7280,7 +7179,7 @@
       "icon": "🍲",
       "estimatedTimeMinutes": 75,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007268-hdjcby",
       "markerStyle": "emoji",
       "markerEmoji": "🍲",
@@ -7296,7 +7195,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007285,
-      "updatedAt": 1791560007285
+      "updatedAt": 1791560007285,
+      "itineraryDayId": "1791560007268-hdjcby"
     },
     {
       "id": "wp_mv14kkthgh33gt",
@@ -7310,7 +7210,7 @@
       "icon": "🔔",
       "estimatedTimeMinutes": 60,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007268-hdjcby",
       "markerStyle": "emoji",
       "markerEmoji": "🔔",
@@ -7326,7 +7226,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007286,
-      "updatedAt": 1791560007286
+      "updatedAt": 1791560007286,
+      "itineraryDayId": "1791560007268-hdjcby"
     },
     {
       "id": "wp_mv14kkthn9eq41",
@@ -7340,7 +7241,7 @@
       "icon": "📚",
       "estimatedTimeMinutes": 60,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007268-hdjcby",
       "markerStyle": "emoji",
       "markerEmoji": "📚",
@@ -7356,7 +7257,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007287,
-      "updatedAt": 1791560007287
+      "updatedAt": 1791560007287,
+      "itineraryDayId": "1791560007268-hdjcby"
     },
     {
       "id": "wp_mv14kktislq59a",
@@ -7370,7 +7272,7 @@
       "icon": "🍻",
       "estimatedTimeMinutes": 60,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007268-hdjcby",
       "markerStyle": "emoji",
       "markerEmoji": "🍻",
@@ -7386,7 +7288,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007288,
-      "updatedAt": 1791560007288
+      "updatedAt": 1791560007288,
+      "itineraryDayId": "1791560007268-hdjcby"
     },
     {
       "id": "wp_mv14kktihhfxgp",
@@ -7400,7 +7303,7 @@
       "icon": "🗼",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007270-vzxqe0",
       "markerStyle": "emoji",
       "markerEmoji": "🗼",
@@ -7416,7 +7319,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007289,
-      "updatedAt": 1791560007289
+      "updatedAt": 1791560007289,
+      "itineraryDayId": "1791560007270-vzxqe0"
     },
     {
       "id": "wp_mv14kktifo1nl7",
@@ -7430,7 +7334,7 @@
       "icon": "🪞",
       "estimatedTimeMinutes": 30,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007270-vzxqe0",
       "markerStyle": "emoji",
       "markerEmoji": "🪞",
@@ -7446,7 +7350,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007290,
-      "updatedAt": 1791560007290
+      "updatedAt": 1791560007290,
+      "itineraryDayId": "1791560007270-vzxqe0"
     },
     {
       "id": "wp_mv14kktivvhy47",
@@ -7460,7 +7365,7 @@
       "icon": "🌹",
       "estimatedTimeMinutes": 45,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007270-vzxqe0",
       "markerStyle": "emoji",
       "markerEmoji": "🌹",
@@ -7476,7 +7381,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007291,
-      "updatedAt": 1791560007291
+      "updatedAt": 1791560007291,
+      "itineraryDayId": "1791560007270-vzxqe0"
     },
     {
       "id": "wp_mv14kktiz8mko8",
@@ -7490,7 +7396,7 @@
       "icon": "🍁",
       "estimatedTimeMinutes": 60,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007270-vzxqe0",
       "markerStyle": "emoji",
       "markerEmoji": "🍁",
@@ -7506,7 +7412,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007292,
-      "updatedAt": 1791560007292
+      "updatedAt": 1791560007292,
+      "itineraryDayId": "1791560007270-vzxqe0"
     },
     {
       "id": "wp_mv14kkti4yykio",
@@ -7520,7 +7427,7 @@
       "icon": "🥐",
       "estimatedTimeMinutes": 75,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007270-vzxqe0",
       "markerStyle": "emoji",
       "markerEmoji": "🥐",
@@ -7536,7 +7443,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007293,
-      "updatedAt": 1791560007293
+      "updatedAt": 1791560007293,
+      "itineraryDayId": "1791560007270-vzxqe0"
     },
     {
       "id": "wp_mv14kktjpnaqsx",
@@ -7550,7 +7458,7 @@
       "icon": "🏝️",
       "estimatedTimeMinutes": 45,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007270-vzxqe0",
       "markerStyle": "emoji",
       "markerEmoji": "🏝️",
@@ -7566,7 +7474,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007294,
-      "updatedAt": 1791560007294
+      "updatedAt": 1791560007294,
+      "itineraryDayId": "1791560007270-vzxqe0"
     },
     {
       "id": "wp_mv14kktj7d04th",
@@ -7580,7 +7489,7 @@
       "icon": "🎭",
       "estimatedTimeMinutes": 45,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007270-vzxqe0",
       "markerStyle": "emoji",
       "markerEmoji": "🎭",
@@ -7596,7 +7505,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007295,
-      "updatedAt": 1791560007295
+      "updatedAt": 1791560007295,
+      "itineraryDayId": "1791560007270-vzxqe0"
     },
     {
       "id": "wp_mv14kktj0jb2t3",
@@ -7610,7 +7520,7 @@
       "icon": "🐴",
       "estimatedTimeMinutes": 45,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007271-xwkawj",
       "markerStyle": "emoji",
       "markerEmoji": "🐴",
@@ -7626,7 +7536,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007296,
-      "updatedAt": 1791560007296
+      "updatedAt": 1791560007296,
+      "itineraryDayId": "1791560007271-xwkawj"
     },
     {
       "id": "wp_mv14kktja3fisw",
@@ -7640,7 +7551,7 @@
       "icon": "🏛️",
       "estimatedTimeMinutes": 90,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007271-xwkawj",
       "markerStyle": "emoji",
       "markerEmoji": "🏛️",
@@ -7656,7 +7567,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007297,
-      "updatedAt": 1791560007297
+      "updatedAt": 1791560007297,
+      "itineraryDayId": "1791560007271-xwkawj"
     },
     {
       "id": "wp_mv14kktjedw4pq",
@@ -7670,7 +7582,7 @@
       "icon": "🐎",
       "estimatedTimeMinutes": 30,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007271-xwkawj",
       "markerStyle": "emoji",
       "markerEmoji": "🐎",
@@ -7686,7 +7598,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007298,
-      "updatedAt": 1791560007298
+      "updatedAt": 1791560007298,
+      "itineraryDayId": "1791560007271-xwkawj"
     },
     {
       "id": "wp_mv14kktjsdzm1p",
@@ -7700,7 +7613,7 @@
       "icon": "🗿",
       "estimatedTimeMinutes": 25,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007271-xwkawj",
       "markerStyle": "emoji",
       "markerEmoji": "🗿",
@@ -7716,7 +7629,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007299,
-      "updatedAt": 1791560007299
+      "updatedAt": 1791560007299,
+      "itineraryDayId": "1791560007271-xwkawj"
     },
     {
       "id": "wp_mv14kktkxmxlec",
@@ -7730,7 +7644,7 @@
       "icon": "☕",
       "estimatedTimeMinutes": 60,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007271-xwkawj",
       "markerStyle": "emoji",
       "markerEmoji": "☕",
@@ -7746,7 +7660,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007300,
-      "updatedAt": 1791560007300
+      "updatedAt": 1791560007300,
+      "itineraryDayId": "1791560007271-xwkawj"
     },
     {
       "id": "wp_mv14kktk9hjhtr",
@@ -7760,7 +7675,7 @@
       "icon": "🍺",
       "estimatedTimeMinutes": 75,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007271-xwkawj",
       "markerStyle": "emoji",
       "markerEmoji": "🍺",
@@ -7776,7 +7691,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007301,
-      "updatedAt": 1791560007301
+      "updatedAt": 1791560007301,
+      "itineraryDayId": "1791560007271-xwkawj"
     },
     {
       "id": "wp_mv14kktk2yth98",
@@ -7790,7 +7706,7 @@
       "icon": "🏢",
       "estimatedTimeMinutes": 45,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007271-xwkawj",
       "markerStyle": "emoji",
       "markerEmoji": "🏢",
@@ -7806,7 +7722,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007302,
-      "updatedAt": 1791560007302
+      "updatedAt": 1791560007302,
+      "itineraryDayId": "1791560007271-xwkawj"
     },
     {
       "id": "wp_mv14kktkf7cv51",
@@ -7820,7 +7737,7 @@
       "icon": "🏰",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007272-ndje6c",
       "markerStyle": "emoji",
       "markerEmoji": "🏰",
@@ -7836,7 +7753,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007303,
-      "updatedAt": 1791560007303
+      "updatedAt": 1791560007303,
+      "itineraryDayId": "1791560007272-ndje6c"
     },
     {
       "id": "wp_mv14kktke7zfn0",
@@ -7850,7 +7768,7 @@
       "icon": "🍺",
       "estimatedTimeMinutes": 60,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007272-ndje6c",
       "markerStyle": "emoji",
       "markerEmoji": "🍺",
@@ -7866,7 +7784,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007304,
-      "updatedAt": 1791560007304
+      "updatedAt": 1791560007304,
+      "itineraryDayId": "1791560007272-ndje6c"
     },
     {
       "id": "wp_mv14kktk8ey0vx",
@@ -7880,7 +7799,7 @@
       "icon": "🪦",
       "estimatedTimeMinutes": 45,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007272-ndje6c",
       "markerStyle": "emoji",
       "markerEmoji": "🪦",
@@ -7896,7 +7815,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007305,
-      "updatedAt": 1791560007305
+      "updatedAt": 1791560007305,
+      "itineraryDayId": "1791560007272-ndje6c"
     },
     {
       "id": "wp_mv14kktln7129e",
@@ -7910,7 +7830,7 @@
       "icon": "⛪",
       "estimatedTimeMinutes": 45,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007272-ndje6c",
       "markerStyle": "emoji",
       "markerEmoji": "⛪",
@@ -7926,7 +7846,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007306,
-      "updatedAt": 1791560007306
+      "updatedAt": 1791560007306,
+      "itineraryDayId": "1791560007272-ndje6c"
     },
     {
       "id": "wp_mv14kktld9fv3k",
@@ -7940,7 +7861,7 @@
       "icon": "🏠",
       "estimatedTimeMinutes": 45,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007272-ndje6c",
       "markerStyle": "emoji",
       "markerEmoji": "🏠",
@@ -7956,7 +7877,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007307,
-      "updatedAt": 1791560007307
+      "updatedAt": 1791560007307,
+      "itineraryDayId": "1791560007272-ndje6c"
     },
     {
       "id": "wp_mv14kktl3jqorj",
@@ -7970,7 +7892,7 @@
       "icon": "🌊",
       "estimatedTimeMinutes": 60,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007272-ndje6c",
       "markerStyle": "emoji",
       "markerEmoji": "🌊",
@@ -7986,7 +7908,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007308,
-      "updatedAt": 1791560007308
+      "updatedAt": 1791560007308,
+      "itineraryDayId": "1791560007272-ndje6c"
     },
     {
       "id": "wp_mv14kktlorggyw",
@@ -8000,7 +7923,7 @@
       "icon": "⛪",
       "estimatedTimeMinutes": 45,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007272-ndje6c",
       "markerStyle": "emoji",
       "markerEmoji": "⛪",
@@ -8016,7 +7939,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007309,
-      "updatedAt": 1791560007309
+      "updatedAt": 1791560007309,
+      "itineraryDayId": "1791560007272-ndje6c"
     },
     {
       "id": "wp_mv14kktltd5r7y",
@@ -8030,7 +7954,7 @@
       "icon": "🌅",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007273-0a84jd",
       "markerStyle": "emoji",
       "markerEmoji": "🌅",
@@ -8046,7 +7970,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007310,
-      "updatedAt": 1791560007310
+      "updatedAt": 1791560007310,
+      "itineraryDayId": "1791560007273-0a84jd"
     },
     {
       "id": "wp_mv14kktlrfue01",
@@ -8060,7 +7985,7 @@
       "icon": "📡",
       "estimatedTimeMinutes": 60,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007273-0a84jd",
       "markerStyle": "emoji",
       "markerEmoji": "📡",
@@ -8076,7 +8001,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007311,
-      "updatedAt": 1791560007311
+      "updatedAt": 1791560007311,
+      "itineraryDayId": "1791560007273-0a84jd"
     },
     {
       "id": "wp_mv14kktmrplyp6",
@@ -8090,7 +8016,7 @@
       "icon": "🍎",
       "estimatedTimeMinutes": 45,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007273-0a84jd",
       "markerStyle": "emoji",
       "markerEmoji": "🍎",
@@ -8106,7 +8032,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007312,
-      "updatedAt": 1791560007312
+      "updatedAt": 1791560007312,
+      "itineraryDayId": "1791560007273-0a84jd"
     },
     {
       "id": "wp_mv14kktm9zxp2a",
@@ -8120,7 +8047,7 @@
       "icon": "⛪",
       "estimatedTimeMinutes": 45,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007273-0a84jd",
       "markerStyle": "emoji",
       "markerEmoji": "⛪",
@@ -8136,7 +8063,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007313,
-      "updatedAt": 1791560007313
+      "updatedAt": 1791560007313,
+      "itineraryDayId": "1791560007273-0a84jd"
     },
     {
       "id": "wp_mv14kktm45i5u8",
@@ -8150,7 +8078,7 @@
       "icon": "☕",
       "estimatedTimeMinutes": 45,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007273-0a84jd",
       "markerStyle": "emoji",
       "markerEmoji": "☕",
@@ -8166,7 +8094,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007314,
-      "updatedAt": 1791560007314
+      "updatedAt": 1791560007314,
+      "itineraryDayId": "1791560007273-0a84jd"
     },
     {
       "id": "wp_mv14kktm64j74r",
@@ -8180,7 +8109,7 @@
       "icon": "🥟",
       "estimatedTimeMinutes": 75,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007273-0a84jd",
       "markerStyle": "emoji",
       "markerEmoji": "🥟",
@@ -8196,7 +8125,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007315,
-      "updatedAt": 1791560007315
+      "updatedAt": 1791560007315,
+      "itineraryDayId": "1791560007273-0a84jd"
     },
     {
       "id": "wp_mv14kktmkcicxk",
@@ -8210,7 +8140,7 @@
       "icon": "🍇",
       "estimatedTimeMinutes": 60,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007273-0a84jd",
       "markerStyle": "emoji",
       "markerEmoji": "🍇",
@@ -8226,7 +8156,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007316,
-      "updatedAt": 1791560007316
+      "updatedAt": 1791560007316,
+      "itineraryDayId": "1791560007273-0a84jd"
     },
     {
       "id": "wp_mv14kktmw8r7gz",
@@ -8240,7 +8171,7 @@
       "icon": "⏱️",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007274-j4o4xx",
       "markerStyle": "emoji",
       "markerEmoji": "⏱️",
@@ -8256,7 +8187,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007317,
-      "updatedAt": 1791560007317
+      "updatedAt": 1791560007317,
+      "itineraryDayId": "1791560007274-j4o4xx"
     },
     {
       "id": "wp_mv14kktnwd50xm",
@@ -8270,7 +8202,7 @@
       "icon": "🏛️",
       "estimatedTimeMinutes": 30,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007274-j4o4xx",
       "markerStyle": "emoji",
       "markerEmoji": "🏛️",
@@ -8286,7 +8218,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007318,
-      "updatedAt": 1791560007318
+      "updatedAt": 1791560007318,
+      "itineraryDayId": "1791560007274-j4o4xx"
     },
     {
       "id": "wp_mv14kktnorruwm",
@@ -8300,7 +8233,7 @@
       "icon": "🚂",
       "estimatedTimeMinutes": 90,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007274-j4o4xx",
       "markerStyle": "emoji",
       "markerEmoji": "🚂",
@@ -8316,7 +8249,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007319,
-      "updatedAt": 1791560007319
+      "updatedAt": 1791560007319,
+      "itineraryDayId": "1791560007274-j4o4xx"
     },
     {
       "id": "wp_mv14kktou8nkko",
@@ -8330,7 +8264,7 @@
       "icon": "☕",
       "estimatedTimeMinutes": 45,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007274-j4o4xx",
       "markerStyle": "emoji",
       "markerEmoji": "☕",
@@ -8346,7 +8280,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007320,
-      "updatedAt": 1791560007320
+      "updatedAt": 1791560007320,
+      "itineraryDayId": "1791560007274-j4o4xx"
     },
     {
       "id": "wp_mv14kktojtxxuo",
@@ -8360,7 +8295,7 @@
       "icon": "🌲",
       "estimatedTimeMinutes": 60,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007274-j4o4xx",
       "markerStyle": "emoji",
       "markerEmoji": "🌲",
@@ -8376,7 +8311,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007321,
-      "updatedAt": 1791560007321
+      "updatedAt": 1791560007321,
+      "itineraryDayId": "1791560007274-j4o4xx"
     },
     {
       "id": "wp_mv14kkto8ts9de",
@@ -8390,7 +8326,7 @@
       "icon": "🎨",
       "estimatedTimeMinutes": 75,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007274-j4o4xx",
       "markerStyle": "emoji",
       "markerEmoji": "🎨",
@@ -8406,7 +8342,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007322,
-      "updatedAt": 1791560007322
+      "updatedAt": 1791560007322,
+      "itineraryDayId": "1791560007274-j4o4xx"
     },
     {
       "id": "wp_mv14kktovt3fvu",
@@ -8420,7 +8357,7 @@
       "icon": "🏭",
       "estimatedTimeMinutes": 60,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007274-j4o4xx",
       "markerStyle": "emoji",
       "markerEmoji": "🏭",
@@ -8436,7 +8373,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007323,
-      "updatedAt": 1791560007323
+      "updatedAt": 1791560007323,
+      "itineraryDayId": "1791560007274-j4o4xx"
     },
     {
       "id": "wp_mv14kktp6tg3xo",
@@ -8450,7 +8388,7 @@
       "icon": "🦚",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791560007276-da37cq",
       "markerStyle": "emoji",
       "markerEmoji": "🦚",
@@ -8466,7 +8404,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007324,
-      "updatedAt": 1791560007324
+      "updatedAt": 1791560007324,
+      "itineraryDayId": "1791560007276-da37cq"
     },
     {
       "id": "wp_mv14kktp8hallu",
@@ -8480,7 +8419,7 @@
       "icon": "🌳",
       "estimatedTimeMinutes": 45,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791560007276-da37cq",
       "markerStyle": "emoji",
       "markerEmoji": "🌳",
@@ -8496,7 +8435,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007325,
-      "updatedAt": 1791560007325
+      "updatedAt": 1791560007325,
+      "itineraryDayId": "1791560007276-da37cq"
     },
     {
       "id": "wp_mv14kktplv83mk",
@@ -8510,7 +8450,7 @@
       "icon": "🏛️",
       "estimatedTimeMinutes": 30,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791560007276-da37cq",
       "markerStyle": "emoji",
       "markerEmoji": "🏛️",
@@ -8526,7 +8466,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007326,
-      "updatedAt": 1791560007326
+      "updatedAt": 1791560007326,
+      "itineraryDayId": "1791560007276-da37cq"
     },
     {
       "id": "wp_mv14kktp46zapd",
@@ -8540,7 +8481,7 @@
       "icon": "☕",
       "estimatedTimeMinutes": 60,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791560007276-da37cq",
       "markerStyle": "emoji",
       "markerEmoji": "☕",
@@ -8556,7 +8497,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007327,
-      "updatedAt": 1791560007327
+      "updatedAt": 1791560007327,
+      "itineraryDayId": "1791560007276-da37cq"
     },
     {
       "id": "wp_mv14kktp6459e6",
@@ -8570,7 +8512,7 @@
       "icon": "⛪",
       "estimatedTimeMinutes": 45,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791560007276-da37cq",
       "markerStyle": "emoji",
       "markerEmoji": "⛪",
@@ -8586,7 +8528,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007328,
-      "updatedAt": 1791560007328
+      "updatedAt": 1791560007328,
+      "itineraryDayId": "1791560007276-da37cq"
     },
     {
       "id": "wp_mv14kktp4dli5v",
@@ -8600,7 +8543,7 @@
       "icon": "🌹",
       "estimatedTimeMinutes": 45,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791560007276-da37cq",
       "markerStyle": "emoji",
       "markerEmoji": "🌹",
@@ -8616,7 +8559,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007329,
-      "updatedAt": 1791560007329
+      "updatedAt": 1791560007329,
+      "itineraryDayId": "1791560007276-da37cq"
     },
     {
       "id": "wp_mv14kktpy8rygj",
@@ -8630,7 +8574,7 @@
       "icon": "🥩",
       "estimatedTimeMinutes": 75,
       "order": 7,
-      "itineraryOrder": 7,
+      "itineraryOrder": 6,
       "folderId": "1791560007276-da37cq",
       "markerStyle": "emoji",
       "markerEmoji": "🥩",
@@ -8646,7 +8590,8 @@
       },
       "aiGenerated": true,
       "createdAt": 1791560007330,
-      "updatedAt": 1791560007330
+      "updatedAt": 1791560007330,
+      "itineraryDayId": "1791560007276-da37cq"
     },
     {
       "id": "wp_mv1el4iqjy7owr",
@@ -8660,16 +8605,24 @@
       "icon": "🍔",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791576828962-qrk68q",
       "markerStyle": "emoji",
       "markerEmoji": "🍔",
       "markerColor": "#f97316",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.17,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544253000,
+        "sunset": 1791584934000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828962,
-      "updatedAt": 1791576828962
+      "updatedAt": 1791576828962,
+      "itineraryDayId": "1791576828962-qrk68q"
     },
     {
       "id": "wp_mv1el4irnemugr",
@@ -8683,16 +8636,24 @@
       "icon": "🥖",
       "estimatedTimeMinutes": 60,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791576828962-qrk68q",
       "markerStyle": "emoji",
       "markerEmoji": "🥖",
       "markerColor": "#f59e0b",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.17,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544253000,
+        "sunset": 1791584934000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828963,
-      "updatedAt": 1791576828963
+      "updatedAt": 1791576828963,
+      "itineraryDayId": "1791576828962-qrk68q"
     },
     {
       "id": "wp_mv1el4isrc83qv",
@@ -8706,16 +8667,24 @@
       "icon": "🍁",
       "estimatedTimeMinutes": 45,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791576828962-qrk68q",
       "markerStyle": "emoji",
       "markerEmoji": "🍁",
       "markerColor": "#34d399",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.18,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544254000,
+        "sunset": 1791584934000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828964,
-      "updatedAt": 1791576828964
+      "updatedAt": 1791576828964,
+      "itineraryDayId": "1791576828962-qrk68q"
     },
     {
       "id": "wp_mv1el4issoumvn",
@@ -8729,16 +8698,24 @@
       "icon": "⛵",
       "estimatedTimeMinutes": 45,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791576828962-qrk68q",
       "markerStyle": "emoji",
       "markerEmoji": "⛵",
       "markerColor": "#a78bfa",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.18,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544254000,
+        "sunset": 1791584934000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828965,
-      "updatedAt": 1791576828965
+      "updatedAt": 1791576828965,
+      "itineraryDayId": "1791576828962-qrk68q"
     },
     {
       "id": "wp_mv1el4is5lca5d",
@@ -8752,20 +8729,28 @@
       "icon": "🏛️",
       "estimatedTimeMinutes": 75,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791576828962-qrk68q",
       "markerStyle": "emoji",
       "markerEmoji": "🏛️",
       "markerColor": "#a78bfa",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.19,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544254000,
+        "sunset": 1791584935000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828966,
-      "updatedAt": 1791576828966
+      "updatedAt": 1791576828966,
+      "itineraryDayId": "1791576828962-qrk68q"
     },
     {
       "id": "wp_mv1el4is0jky0v",
-      "name": "06 - National Gallery of Canada",
+      "name": "07 - National Gallery of Canada",
       "lat": 45.42957,
       "lng": -75.69874,
       "code": "wildatoll.bokere.bolemu",
@@ -8774,21 +8759,29 @@
       "category": "culture",
       "icon": "🎨",
       "estimatedTimeMinutes": 105,
-      "order": 6,
+      "order": 7,
       "itineraryOrder": 6,
       "folderId": "1791576828962-qrk68q",
       "markerStyle": "emoji",
       "markerEmoji": "🎨",
       "markerColor": "#f472b6",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.18,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544254000,
+        "sunset": 1791584934000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828967,
-      "updatedAt": 1791576828967
+      "updatedAt": 1791633586208,
+      "itineraryDayId": "1791576828962-qrk68q"
     },
     {
       "id": "wp_mv1el4ispgka5c",
-      "name": "07 - Nepean Point",
+      "name": "06 - Nepean Point",
       "lat": 45.43088,
       "lng": -75.70112,
       "code": "wildatoll.bokere.bomoki",
@@ -8797,17 +8790,25 @@
       "category": "viewpoint",
       "icon": "🌅",
       "estimatedTimeMinutes": 30,
-      "order": 7,
-      "itineraryOrder": 7,
+      "order": 6,
+      "itineraryOrder": 5,
       "folderId": "1791576828962-qrk68q",
       "markerStyle": "emoji",
       "markerEmoji": "🌅",
       "markerColor": "#22d3ee",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.18,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544254000,
+        "sunset": 1791584934000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828968,
-      "updatedAt": 1791576828968
+      "updatedAt": 1791633586208,
+      "itineraryDayId": "1791576828962-qrk68q"
     },
     {
       "id": "wp_mv1el4ity8v8af",
@@ -8821,16 +8822,24 @@
       "icon": "🍺",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791576828965-of8eel",
       "markerStyle": "emoji",
       "markerEmoji": "🍺",
       "markerColor": "#f97316",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 9.59,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544232000,
+        "sunset": 1791584911000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828969,
-      "updatedAt": 1791576828969
+      "updatedAt": 1791576828969,
+      "itineraryDayId": "1791576828965-of8eel"
     },
     {
       "id": "wp_mv1el4it4caeng",
@@ -8844,16 +8853,24 @@
       "icon": "🦕",
       "estimatedTimeMinutes": 105,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791576828965-of8eel",
       "markerStyle": "emoji",
       "markerEmoji": "🦕",
       "markerColor": "#38bdf8",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.4,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544250000,
+        "sunset": 1791584933000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828970,
-      "updatedAt": 1791576828970
+      "updatedAt": 1791576828970,
+      "itineraryDayId": "1791576828965-of8eel"
     },
     {
       "id": "wp_mv1el4it0xxsyv",
@@ -8867,16 +8884,24 @@
       "icon": "☕",
       "estimatedTimeMinutes": 35,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791576828965-of8eel",
       "markerStyle": "emoji",
       "markerEmoji": "☕",
       "markerColor": "#f59e0b",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.23,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544252000,
+        "sunset": 1791584933000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828971,
-      "updatedAt": 1791576828971
+      "updatedAt": 1791576828971,
+      "itineraryDayId": "1791576828965-of8eel"
     },
     {
       "id": "wp_mv1el4ityjdzbd",
@@ -8890,16 +8915,24 @@
       "icon": "🌊",
       "estimatedTimeMinutes": 40,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791576828965-of8eel",
       "markerStyle": "emoji",
       "markerEmoji": "🌊",
       "markerColor": "#22d3ee",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.12,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544254000,
+        "sunset": 1791584933000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828972,
-      "updatedAt": 1791576828972
+      "updatedAt": 1791576828972,
+      "itineraryDayId": "1791576828965-of8eel"
     },
     {
       "id": "wp_mv1el4iusm9tl3",
@@ -8913,16 +8946,24 @@
       "icon": "🍂",
       "estimatedTimeMinutes": 45,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791576828965-of8eel",
       "markerStyle": "emoji",
       "markerEmoji": "🍂",
       "markerColor": "#34d399",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 9.88,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544252000,
+        "sunset": 1791584930000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828973,
-      "updatedAt": 1791576828973
+      "updatedAt": 1791576828973,
+      "itineraryDayId": "1791576828965-of8eel"
     },
     {
       "id": "wp_mv1el4iu7en3f4",
@@ -8936,16 +8977,24 @@
       "icon": "✈️",
       "estimatedTimeMinutes": 90,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791576828965-of8eel",
       "markerStyle": "emoji",
       "markerEmoji": "✈️",
       "markerColor": "#f472b6",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 9.76,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544242000,
+        "sunset": 1791584920000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828974,
-      "updatedAt": 1791576828974
+      "updatedAt": 1791576828974,
+      "itineraryDayId": "1791576828965-of8eel"
     },
     {
       "id": "wp_mv1el4iu0jw939",
@@ -8959,16 +9008,24 @@
       "icon": "🥪",
       "estimatedTimeMinutes": 60,
       "order": 1,
-      "itineraryOrder": 1,
+      "itineraryOrder": 0,
       "folderId": "1791576828966-ivgykw",
       "markerStyle": "emoji",
       "markerEmoji": "🥪",
       "markerColor": "#f97316",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.23,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544252000,
+        "sunset": 1791584933000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828975,
-      "updatedAt": 1791576828975
+      "updatedAt": 1791576828975,
+      "itineraryDayId": "1791576828966-ivgykw"
     },
     {
       "id": "wp_mv1el4iuli2po5",
@@ -8982,16 +9039,24 @@
       "icon": "🍨",
       "estimatedTimeMinutes": 30,
       "order": 2,
-      "itineraryOrder": 2,
+      "itineraryOrder": 1,
       "folderId": "1791576828966-ivgykw",
       "markerStyle": "emoji",
       "markerEmoji": "🍨",
       "markerColor": "#f97316",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.27,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544253000,
+        "sunset": 1791584935000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828976,
-      "updatedAt": 1791576828976
+      "updatedAt": 1791576828976,
+      "itineraryDayId": "1791576828966-ivgykw"
     },
     {
       "id": "wp_mv1el4iva5eyu2",
@@ -9005,16 +9070,24 @@
       "icon": "🌳",
       "estimatedTimeMinutes": 60,
       "order": 3,
-      "itineraryOrder": 3,
+      "itineraryOrder": 2,
       "folderId": "1791576828966-ivgykw",
       "markerStyle": "emoji",
       "markerEmoji": "🌳",
       "markerColor": "#34d399",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.53,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544253000,
+        "sunset": 1791584938000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828977,
-      "updatedAt": 1791576828977
+      "updatedAt": 1791576828977,
+      "itineraryDayId": "1791576828966-ivgykw"
     },
     {
       "id": "wp_mv1el4ivl129z0",
@@ -9028,16 +9101,24 @@
       "icon": "🚜",
       "estimatedTimeMinutes": 75,
       "order": 4,
-      "itineraryOrder": 4,
+      "itineraryOrder": 3,
       "folderId": "1791576828966-ivgykw",
       "markerStyle": "emoji",
       "markerEmoji": "🚜",
       "markerColor": "#38bdf8",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.48,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544254000,
+        "sunset": 1791584939000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828978,
-      "updatedAt": 1791576828978
+      "updatedAt": 1791576828978,
+      "itineraryDayId": "1791576828966-ivgykw"
     },
     {
       "id": "wp_mv1el4ivs4c0ux",
@@ -9051,16 +9132,24 @@
       "icon": "🗿",
       "estimatedTimeMinutes": 45,
       "order": 5,
-      "itineraryOrder": 5,
+      "itineraryOrder": 4,
       "folderId": "1791576828966-ivgykw",
       "markerStyle": "emoji",
       "markerEmoji": "🗿",
       "markerColor": "#22d3ee",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 9.52,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544265000,
+        "sunset": 1791584948000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828979,
-      "updatedAt": 1791576828979
+      "updatedAt": 1791576828979,
+      "itineraryDayId": "1791576828966-ivgykw"
     },
     {
       "id": "wp_mv1el4ivfu2evm",
@@ -9074,16 +9163,51 @@
       "icon": "🎖️",
       "estimatedTimeMinutes": 105,
       "order": 6,
-      "itineraryOrder": 6,
+      "itineraryOrder": 5,
       "folderId": "1791576828966-ivgykw",
       "markerStyle": "emoji",
       "markerEmoji": "🎖️",
       "markerColor": "#a78bfa",
       "photos": [],
-      "weather": null,
+      "weather": {
+        "tempC": 10.34,
+        "icon": "01n",
+        "description": "clear sky",
+        "sunrise": 1791544258000,
+        "sunset": 1791584940000,
+        "tzOffsetSec": -14400
+      },
       "aiGenerated": true,
       "createdAt": 1791576828980,
-      "updatedAt": 1791576828980
+      "updatedAt": 1791576828980,
+      "itineraryDayId": "1791576828966-ivgykw"
+    },
+    {
+      "id": "1791636328269-195rza",
+      "lat": 45.35475767871862,
+      "lng": -75.59276898326111,
+      "name": "Davidson Road - P18 NCC",
+      "notes": "",
+      "url": "",
+      "code": "wildatoll.bokima.memesu",
+      "isCurrentLocation": false,
+      "markerStyle": "emoji",
+      "markerColor": "#22d3ee",
+      "markerEmoji": "🥾",
+      "photos": [],
+      "folderId": null,
+      "review": null,
+      "createdAt": 1791636300000,
+      "updatedAt": 1791636381935,
+      "weather": {
+        "tempC": 4.19,
+        "icon": "01d",
+        "description": "clear sky",
+        "sunrise": 1791630704000,
+        "sunset": 1791671205000,
+        "tzOffsetSec": -14400
+      },
+      "elevation": 97
     }
   ],
   "rides": [
@@ -234202,266 +234326,6 @@
   ],
   "waypointFolders": [
     {
-      "id": "1791575921967-iwqn2q",
-      "name": "Alberta",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921968-wdsax5",
-      "name": "British Columbia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921969-7rtpu6",
-      "name": "Manitoba",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921970-gmuxse",
-      "name": "New Brunswick",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921971-5a0r5z",
-      "name": "Newfoundland and Labrador",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921972-j4kzj4",
-      "name": "Nova Scotia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921973-gmk36z",
-      "name": "Ontario",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921974-q1uwck",
-      "name": "Prince Edward Island",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921975-c1jhbz",
-      "name": "Quebec",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921976-e72vwv",
-      "name": "Saskatchewan",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921977-0ks7ch",
-      "name": "Northwest Territories",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921978-e366xo",
-      "name": "Nunavut",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575921979-bmpvde",
-      "name": "Yukon",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575921967,
-      "updatedAt": 1791575921967
-    },
-    {
-      "id": "1791575129343-sj994x",
-      "name": "Alberta",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129344-s9baac",
-      "name": "British Columbia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129345-w3ddpj",
-      "name": "Manitoba",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129346-us5t13",
-      "name": "New Brunswick",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129347-1n6sjm",
-      "name": "Newfoundland and Labrador",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129348-7aaf0a",
-      "name": "Nova Scotia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129349-jxo43g",
-      "name": "Ontario",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129350-wfte61",
-      "name": "Prince Edward Island",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129351-xu2mjo",
-      "name": "Quebec",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129352-8cs0kh",
-      "name": "Saskatchewan",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129353-ivnaf8",
-      "name": "Northwest Territories",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129354-qobehw",
-      "name": "Nunavut",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
-      "id": "1791575129355-uw8fh6",
-      "name": "Yukon",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1791575129343,
-      "updatedAt": 1791575129343
-    },
-    {
       "id": "1791218542222-ek0lt8",
       "name": "Alberta",
       "parentFolderId": null,
@@ -234864,44 +234728,6 @@
       "updatedAt": 1788187727709,
       "color": "#fbbf24",
       "hidden": true
-    },
-    {
-      "id": "1788522919956-v058h7",
-      "name": "Milan - Short trip",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": true,
-      "createdAt": 1788522919956,
-      "updatedAt": 1788530332200,
-      "color": "#22d3ee",
-      "hidden": true
-    },
-    {
-      "id": "1788522919957-z6ioxg",
-      "name": "Day 1 (Sep 18)",
-      "parentFolderId": "1788522919956-v058h7",
-      "isTrip": false,
-      "isItinerary": false,
-      "createdAt": 1788522919957,
-      "updatedAt": 1788522919957
-    },
-    {
-      "id": "1788522919957-8y9rmc",
-      "name": "Day 2 (Sep 19)",
-      "parentFolderId": "1788522919956-v058h7",
-      "isTrip": false,
-      "isItinerary": false,
-      "createdAt": 1788522919957,
-      "updatedAt": 1788522919957
-    },
-    {
-      "id": "1788522919957-5osdl2",
-      "name": "Day 3 (Sep 20)",
-      "parentFolderId": "1788522919956-v058h7",
-      "isTrip": false,
-      "isItinerary": false,
-      "createdAt": 1788522919957,
-      "updatedAt": 1788522919957
     },
     {
       "id": "1789155118831-fj0ikm",
@@ -241313,6 +241139,136 @@
       "hidden": true
     },
     {
+      "id": "1791575129343-sj994x",
+      "name": "Alberta",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129344-s9baac",
+      "name": "British Columbia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129345-w3ddpj",
+      "name": "Manitoba",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129346-us5t13",
+      "name": "New Brunswick",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129347-1n6sjm",
+      "name": "Newfoundland and Labrador",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129348-7aaf0a",
+      "name": "Nova Scotia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129349-jxo43g",
+      "name": "Ontario",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129350-wfte61",
+      "name": "Prince Edward Island",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129351-xu2mjo",
+      "name": "Quebec",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129352-8cs0kh",
+      "name": "Saskatchewan",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129353-ivnaf8",
+      "name": "Northwest Territories",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129354-qobehw",
+      "name": "Nunavut",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
+      "id": "1791575129355-uw8fh6",
+      "name": "Yukon",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575129343,
+      "updatedAt": 1791575129343
+    },
+    {
       "id": "1791576828962-y0uhql",
       "name": "Ottawa saturday",
       "parentFolderId": null,
@@ -241345,7 +241301,7 @@
         "source": "ai",
         "generatedAt": 1791576786938
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791576828962-qrk68q",
@@ -241355,11 +241311,11 @@
       "isItinerary": false,
       "region": "personal",
       "createdAt": 1791576828962,
-      "updatedAt": 1791576828962,
+      "updatedAt": 1791628041192,
       "color": "#22d3ee",
       "theme": "Capital Icons, Historic Canals & Fall Colours",
       "route": {
-        "sig": "driving|45.45336,-75.60803;45.43003,-75.69134;45.42841,-75.69176;45.42777,-75.69707;45.42621,-75.69747;45.42481,-75.69966;45.42957,-75.69874;45.43088,-75.70112;45.45336,-75.60803",
+        "sig": "driving|45.45336,-75.60803;45.43003,-75.69134;45.42841,-75.69176;45.42777,-75.69707;45.42621,-75.69747;45.42481,-75.69966;45.43088,-75.70112;45.42957,-75.69874;45.45336,-75.60803",
         "mode": "driving",
         "latlngs": [
           [
@@ -244003,178 +243959,6 @@
             -75.697395
           ],
           [
-            45.430302,
-            -75.697498
-          ],
-          [
-            45.430437,
-            -75.697614
-          ],
-          [
-            45.430509,
-            -75.697738
-          ],
-          [
-            45.43049,
-            -75.697845
-          ],
-          [
-            45.430447,
-            -75.697929
-          ],
-          [
-            45.430374,
-            -75.697959
-          ],
-          [
-            45.430316,
-            -75.697942
-          ],
-          [
-            45.430165,
-            -75.697807
-          ],
-          [
-            45.429973,
-            -75.697789
-          ],
-          [
-            45.429821,
-            -75.697662
-          ],
-          [
-            45.42977,
-            -75.697533
-          ],
-          [
-            45.429781,
-            -75.69745
-          ],
-          [
-            45.429807,
-            -75.697326
-          ],
-          [
-            45.429842,
-            -75.697189
-          ],
-          [
-            45.429641,
-            -75.697019
-          ],
-          [
-            45.429508,
-            -75.696906
-          ],
-          [
-            45.429446,
-            -75.696866
-          ],
-          [
-            45.429381,
-            -75.69685
-          ],
-          [
-            45.429312,
-            -75.696845
-          ],
-          [
-            45.429226,
-            -75.69687
-          ],
-          [
-            45.429122,
-            -75.696927
-          ],
-          [
-            45.428981,
-            -75.697031
-          ],
-          [
-            45.428873,
-            -75.697083
-          ],
-          [
-            45.42881,
-            -75.69709
-          ],
-          [
-            45.428739,
-            -75.697076
-          ],
-          [
-            45.428659,
-            -75.697036
-          ],
-          [
-            45.42856,
-            -75.69697
-          ],
-          [
-            45.428548,
-            -75.69681
-          ],
-          [
-            45.428541,
-            -75.696663
-          ],
-          [
-            45.428545,
-            -75.696579
-          ],
-          [
-            45.428553,
-            -75.696485
-          ],
-          [
-            45.428568,
-            -75.696381
-          ],
-          [
-            45.428591,
-            -75.696283
-          ],
-          [
-            45.428619,
-            -75.696188
-          ],
-          [
-            45.428667,
-            -75.696033
-          ],
-          [
-            45.428731,
-            -75.696092
-          ],
-          [
-            45.429103,
-            -75.696417
-          ],
-          [
-            45.429214,
-            -75.696509
-          ],
-          [
-            45.429275,
-            -75.696558
-          ],
-          [
-            45.429335,
-            -75.69661
-          ],
-          [
-            45.429595,
-            -75.696824
-          ],
-          [
-            45.429907,
-            -75.69709
-          ],
-          [
-            45.430276,
-            -75.697395
-          ],
-          [
             45.430431,
             -75.697523
           ],
@@ -244667,328 +244451,716 @@
             -75.699126
           ],
           [
-            45.434488,
-            -75.69895
+            45.434378,
+            -75.699187
           ],
           [
-            45.434572,
-            -75.69891
+            45.434263,
+            -75.699229
           ],
           [
-            45.43469,
-            -75.698852
+            45.434068,
+            -75.699292
           ],
           [
-            45.434758,
-            -75.698812
+            45.433971,
+            -75.699317
           ],
           [
-            45.434827,
-            -75.698774
+            45.433847,
+            -75.699348
           ],
           [
-            45.435001,
-            -75.698676
+            45.433742,
+            -75.699367
           ],
           [
-            45.435449,
-            -75.698396
+            45.433638,
+            -75.69938
           ],
           [
-            45.436089,
-            -75.697986
+            45.433477,
+            -75.699391
           ],
           [
-            45.436546,
-            -75.697704
+            45.433319,
+            -75.699396
           ],
           [
-            45.436674,
-            -75.697616
+            45.43317,
+            -75.699395
           ],
           [
-            45.436975,
-            -75.697408
+            45.433002,
+            -75.699384
           ],
           [
-            45.437039,
-            -75.697367
+            45.432821,
+            -75.69936
           ],
           [
-            45.437159,
-            -75.697292
+            45.432697,
+            -75.699337
           ],
           [
-            45.437239,
-            -75.697244
+            45.432613,
+            -75.6993
           ],
           [
-            45.437433,
-            -75.697127
+            45.432503,
+            -75.699219
           ],
           [
-            45.43844,
-            -75.696517
+            45.432434,
+            -75.699195
           ],
           [
-            45.43853,
-            -75.696463
+            45.432324,
+            -75.699144
           ],
           [
-            45.438641,
-            -75.696395
+            45.432224,
+            -75.699085
           ],
           [
-            45.438696,
-            -75.696362
+            45.432142,
+            -75.699025
           ],
           [
-            45.438877,
-            -75.696257
+            45.431946,
+            -75.698856
           ],
           [
-            45.439094,
-            -75.696182
+            45.431427,
+            -75.698408
           ],
           [
-            45.439656,
-            -75.695809
+            45.431214,
+            -75.698224
           ],
           [
-            45.439837,
-            -75.695689
+            45.43115,
+            -75.698169
           ],
           [
-            45.439948,
-            -75.695615
+            45.431069,
+            -75.698099
           ],
           [
-            45.440439,
-            -75.695289
+            45.430956,
+            -75.698001
           ],
           [
-            45.44064,
-            -75.695156
+            45.430802,
+            -75.697941
           ],
           [
-            45.440715,
-            -75.695106
+            45.430677,
+            -75.697867
           ],
           [
-            45.440781,
-            -75.695062
+            45.430509,
+            -75.697738
           ],
           [
-            45.441493,
-            -75.6946
+            45.43049,
+            -75.697845
           ],
           [
-            45.441889,
-            -75.694349
+            45.430447,
+            -75.697929
           ],
           [
-            45.441945,
-            -75.694313
+            45.430374,
+            -75.697959
           ],
           [
-            45.442315,
-            -75.694079
+            45.430316,
+            -75.697942
           ],
           [
-            45.442589,
-            -75.693905
+            45.430165,
+            -75.697807
           ],
           [
-            45.442552,
-            -75.693784
+            45.429973,
+            -75.697789
           ],
           [
-            45.442516,
-            -75.693665
+            45.429821,
+            -75.697662
           ],
           [
-            45.442382,
-            -75.693229
+            45.42977,
+            -75.697533
           ],
           [
-            45.442355,
-            -75.69314
+            45.429781,
+            -75.69745
           ],
           [
-            45.442181,
-            -75.692572
+            45.429807,
+            -75.697326
           ],
           [
-            45.441923,
-            -75.691726
+            45.429842,
+            -75.697189
           ],
           [
-            45.441893,
-            -75.691628
+            45.429641,
+            -75.697019
           ],
           [
-            45.442221,
-            -75.691418
+            45.429508,
+            -75.696906
           ],
           [
-            45.442189,
-            -75.691321
+            45.429446,
+            -75.696866
           ],
           [
-            45.442012,
-            -75.690784
+            45.429381,
+            -75.69685
           ],
           [
-            45.441743,
-            -75.689924
+            45.429312,
+            -75.696845
           ],
           [
-            45.441701,
-            -75.689789
+            45.429226,
+            -75.69687
           ],
           [
-            45.441678,
-            -75.689716
+            45.429122,
+            -75.696927
           ],
           [
-            45.441215,
-            -75.688224
+            45.428981,
+            -75.697031
           ],
           [
-            45.441174,
-            -75.688092
+            45.428873,
+            -75.697083
           ],
           [
-            45.441089,
+            45.42881,
+            -75.69709
+          ],
+          [
+            45.428739,
+            -75.697076
+          ],
+          [
+            45.428659,
+            -75.697036
+          ],
+          [
+            45.42856,
+            -75.69697
+          ],
+          [
+            45.428548,
+            -75.69681
+          ],
+          [
+            45.428541,
+            -75.696663
+          ],
+          [
+            45.428545,
+            -75.696579
+          ],
+          [
+            45.428553,
+            -75.696485
+          ],
+          [
+            45.428568,
+            -75.696381
+          ],
+          [
+            45.428591,
+            -75.696283
+          ],
+          [
+            45.428619,
+            -75.696188
+          ],
+          [
+            45.428667,
+            -75.696033
+          ],
+          [
+            45.428701,
+            -75.695952
+          ],
+          [
+            45.428821,
+            -75.695663
+          ],
+          [
+            45.429456,
+            -75.694138
+          ],
+          [
+            45.429487,
+            -75.694063
+          ],
+          [
+            45.429535,
+            -75.693957
+          ],
+          [
+            45.429628,
+            -75.693735
+          ],
+          [
+            45.430047,
+            -75.692745
+          ],
+          [
+            45.430206,
+            -75.692369
+          ],
+          [
+            45.430248,
+            -75.692277
+          ],
+          [
+            45.430277,
+            -75.692202
+          ],
+          [
+            45.430451,
+            -75.691816
+          ],
+          [
+            45.430559,
+            -75.691563
+          ],
+          [
+            45.430591,
+            -75.691487
+          ],
+          [
+            45.43064,
+            -75.691374
+          ],
+          [
+            45.430864,
+            -75.690849
+          ],
+          [
+            45.430985,
+            -75.690564
+          ],
+          [
+            45.431147,
+            -75.690184
+          ],
+          [
+            45.431187,
+            -75.690093
+          ],
+          [
+            45.431227,
+            -75.689996
+          ],
+          [
+            45.431366,
+            -75.689667
+          ],
+          [
+            45.43143,
+            -75.689516
+          ],
+          [
+            45.431559,
+            -75.689211
+          ],
+          [
+            45.431645,
+            -75.689006
+          ],
+          [
+            45.431806,
+            -75.688623
+          ],
+          [
+            45.43185,
+            -75.688519
+          ],
+          [
+            45.431948,
+            -75.688336
+          ],
+          [
+            45.432013,
+            -75.688244
+          ],
+          [
+            45.432068,
+            -75.688162
+          ],
+          [
+            45.432131,
+            -75.68809
+          ],
+          [
+            45.432243,
+            -75.687982
+          ],
+          [
+            45.432321,
+            -75.687921
+          ],
+          [
+            45.432401,
+            -75.687865
+          ],
+          [
+            45.432462,
             -75.687823
           ],
           [
-            45.440963,
-            -75.687426
+            45.432527,
+            -75.687778
           ],
           [
-            45.440733,
-            -75.68666
+            45.432606,
+            -75.687724
           ],
           [
-            45.440605,
-            -75.686233
+            45.432767,
+            -75.687639
           ],
           [
-            45.440577,
-            -75.686139
+            45.432837,
+            -75.687604
           ],
           [
-            45.440428,
-            -75.685654
+            45.432963,
+            -75.687552
           ],
           [
-            45.440015,
-            -75.684308
+            45.433071,
+            -75.68751
           ],
           [
-            45.439717,
-            -75.683326
+            45.434085,
+            -75.687136
           ],
           [
-            45.439667,
-            -75.683163
+            45.434224,
+            -75.687083
           ],
           [
-            45.439609,
-            -75.682903
+            45.434336,
+            -75.68703
           ],
           [
-            45.439548,
-            -75.682631
+            45.434435,
+            -75.686974
           ],
           [
-            45.439521,
-            -75.682508
+            45.434531,
+            -75.686911
           ],
           [
-            45.439478,
-            -75.682302
+            45.434583,
+            -75.68687
           ],
           [
-            45.439448,
-            -75.682159
+            45.434645,
+            -75.686815
           ],
           [
-            45.439416,
-            -75.682011
+            45.434721,
+            -75.686749
           ],
           [
-            45.439285,
-            -75.681382
+            45.434774,
+            -75.686702
           ],
           [
-            45.439044,
-            -75.680246
+            45.434861,
+            -75.686608
           ],
           [
-            45.439026,
-            -75.680148
+            45.434943,
+            -75.686514
           ],
           [
-            45.439006,
-            -75.680058
+            45.435028,
+            -75.686406
           ],
           [
-            45.43897,
-            -75.679889
+            45.435111,
+            -75.68629
           ],
           [
-            45.438775,
-            -75.678976
+            45.435177,
+            -75.68619
           ],
           [
-            45.438704,
-            -75.678633
+            45.435223,
+            -75.686112
           ],
           [
-            45.438652,
-            -75.678401
+            45.435276,
+            -75.686024
           ],
           [
-            45.43861,
-            -75.678295
+            45.43533,
+            -75.685919
           ],
           [
-            45.438569,
-            -75.678201
+            45.43538,
+            -75.68582
           ],
           [
-            45.438522,
-            -75.678109
+            45.435481,
+            -75.685617
           ],
           [
-            45.438408,
-            -75.677936
+            45.435576,
+            -75.685408
           ],
           [
-            45.438319,
-            -75.677805
+            45.435663,
+            -75.685187
           ],
           [
-            45.438246,
-            -75.67769
+            45.435734,
+            -75.684994
           ],
           [
-            45.438173,
-            -75.677564
+            45.435782,
+            -75.684851
           ],
           [
-            45.438136,
-            -75.677492
+            45.435811,
+            -75.684752
           ],
           [
-            45.438105,
-            -75.677421
+            45.435856,
+            -75.684594
           ],
           [
-            45.438075,
-            -75.677347
+            45.435892,
+            -75.684454
+          ],
+          [
+            45.435925,
+            -75.684319
+          ],
+          [
+            45.435952,
+            -75.684199
+          ],
+          [
+            45.435973,
+            -75.684096
+          ],
+          [
+            45.436007,
+            -75.68391
+          ],
+          [
+            45.436031,
+            -75.683769
+          ],
+          [
+            45.436049,
+            -75.683649
+          ],
+          [
+            45.43607,
+            -75.683502
+          ],
+          [
+            45.436082,
+            -75.683391
+          ],
+          [
+            45.436097,
+            -75.683235
+          ],
+          [
+            45.436108,
+            -75.683092
+          ],
+          [
+            45.436116,
+            -75.682939
+          ],
+          [
+            45.436122,
+            -75.682778
+          ],
+          [
+            45.436125,
+            -75.682692
+          ],
+          [
+            45.436127,
+            -75.682605
+          ],
+          [
+            45.436125,
+            -75.682263
+          ],
+          [
+            45.436123,
+            -75.682061
+          ],
+          [
+            45.436123,
+            -75.681953
+          ],
+          [
+            45.436123,
+            -75.681829
+          ],
+          [
+            45.436123,
+            -75.681725
+          ],
+          [
+            45.436123,
+            -75.681432
+          ],
+          [
+            45.436126,
+            -75.681305
+          ],
+          [
+            45.436133,
+            -75.681187
+          ],
+          [
+            45.436142,
+            -75.681069
+          ],
+          [
+            45.436158,
+            -75.680935
+          ],
+          [
+            45.436173,
+            -75.680814
+          ],
+          [
+            45.43619,
+            -75.680702
+          ],
+          [
+            45.436212,
+            -75.68058
+          ],
+          [
+            45.436237,
+            -75.680466
+          ],
+          [
+            45.436265,
+            -75.680361
+          ],
+          [
+            45.436295,
+            -75.680256
+          ],
+          [
+            45.436328,
+            -75.68016
+          ],
+          [
+            45.436372,
+            -75.680044
+          ],
+          [
+            45.43641,
+            -75.679955
+          ],
+          [
+            45.436454,
+            -75.67986
+          ],
+          [
+            45.436498,
+            -75.679772
+          ],
+          [
+            45.436563,
+            -75.679653
+          ],
+          [
+            45.436607,
+            -75.679577
+          ],
+          [
+            45.436655,
+            -75.679502
+          ],
+          [
+            45.436706,
+            -75.679423
+          ],
+          [
+            45.436757,
+            -75.679345
+          ],
+          [
+            45.436815,
+            -75.679269
+          ],
+          [
+            45.436919,
+            -75.679157
+          ],
+          [
+            45.437018,
+            -75.679048
+          ],
+          [
+            45.437355,
+            -75.678696
+          ],
+          [
+            45.437656,
+            -75.678402
+          ],
+          [
+            45.437964,
+            -75.678091
+          ],
+          [
+            45.438046,
+            -75.677948
+          ],
+          [
+            45.4381,
+            -75.677822
+          ],
+          [
+            45.438118,
+            -75.677743
+          ],
+          [
+            45.438119,
+            -75.67765
+          ],
+          [
+            45.438103,
+            -75.677514
+          ],
+          [
+            45.43808,
+            -75.677439
+          ],
+          [
+            45.438062,
+            -75.677357
           ],
           [
             45.43803,
@@ -246143,10 +246315,44 @@
             -75.608357
           ]
         ],
-        "distanceMeters": 26427.1,
-        "durationSeconds": 3230.8
+        "distanceMeters": 26146.1,
+        "durationSeconds": 3198.4,
+        "legs": [
+          {
+            "d": 8756,
+            "t": 891
+          },
+          {
+            "d": 296,
+            "t": 93
+          },
+          {
+            "d": 740,
+            "t": 117
+          },
+          {
+            "d": 1648,
+            "t": 294
+          },
+          {
+            "d": 1386,
+            "t": 204
+          },
+          {
+            "d": 2818,
+            "t": 391
+          },
+          {
+            "d": 1195,
+            "t": 263
+          },
+          {
+            "d": 9307,
+            "t": 946
+          }
+        ]
       },
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1791576828965-of8eel",
@@ -256601,6 +256807,136 @@
         "durationSeconds": 3776.7
       },
       "hidden": true
+    },
+    {
+      "id": "1791575921967-iwqn2q",
+      "name": "Alberta",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921968-wdsax5",
+      "name": "British Columbia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921969-7rtpu6",
+      "name": "Manitoba",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921970-gmuxse",
+      "name": "New Brunswick",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921971-5a0r5z",
+      "name": "Newfoundland and Labrador",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921972-j4kzj4",
+      "name": "Nova Scotia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921973-gmk36z",
+      "name": "Ontario",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921974-q1uwck",
+      "name": "Prince Edward Island",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921975-c1jhbz",
+      "name": "Quebec",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921976-e72vwv",
+      "name": "Saskatchewan",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921977-0ks7ch",
+      "name": "Northwest Territories",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921978-e366xo",
+      "name": "Nunavut",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
+    },
+    {
+      "id": "1791575921979-bmpvde",
+      "name": "Yukon",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1791575921967,
+      "updatedAt": 1791575921967
     }
   ],
   "rideFolders": [
@@ -256700,7 +257036,11 @@
       "1788099794080-cid3ct",
       "1788098400568-ov16my",
       "1788534624035-adz8f7",
-      "1788534520937-7njdqi"
+      "1788534520937-7njdqi",
+      "1788523839008-9b72qk",
+      "1788523904060-xhzcnf",
+      "1788524148504-s3gu1l",
+      "1788530259644-22joww"
     ],
     "rides": [
       "1786466212086-8xbwdi",
@@ -256714,8 +257054,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790778605-xlce2w",
-      "1786790691553-hyw3ii"
+      "1786790691553-hyw3ii",
+      "1786790778605-xlce2w"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
@@ -256736,7 +257076,11 @@
       "1788521402796-mbtsyx",
       "1788521402796-04hun1",
       "1788534401928-7azgao",
-      "1788534401929-0u5lr8"
+      "1788534401929-0u5lr8",
+      "1788522919956-v058h7",
+      "1788522919957-z6ioxg",
+      "1788522919957-8y9rmc",
+      "1788522919957-5osdl2"
     ],
     "rideFolders": [],
     "measurementFolders": []
