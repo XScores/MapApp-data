@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-10T12:51:15.832Z",
+  "exportedAt": "2026-10-10T12:52:42.683Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -9062,10 +9062,10 @@
       "markerColor": "#22d3ee",
       "markerEmoji": "🥾",
       "photos": [],
-      "folderId": null,
+      "folderId": "1786889041106-wtoqp1",
       "review": null,
       "createdAt": 1791636300000,
-      "updatedAt": 1791636381935,
+      "updatedAt": 1791636717784,
       "weather": {
         "tempC": 4.19,
         "icon": "01d",
@@ -234883,7 +234883,7 @@
       "createdAt": 1786889041106,
       "updatedAt": 1787699374106,
       "color": "#fbbf24",
-      "hidden": true
+      "hidden": false
     },
     {
       "id": "1786886787002-1ehedf",
