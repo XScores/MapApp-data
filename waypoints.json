@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-12T10:33:33.375Z",
+  "exportedAt": "2026-10-12T10:33:56.383Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -232194,136 +232194,6 @@
       "color": "#a78bfa"
     },
     {
-      "id": "ca-prov-alberta",
-      "name": "Alberta",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-british-columbia",
-      "name": "British Columbia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-manitoba",
-      "name": "Manitoba",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-new-brunswick",
-      "name": "New Brunswick",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-newfoundland-and-labrador",
-      "name": "Newfoundland and Labrador",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-nova-scotia",
-      "name": "Nova Scotia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-ontario",
-      "name": "Ontario",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-prince-edward-island",
-      "name": "Prince Edward Island",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-quebec",
-      "name": "Quebec",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-saskatchewan",
-      "name": "Saskatchewan",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-northwest-territories",
-      "name": "Northwest Territories",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-nunavut",
-      "name": "Nunavut",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-yukon",
-      "name": "Yukon",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
       "id": "1791576828962-y0uhql",
       "name": "Ottawa saturday",
       "parentFolderId": null,
@@ -232356,7 +232226,7 @@
         "source": "ai",
         "generatedAt": 1791576786938
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791576828962-qrk68q",
@@ -263348,6 +263218,136 @@
         ]
       },
       "hidden": false
+    },
+    {
+      "id": "ca-prov-alberta",
+      "name": "Alberta",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-british-columbia",
+      "name": "British Columbia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-manitoba",
+      "name": "Manitoba",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-new-brunswick",
+      "name": "New Brunswick",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-newfoundland-and-labrador",
+      "name": "Newfoundland and Labrador",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-nova-scotia",
+      "name": "Nova Scotia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-ontario",
+      "name": "Ontario",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-prince-edward-island",
+      "name": "Prince Edward Island",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-quebec",
+      "name": "Quebec",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-saskatchewan",
+      "name": "Saskatchewan",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-northwest-territories",
+      "name": "Northwest Territories",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-nunavut",
+      "name": "Nunavut",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-yukon",
+      "name": "Yukon",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
     }
   ],
   "rideFolders": [
@@ -263535,8 +263535,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790691553-hyw3ii",
-      "1786790778605-xlce2w"
+      "1786790778605-xlce2w",
+      "1786790691553-hyw3ii"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
@@ -263656,8 +263656,8 @@
     "measurementFolders": []
   },
   "settings": {
-    "baseLayer": "satellite",
-    "mapOrientation": "north",
+    "baseLayer": "street",
+    "mapOrientation": "free",
     "weather": {
       "precip": false,
       "clouds": false,
@@ -263830,10 +263830,9 @@
       "favoriteIds": [
         "lm_mttztlsb2os5y8",
         "lm_migrated",
-        "",
-        "lm_mttb8bi7g36246"
-      ],
-      "chosen": true
+        "lm_mttb8bi7g36246",
+        ""
+      ]
     },
     "connect": {
       "myDeviceId": null,
