@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-14T21:54:12.700Z",
+  "exportedAt": "2026-10-14T21:56:57.509Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -232394,7 +232394,7 @@
         "source": "ai",
         "generatedAt": 1791576786938
       },
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1791576828962-qrk68q",
