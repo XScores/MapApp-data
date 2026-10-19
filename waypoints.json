@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-19T23:33:02.975Z",
+  "exportedAt": "2026-10-19T23:33:34.839Z",
   "waypoints": [
     {
       "id": "1785529759516-o1khlp",
@@ -3619,7 +3619,7 @@
         }
       ],
       "createdAt": 1786529100000,
-      "updatedAt": 1788101651898,
+      "updatedAt": 1792449506971,
       "weather": {
         "tempC": 15.04,
         "icon": "02d",
@@ -3627,7 +3627,8 @@
       },
       "folderId": "1787020450508-uk5bnh",
       "url": "",
-      "review": null
+      "review": null,
+      "elevation": 160
     },
     {
       "id": "1786292665910-sl2i4k",
@@ -3660,10 +3661,11 @@
         "icon": "01d",
         "description": "clear sky"
       },
-      "updatedAt": 1788030254779,
+      "updatedAt": 1792449515910,
       "folderId": "1787020450508-uk5bnh",
       "url": "",
-      "review": null
+      "review": null,
+      "elevation": 150
     },
     {
       "id": "1786300266280-nsah1o",
@@ -3696,10 +3698,11 @@
         "icon": "01d",
         "description": "clear sky"
       },
-      "updatedAt": 1788202942748,
+      "updatedAt": 1792449489620,
       "url": "",
       "folderId": "1787020450508-uk5bnh",
-      "review": null
+      "review": null,
+      "elevation": 142
     },
     {
       "id": "1786459327359-wwmnky",
@@ -4106,13 +4109,14 @@
       ],
       "folderId": "1787020450508-uk5bnh",
       "createdAt": 1787020140000,
-      "updatedAt": 1788101751925,
+      "updatedAt": 1792449527106,
       "weather": {
         "tempC": 18.77,
         "icon": "04n",
         "description": "overcast clouds"
       },
-      "review": null
+      "review": null,
+      "elevation": 145
     },
     {
       "id": "1787020199044-pxs7j8",
@@ -4139,13 +4143,14 @@
       ],
       "folderId": "1787020450508-uk5bnh",
       "createdAt": 1787020140000,
-      "updatedAt": 1788179884078,
+      "updatedAt": 1792449540817,
       "weather": {
         "tempC": 18.77,
         "icon": "04n",
         "description": "overcast clouds"
       },
-      "review": null
+      "review": null,
+      "elevation": 157
     },
     {
       "id": "1787052167649-bvjvch",
@@ -5992,14 +5997,15 @@
       "folderId": "1788187727708-yuymtw",
       "photos": [],
       "createdAt": 1788194760000,
-      "updatedAt": 1788209520059,
+      "updatedAt": 1792449454139,
       "weather": {
         "tempC": 15.29,
         "icon": "04d",
         "description": "overcast clouds"
       },
       "url": "",
-      "review": null
+      "review": null,
+      "elevation": 154
     },
     {
       "id": "1788196786576-otpa4l",
@@ -6038,14 +6044,15 @@
       "folderId": "1788187727708-yuymtw",
       "photos": [],
       "createdAt": 1788276060000,
-      "updatedAt": 1788310114469,
+      "updatedAt": 1792449424495,
       "weather": {
         "tempC": 22.9,
         "icon": "04d",
         "description": "broken clouds"
       },
       "url": "",
-      "review": null
+      "review": null,
+      "elevation": 186
     },
     {
       "id": "1788280375560-3dcqx2",
@@ -6924,6 +6931,44 @@
       "updatedAt": 1791741878218
     },
     {
+      "id": "1792012725621-ek32gf",
+      "lat": 45.4426426,
+      "lng": -75.6440628,
+      "name": "All Out Burger",
+      "notes": "585 Montréal Road\n\nAll-Out Burger absolutely deserves a full five stars. The food is incredible — the burgers are juicy, perfectly seasoned, and cooked exactly right. You can tell they use high-quality ingredients, and every bite has that fresh, made-to-order taste. The fries are crisp, the portions are generous, and the menu has great options for every craving.\n\nThe service is just as impressive. The staff are friendly, attentive, and quick, even during busy times. The place is clean, welcoming, and has a great local vibe that makes you want to come back.",
+      "url": "https://alloutburger.com/",
+      "code": "wildatoll.bokifi.sinega",
+      "isCurrentLocation": false,
+      "markerStyle": "emoji",
+      "markerColor": "#22d3ee",
+      "markerEmoji": "🍽️",
+      "photos": [],
+      "folderId": "1787071867250-ito2ux",
+      "review": {
+        "name": "All Out Burger",
+        "rating": 4.8,
+        "ambianceRating": null,
+        "cleanlinessRating": null,
+        "locationTag": "585 Montréal Road, Ottawa, Ontario, CA",
+        "priceLevel": 1,
+        "hours": "",
+        "phone": "",
+        "email": "",
+        "tags": []
+      },
+      "createdAt": 1792012680000,
+      "updatedAt": 1792014071993,
+      "weather": {
+        "tempC": 11.07,
+        "icon": "04d",
+        "description": "overcast clouds",
+        "sunrise": 1791976632000,
+        "sunset": 1792016377000,
+        "tzOffsetSec": -14400
+      },
+      "elevation": 82
+    },
+    {
       "id": "1791898341114-wvakjw",
       "lat": 45.4587025,
       "lng": -75.4880887,
@@ -6976,44 +7021,6 @@
         "tzOffsetSec": -14400
       },
       "elevation": 94
-    },
-    {
-      "id": "1792012725621-ek32gf",
-      "lat": 45.4426426,
-      "lng": -75.6440628,
-      "name": "All Out Burger",
-      "notes": "585 Montréal Road\n\nAll-Out Burger absolutely deserves a full five stars. The food is incredible — the burgers are juicy, perfectly seasoned, and cooked exactly right. You can tell they use high-quality ingredients, and every bite has that fresh, made-to-order taste. The fries are crisp, the portions are generous, and the menu has great options for every craving.\n\nThe service is just as impressive. The staff are friendly, attentive, and quick, even during busy times. The place is clean, welcoming, and has a great local vibe that makes you want to come back.",
-      "url": "https://alloutburger.com/",
-      "code": "wildatoll.bokifi.sinega",
-      "isCurrentLocation": false,
-      "markerStyle": "emoji",
-      "markerColor": "#22d3ee",
-      "markerEmoji": "🍽️",
-      "photos": [],
-      "folderId": "1787071867250-ito2ux",
-      "review": {
-        "name": "All Out Burger",
-        "rating": 4.8,
-        "ambianceRating": null,
-        "cleanlinessRating": null,
-        "locationTag": "585 Montréal Road, Ottawa, Ontario, CA",
-        "priceLevel": 1,
-        "hours": "",
-        "phone": "",
-        "email": "",
-        "tags": []
-      },
-      "createdAt": 1792012680000,
-      "updatedAt": 1792014071993,
-      "weather": {
-        "tempC": 11.07,
-        "icon": "04d",
-        "description": "overcast clouds",
-        "sunrise": 1791976632000,
-        "sunset": 1792016377000,
-        "tzOffsetSec": -14400
-      },
-      "elevation": 82
     },
     {
       "id": "1792404723141-1q4wva",
@@ -271143,7 +271150,7 @@
       "isTrip": false,
       "createdAt": 1787071867250,
       "updatedAt": 1787071867250,
-      "hidden": false
+      "hidden": true
     },
     {
       "id": "1787084393613-l0gpto",
@@ -271194,6 +271201,136 @@
       "createdAt": 1789155118831,
       "updatedAt": 1789155118831,
       "color": "#a78bfa"
+    },
+    {
+      "id": "ca-prov-alberta",
+      "name": "Alberta",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-british-columbia",
+      "name": "British Columbia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-manitoba",
+      "name": "Manitoba",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-new-brunswick",
+      "name": "New Brunswick",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695136
+    },
+    {
+      "id": "ca-prov-newfoundland-and-labrador",
+      "name": "Newfoundland and Labrador",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-nova-scotia",
+      "name": "Nova Scotia",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-ontario",
+      "name": "Ontario",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-prince-edward-island",
+      "name": "Prince Edward Island",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695137
+    },
+    {
+      "id": "ca-prov-quebec",
+      "name": "Quebec",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-saskatchewan",
+      "name": "Saskatchewan",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-northwest-territories",
+      "name": "Northwest Territories",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-nunavut",
+      "name": "Nunavut",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
+    },
+    {
+      "id": "ca-prov-yukon",
+      "name": "Yukon",
+      "parentFolderId": null,
+      "isTrip": false,
+      "isItinerary": false,
+      "region": "canada",
+      "createdAt": 1789986681732,
+      "updatedAt": 1791799695138
     },
     {
       "id": "1791576828962-y0uhql",
@@ -302222,136 +302359,6 @@
       "hidden": false
     },
     {
-      "id": "ca-prov-alberta",
-      "name": "Alberta",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-british-columbia",
-      "name": "British Columbia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-manitoba",
-      "name": "Manitoba",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-new-brunswick",
-      "name": "New Brunswick",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695136
-    },
-    {
-      "id": "ca-prov-newfoundland-and-labrador",
-      "name": "Newfoundland and Labrador",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-nova-scotia",
-      "name": "Nova Scotia",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-ontario",
-      "name": "Ontario",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-prince-edward-island",
-      "name": "Prince Edward Island",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695137
-    },
-    {
-      "id": "ca-prov-quebec",
-      "name": "Quebec",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-saskatchewan",
-      "name": "Saskatchewan",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-northwest-territories",
-      "name": "Northwest Territories",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-nunavut",
-      "name": "Nunavut",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
-      "id": "ca-prov-yukon",
-      "name": "Yukon",
-      "parentFolderId": null,
-      "isTrip": false,
-      "isItinerary": false,
-      "region": "canada",
-      "createdAt": 1789986681732,
-      "updatedAt": 1791799695138
-    },
-    {
       "id": "1791967578035-ce90aq",
       "name": "Shopping",
       "parentFolderId": null,
@@ -302548,8 +302555,8 @@
       "1786467126093-8uuaa0",
       "1786546520377-d82k51",
       "1786548339507-pal984",
-      "1786790778605-xlce2w",
-      "1786790691553-hyw3ii"
+      "1786790691553-hyw3ii",
+      "1786790778605-xlce2w"
     ],
     "waypointFolders": [
       "1786874999568-tn77id",
@@ -302671,7 +302678,7 @@
   },
   "settings": {
     "baseLayer": "street",
-    "mapOrientation": "free",
+    "mapOrientation": "north",
     "weather": {
       "precip": false,
       "clouds": false,
@@ -302724,13 +302731,13 @@
       "🚙",
       "🚚",
       "🚛",
-      "🛥️",
       "🛻",
       "🚐",
       "🏍️",
       "🚲",
       "⛵",
       "🚤",
+      "🛥️",
       "🚢",
       "⛴️",
       "🏖️",
@@ -302792,7 +302799,13 @@
       "🎯"
     ],
     "favoriteIcons": [
-      "🍽️"
+      "🍽️",
+      "⛽",
+      "☕",
+      "🛒",
+      "🥾",
+      "⛺",
+      "🍺"
     ],
     "customWaypointIcons": [],
     "keepScreenAwake": false,
@@ -302846,9 +302859,10 @@
       "favoriteIds": [
         "lm_mttztlsb2os5y8",
         "lm_migrated",
-        "lm_mttb8bi7g36246",
-        ""
-      ]
+        "",
+        "lm_mttb8bi7g36246"
+      ],
+      "chosen": true
     },
     "connect": {
       "myDeviceId": null,
@@ -302878,11 +302892,10 @@
       {
         "id": "usa",
         "name": "USA"
-      },
-      {
-        "id": "rg_mv53gmc4tjm0",
-        "name": "X"
       }
+    ],
+    "deletedRegions": [
+      "rg_mv53gmc4tjm0"
     ]
   }
 }
